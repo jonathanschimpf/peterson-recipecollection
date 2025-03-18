@@ -1,0 +1,44 @@
+[
+    {
+        "category": "Appetizers",
+        "recipe_name": "Artichoke Dip",
+        "image_path": "/scan-content/Peterson Recipe Collection Scans/Appetizers - Artichoke Dip - Betsy Pearson.jpg",
+        "text_path": "/scan-content/Peterson Recipe Collection Scans - txt files/Appetizers - Artichoke Dip - Betsy Pearson.txt"
+    },
+    {
+        "category": "Appetizers",
+        "recipe_name": "Beer Dip",
+        "image_path": "/scan-content/Peterson Recipe Collection Scans/Appetizers - Beer Dip.jpg",
+        "text_path": "/scan-content/Peterson Recipe Collection Scans - txt files/Appetizers - Beer Dip.txt"
+    },
+    {
+        "category": "Appetizers",
+        "recipe_name": "Crab N Cheese",
+        "image_path": "/scan-content/Peterson Recipe Collection Scans/Appetizers - Crab N Cheese.jpg",
+        "text_path": "/scan-content/Peterson Recipe Collection Scans - txt files/Appetizers - Crab N Cheese.txt"
+    },
+    {
+        "category": "Appetizers",
+        "recipe_name": "Crab and Shrimp Mousse",
+        "image_path": "/scan-content/Peterson Recipe Collection Scans/Appetizers - Crab and Shrimp Mousse - Hilde Peterson.jpg",
+        "text_path": "/scan-content/Peterson Recipe Collection Scans - txt files/Appetizers - Crab and Shrimp Mousse - Hilde Peterson.txt"
+    },
+    {
+        "category": "Appetizers",
+        "recipe_name": "Creamy Pepper Dip",
+        "image_path": "/scan-content/Peterson Recipe Collection Scans/Appetizers - Creamy Pepper Dip.jpg",
+        "text_path": "/scan-content/Peterson Recipe Collection Scans - txt files/Appetizers - Creamy Pepper Dip.txt"
+    },
+    {
+        "category": "Appetizers",
+        "recipe_name": "Debbie's Appetizer Trio",
+        "image_path": "/scan-content/Peterson Recipe Collection Scans/Appetizers - Debbie's Appetizer Trio - Debbie.jpg",
+        "text_path": "/scan-content/Peterson Recipe Collection Scans - txt files/Appetizers - Debbie's Appetizer Trio - Debbie.txt"
+    },
+    {
+        "category": "Appetizers",
+        "recipe_name": "Dill Crackers",
+        "image_path": "/scan-content/Peterson Recipe Collection Scans/Appetizers - Dill Crackers - Hilde Peterson.jpg",
+        "text_path": "/scan-content/Peterson Recipe Collection Scans - txt files/Appetizers - Dill Crackers - Hilde Peterson.txt"
+    }
+]
