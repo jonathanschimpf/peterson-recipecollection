@@ -1,0 +1,2 @@
+<!-- SLOT: THIS WILL LOAD THE PAGE CONTENT -->
+<slot />

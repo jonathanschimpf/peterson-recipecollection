@@ -1,0 +1,9 @@
+Béarnaise Sauce makes about 2/3 c
+
+1/2 c Homemade mayonnaise
+1 Tbsp minced shallots
+2 tsp chopped fresh tarragon, or 1 tsp dried tarragon
+1 tsp tarragon or red wine vinegar
+1/8 tsp freshly ground white pepper
+
+Combine the mayonnaise, shallots, tarragon, vinegar, and pepper in a small bowl. Cover and let stand at room temperature to blend the flavors, at least 1 hour. Serve at room temperature.

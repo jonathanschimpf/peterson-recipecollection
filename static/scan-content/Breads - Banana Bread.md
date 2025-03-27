@@ -1,0 +1,13 @@
+½ cup shortening
+½ cup sugar
+2 eggs
+1 ¾ cups flour
+1 tsp baking powder
+½ tsp baking soda
+½ tsp salt
+1 cup mashed ripe banana (2 LARGE)
+½ cup chopped walnuts (I didn’t add, as many folks are allergic to these)
+
+
+Makes 1 loaf. Bake at 350 degrees for 45 minutes. I used a glass pan and it got pretty dark, I should’ve used a metal bread pan.
+

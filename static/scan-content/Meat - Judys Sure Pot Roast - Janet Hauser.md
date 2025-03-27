@@ -1,0 +1,16 @@
+Hilde
+_____
+
+Judy’s Sure Pot Roast
+BARKER
+
+IN CORNING-WARE 9 ½ X 15 PAN
+
+3-4 # POT ROAST (RAW + UNBROWNED)
+1 beef bullion cube + 1 C hot water
+1 can campbell’s CREAM MUSHROOM SOUP
+1 C RED-WINE + 1 PKG. DRY ONION SOUP
+
+ROAST ALL TOGETHER IN FOIL COVERED PAN at 325° about 3 HOURS
+
+last hour ADD FRESH CUT UP CARROTS + POTATOES (if CUT SMALL = ½ hr.)

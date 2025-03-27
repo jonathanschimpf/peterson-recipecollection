@@ -1,0 +1,22 @@
+Bubba's Black Bean Salsa
+Gene Villiva
+
+Servings: 1
+
+2 15 oz cans black beans, rinsed and drained
+1 17 oz can corn, drained
+2 large tomatoes, chopped and seeded
+1 large avocado, chopped
+1 purple onion, chopped
+1/4 cup cilantro, chopped
+3 tablespoons lime juice (or 4)
+2 tablespoons olive oil
+1 tablespoon balsamic vinegar
+1 teaspoon salt
+1/4 teaspoon pepper
+
+GARNISH
+avocado slices and cilantro
+
+Combine first 11 ingredients, cover and chill.
+Garnish if desired with avocado and cilantro.

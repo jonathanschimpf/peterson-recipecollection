@@ -1,0 +1,11 @@
+Mashed Potatoes
+
+2# Idaho Russet Potatoes (contains most starch of potato varieties)
+Boil in skins whole for 25-30 min.
+Peel while hot.
+Mash w/masher or ricer while hot
+Melt 1 stick butter and mix w/mashed potatoes to coat
+
+Optional: dry roast 1 head garlic until soft--mash in w/potatoes
+Heat Half 'n Half and mix into mashed potatoes
+Salt and pepper to taste

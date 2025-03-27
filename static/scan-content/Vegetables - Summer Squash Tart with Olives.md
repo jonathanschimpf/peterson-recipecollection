@@ -1,0 +1,25 @@
+SUMMER SQUASH TART WITH OLIVES
+
+SUMMER SQUASH TART WITH OLIVES
+PREP TIME: 30 MIN. TOTAL TIME: 55 MIN.
+SERVES 4
+
+Ingredients:
+
+3 tablespoons coarsely chopped fresh flat-leaf parsley
+2 tablespoons coarsely chopped fresh oregano, plus sprigs for garnish
+1 tablespoon coarsely chopped fresh thyme
+1 garlic clove, minced
+¼ cup extra-virgin olive oil
+Coarse salt and freshly ground pepper
+2 small zucchini, cut into ⅛-inch-thick rounds
+2 small yellow summer squash, cut into ⅛-inch-thick rounds
+6 sheets phyllo dough (each 12 by 17 inches), thawed if frozen
+3 tablespoons unsalted butter, melted
+½ cup pitted Kalamata olives
+
+(1) Preheat oven to 375°. Stir together herbs, garlic, and 3 tablespoons oil; season with salt and pepper. Toss zucchini and squash with 1 tablespoon oil in a separate bowl; season with salt and pepper.
+
+(2) Unfold dough; cover each sheet with a clean, slightly damp kitchen towel. Brush a rimmed baking sheet with butter. Press 1 sheet of dough into the baking sheet. Lightly brush dough with butter. Repeat, layering remaining 5 sheets of dough and brushing each with butter.
+
+(3) Spread herb mixture over dough. Spread zucchini and squash on top; top with olives. Bake until edges are browned, 25 to 30 minutes. Let cool slightly. Cut into 6 pieces; garnish with oregano. Leftover pieces can be refrigerated in an airtight container for up to 1 day.

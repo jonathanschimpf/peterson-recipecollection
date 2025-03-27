@@ -1,0 +1,7 @@
+Heavenly Potatoes
+
+Cook 7 large baking potatoes in a small amount of water till tender. Drain and cool thoroughly.
+
+Grate half of the cooled and peeled potatoes into a large baking dish. Grate a large onion over all. Grate rest of potatoes over the onion.
+
+Mix 1 pint of half and half with one stick melted butter and 1 tsp. salt. Pour over potatoes filling almost to the top. Sprinkle with paprika. Bake at 350 till bubbly and brown. The longer the better.

@@ -1,0 +1,10 @@
+Homemade Cocktail Sauce makes about 1 1/4 c
+
+1 c prepared American style chili sauce
+1 small celery rib with leaves, minced
+1 Tbsp prepared horseradish
+1 Tbsp fresh lemon juice
+1 Tbsp finely chopped fresh parsley
+1 Tbsp vodka or gin (optional)
+
+1. In a small bowl, combine the chili sauce, celery, horseradish, lemon juice, parsley, and optional vodka. Cover and let stand for 1 hour for the flavors to blend. Serve at room temperature.

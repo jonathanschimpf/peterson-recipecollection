@@ -1,0 +1,11 @@
+Hot Cranberry Punch
+
+In a large kettle, combine a
+32-ounce bottle of cranberry juice,
+2 cups orange juice, ½ cup of
+lemon juice, ½ cup lime juice,
+5 whole cloves and 2 cinnamon
+sticks. Simmer 15 minutes. Just before
+serving, remove spices and add a
+32-ounce bottle of gingerale.
+Heat through.

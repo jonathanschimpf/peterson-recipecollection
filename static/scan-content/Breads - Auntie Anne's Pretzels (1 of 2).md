@@ -1,0 +1,29 @@
+1 ½ cups - warm water
+1 ⅛ teaspoons - active dry yeast (1 ½ packets)
+2 tablespoons - brown sugar
+1 ⅛ teaspoons - salt
+1 cup - bread flour
+3 cups - regular flour
+2 cups - warm water
+2 tablespoons - baking soda
+To taste - coarse salt
+2–4 tablespoons - butter (melted)
+
+
+1. Combine 1 ½ cups warm water, yeast, and brown sugar in a large mixing bowl. Stir until yeast is dissolved. Let sit for about 5 minutes until frothy.
+
+2. Add salt, bread flour, and regular flour to the yeast mixture. Knead the dough until smooth and elastic.
+
+3. Cover dough and let it rise for 30 minutes in a warm place.
+
+4. Preheat oven to 450°F. Line baking sheets with parchment paper.
+
+5. In a large bowl, dissolve baking soda in 2 cups of warm water.
+
+6. Divide dough into 12 pieces. Roll each piece into a rope and shape into pretzels.
+
+7. Dip each pretzel into the baking soda solution, then place on the prepared baking sheet. Sprinkle with coarse salt.
+
+8. Bake for 8–10 minutes or until golden brown.
+
+9. Brush with melted butter immediately after baking.
