@@ -1,6 +1,9 @@
 <script lang="ts">
 	export let isOpen = false;
-	export let close: () => void;
+	export let close: () => void = () => {};
+	export let imageUrl: string;
+
+	let zoomed = false;
 </script>
 
 {#if isOpen}
@@ -15,6 +18,17 @@
 			on:keydown={(e) => (e.key === 'Escape' || e.key === 'Enter') && close()}
 		>
 			<button class="close-btn" type="button" aria-label="Close modal" on:click={close}> × </button>
+
+			<!-- 🟢 FIX: WRAPPED ZOOMABLE IMAGE IN BUTTON FOR a11y -->
+			<button
+				type="button"
+				class="image-zoom-btn"
+				aria-label="Toggle zoom"
+				on:click={() => (zoomed = !zoomed)}
+			>
+				<img src={imageUrl} alt="Full scanned recipe" class="full-scan {zoomed ? 'zoomed' : ''}" />
+			</button>
+
 			<slot />
 		</div>
 	</div>
@@ -35,8 +49,8 @@
 		background: white;
 		padding: 1rem;
 		border-radius: 8px;
-		max-width: 90%;
-		max-height: 90%;
+		max-width: 65vw;
+		max-height: 90vh;
 		overflow: auto;
 		position: relative;
 		box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
@@ -58,5 +72,33 @@
 	.close-btn:hover,
 	.close-btn:active {
 		color: lightgrey;
+	}
+
+	.image-zoom-btn {
+		all: unset;
+		cursor: pointer;
+		display: block;
+		width: 100%;
+	}
+
+	.full-scan {
+		max-width: 100%;
+		height: auto;
+		display: block;
+		border-radius: 4px;
+		box-shadow: 0 0 12px rgba(0, 0, 0, 0.2);
+		cursor: zoom-in;
+		user-select: none;
+		transition: transform 0.25s ease;
+		margin: 0 auto;
+	}
+
+	.zoomed {
+		cursor: grab;
+		transform: scale(2);
+	}
+
+	.zoomed:active {
+		cursor: grabbing;
 	}
 </style>

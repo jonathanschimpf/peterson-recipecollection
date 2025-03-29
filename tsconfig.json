@@ -9,6 +9,7 @@
 		"target": "es2020",
 		"module": "esnext",
 		"moduleResolution": "node",
+		"resolveJsonModule": true,
 		"baseUrl": ".",
 		"paths": {
 			"$lib": [
@@ -16,6 +17,12 @@
 			],
 			"$lib/*": [
 				"src/lib/*"
+			],
+			"$data": [
+				"src/data"
+			],
+			"$data/*": [
+				"src/data/*"
 			],
 			"*": [
 				"src/types/*"
