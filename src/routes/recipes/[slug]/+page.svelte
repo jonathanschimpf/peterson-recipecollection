@@ -1,116 +1,93 @@
 <script lang="ts">
-	import { marked } from 'marked';
+	import { onMount } from 'svelte';
 	import ScanModal from '$lib/components/ScanModal.svelte';
+	import type { Recipe } from '../../../types/json';
 
-	export let data: {
-		slug: string;
-		recipeName: string;
-		markdown: string;
-		imageUrl: string;
-	};
+	export let data: { recipe: Recipe; text: string };
 
-	let isModalOpen = false;
+	const { recipe, text } = data;
+	let showModal = false;
 
-	const openModal = () => {
-		isModalOpen = true;
-	};
+	// 🧭 SCROLL TO TOP ON PAGE LOAD
+	onMount(() => {
+		window.scrollTo(0, 0);
+	});
 
-	const closeModal = () => {
-		isModalOpen = false;
-	};
+	// 🔙 BACK LINK FROM CATEGORY
+	const backLink = `/categories/${recipe.category.toLowerCase().replace(/\s+/g, '-')}`;
 </script>
 
-<!-- BACK BUTTON -->
-<a href="/categories/appetizers" class="back-arrow">←</a>
+<!-- 🔙 BACK ARROW -->
+<a href={backLink} class="back-link">←</a>
 
-<!-- PAGE CONTENT WRAPPER -->
-<div class="recipe-page">
-	<!-- RECIPE TITLE -->
-	<h1 class="recipe-title">{data.recipeName}</h1>
+<!-- 📝 TITLE -->
+<h1 class="recipe-title">{recipe.recipe_name}</h1>
 
-	<!-- IMAGE SCAN (TRIGGERS MODAL) -->
-	<div class="image-wrapper">
-		<button class="image-button" on:click={openModal} aria-label="Open full recipe scan">
-			<img src={data.imageUrl} alt="Scanned recipe" class="recipe-image" />
-		</button>
-	</div>
+<!-- 🖼️ SCAN THUMBNAIL (TRIGGERS MODAL) -->
+<div class="scan-wrapper">
+	<button class="scan-button" on:click={() => (showModal = true)}>
+		<img src={recipe.image_path} alt="Recipe scan" class="scan-thumb" />
+	</button>
+</div>
 
-	<!-- MODAL -->
-	<ScanModal isOpen={isModalOpen} close={closeModal} imageUrl={data.imageUrl} />
-
-	<!-- TRANSCRIBED MARKDOWN -->
-	<div class="recipe-text">
-		{@html marked(data.markdown ?? '')}
+<!-- 📜 RECIPE TRANSCRIPTION -->
+<div class="markdown">
+	<div class="markdown-inner">
+		{@html text}
 	</div>
 </div>
 
+<!-- 🔍 MODAL IMAGE ZOOM -->
+<ScanModal imageUrl={recipe.image_path} isOpen={showModal} close={() => (showModal = false)} />
+
 <style>
-	.back-arrow {
+	.back-link {
+		font-size: 2rem;
 		text-decoration: none;
-		font-size: 24px;
-		font-weight: bold;
+		margin-left: 1rem;
 		color: black;
-		display: inline-block;
-		margin: 1rem;
-		transition: color 0.2s ease-in-out;
+		transition: color 0.2s ease;
 	}
-
-	.back-arrow:hover,
-	.back-arrow:active {
-		color: lightgrey;
-	}
-
-	.recipe-page {
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		padding: 1rem;
+	.back-link:hover {
+		color: grey;
 	}
 
 	.recipe-title {
 		text-align: center;
-		font-size: 2em;
-		font-weight: bold;
-		margin-bottom: 20px;
+		font-size: 2.5rem;
+		margin: 2rem 0 1rem;
 	}
 
-	.image-wrapper {
-		width: 100%;
+	.scan-wrapper {
 		display: flex;
 		justify-content: center;
-		margin-bottom: 2rem;
+		margin: 1.5rem 0;
 	}
 
-	.image-button {
-		all: unset;
-		cursor: pointer;
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		width: 100%;
-		max-width: 500px;
-	}
-
-	.recipe-image {
-		width: 100%;
-		height: auto;
-		display: block;
-		border-radius: 6px;
+	.scan-button {
+		background: none;
 		border: none;
-		box-shadow: 0 0 6px rgba(0, 0, 0, 0.05);
-		transition: box-shadow 0.2s ease-in-out;
+		padding: 0;
+		cursor: zoom-in;
 	}
 
-	.recipe-image:hover {
-		box-shadow: 0 0 12px rgba(0, 0, 0, 0.2);
+	.scan-thumb {
+		max-width: 65%;
+		height: auto;
+		border-radius: 12px;
+		box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+		transition: transform 0.2s ease;
 	}
 
-	.recipe-text {
+	.markdown {
+		max-width: 700px;
+		margin: 2rem auto;
+		padding: 0 1rem;
+		font-size: 1.125rem;
+		line-height: 1.6;
+	}
+
+	.markdown-inner {
 		text-align: center;
-		padding: 20px;
-		font-size: 1.2em;
-		line-height: 1.5;
-		max-width: 800px;
-		margin: 0 auto 80px;
 	}
 </style>

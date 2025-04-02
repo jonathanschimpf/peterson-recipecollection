@@ -985,12 +985,6 @@
     },
     {
         "category": "Salads and Dressings",
-        "recipe_name": "Japanese Napa Cabbage Salad",
-        "image_path": "/scan-content/Salads and Dressings - Japanese Napa Cabbage Salad.jpg",
-        "text_path": null
-    },
-    {
-        "category": "Salads and Dressings",
         "recipe_name": "Mediterranean Pasta Salad",
         "image_path": "/scan-content/Salads and Dressings - Mediterranean Pasta Salad.jpg",
         "text_path": "/scan-content/Salads and Dressings - Mediterranean Pasta Salad.md"

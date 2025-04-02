@@ -1,60 +1,43 @@
-import fs from 'fs';
+import { error } from '@sveltejs/kit';
+import recipeData from '$lib/data/recipe_data.json';
+import type { Recipe } from '../../../types/json';
+import { marked } from 'marked';
+import fs from 'fs/promises';
 import path from 'path';
-import type { PageServerLoad } from './$types';
-import recipeData from '../../../lib/data/recipe_data.json'; // ✅ RELATIVE FS-SAFE PATH
 
-export const load: PageServerLoad = async ({ params }) => {
-    const slug = params.slug;
-    console.log('🟣 Incoming slug:', slug);
+// SLUGIFY FUNCTION
+function slugify(str: string): string {
+    return str
+        .toLowerCase()
+        .replace(/[^a-z0-9 -]/g, '')
+        .replace(/\s+/g, '-')
+        .replace(/-+/g, '-');
+}
 
-    // MATCH RECIPE
-    const match = recipeData.find((r: any) =>
-        r.recipe_name.toLowerCase().replace(/\s+/g, '-') === slug
+export async function load({ params }) {
+    const requestedSlug = slugify(params.slug);
+
+    const recipe: Recipe | undefined = recipeData.find((r) =>
+        slugify(r.recipe_name) === requestedSlug
     );
 
-    if (!match || !match.text_path || !match.image_path) {
-        console.warn(`🔴 No valid recipe match or paths for slug: ${slug}`);
-        return {
-            status: 404,
-            body: { error: `No recipe or paths found for slug: ${slug}` }
-        };
+    if (!recipe) {
+        throw error(404, 'Recipe not found');
     }
 
-    // FILE PATHS
-    const basePath = 'static';
-    const mdFile = path.join(basePath, match.text_path);
-    const jpgFile = path.join(basePath, match.image_path);
-    const imageUrl = match.image_path;
-
-    if (!fs.existsSync(mdFile)) {
-        console.warn(`⚠️ Missing markdown: ${mdFile}`);
-        return {
-            status: 404,
-            body: { error: `Missing markdown for: ${slug}` }
-        };
+    // ✅ READ AND PARSE THE MARKDOWN FILE
+    const fullPath = path.join('static', recipe.text_path); // markdown path starts from /scan-content/
+    let text = '';
+    try {
+        const raw = await fs.readFile(fullPath, 'utf-8');
+        text = await marked.parse(raw); // ✅ AWAIT HERE
+    } catch (err) {
+        console.error(`Error reading markdown for ${recipe.recipe_name}:`, err);
+        text = '<p><em>No text transcription available.</em></p>';
     }
-
-    if (!fs.existsSync(jpgFile)) {
-        console.warn(`⚠️ Missing JPG scan: ${jpgFile}`);
-        return {
-            status: 404,
-            body: { error: `Missing JPG scan for: ${slug}` }
-        };
-    }
-
-    const markdown = fs.readFileSync(mdFile, 'utf-8');
-
-    console.log('✅ Matched:', {
-        slug,
-        recipe_name: match.recipe_name,
-        imageUrl,
-        mdFile
-    });
 
     return {
-        slug,
-        recipeName: match.recipe_name,
-        imageUrl,
-        markdown
+        recipe,
+        text
     };
-};
+}

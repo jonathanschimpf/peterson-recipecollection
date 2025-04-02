@@ -1,4 +1,6 @@
 <script lang="ts">
+	import { fade } from 'svelte/transition';
+
 	export let isOpen = false;
 	export let close: () => void = () => {};
 	export let imageUrl: string;
@@ -7,7 +9,13 @@
 </script>
 
 {#if isOpen}
-	<div class="modal-backdrop" role="presentation" aria-hidden="true" on:click={close}>
+	<div
+		class="modal-backdrop"
+		role="presentation"
+		aria-hidden="true"
+		on:click={close}
+		transition:fade|local={{ duration: 25 }}
+	>
 		<div
 			class="modal-content"
 			role="dialog"
@@ -16,10 +24,11 @@
 			tabindex="0"
 			on:click|stopPropagation
 			on:keydown={(e) => (e.key === 'Escape' || e.key === 'Enter') && close()}
+			transition:fade|local={{ duration: 25 }}
 		>
 			<button class="close-btn" type="button" aria-label="Close modal" on:click={close}> × </button>
 
-			<!-- 🟢 FIX: WRAPPED ZOOMABLE IMAGE IN BUTTON FOR a11y -->
+			<!-- 🟢 WRAPPED ZOOMABLE IMAGE IN BUTTON FOR a11y -->
 			<button
 				type="button"
 				class="image-zoom-btn"

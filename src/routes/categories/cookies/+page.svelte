@@ -13,6 +13,9 @@
 	});
 </script>
 
+<!-- ← BACK LINK-->
+<a href="/categories" class="back-link fade-in">←</a>
+
 {#if loaded}
 	<div class="fade-in">
 		<div class="staycentered">
@@ -63,6 +66,22 @@
 		to {
 			opacity: 1;
 		}
+	}
+
+	/* ← BACK LINK */
+	.back-link {
+		font-size: 2rem;
+		text-decoration: none;
+		margin-left: 1rem;
+		color: black;
+		transition: color 0.2s ease;
+		display: inline; /* FIXES THE BLOCK BEHAVIOR */
+		padding: 0; /* REMOVE EXTRA SPACE */
+		background: transparent; /* PREVENT HOVER FILL-IN */
+	}
+	.back-link:hover {
+		color: grey;
+		background: transparent; /* PREVENT HOVER FILL-IN */
 	}
 
 	/* PAGE CONTAINER CENTERED */
