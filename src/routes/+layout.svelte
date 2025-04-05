@@ -1,12 +1,24 @@
 <script>
 	import { page } from '$app/stores';
+	import { searchTerm } from '$lib/stores/search';
+	import { afterNavigate } from '$app/navigation';
+	import SearchBar from '$lib/components/SearchBar.svelte';
+	import SearchResults from '$lib/components/SearchResults.svelte';
+
+	// 🚨 CLEAR SEARCH ON PAGE NAVIGATION
+	afterNavigate(() => {
+		searchTerm.set('');
+		scrollTo(0, 0);
+	});
 </script>
 
-<!-- EVER-PRESENT NAVIGATION -->
+<!-- NAVIGATION BAR -->
 <nav class="navbar">
 	<a href="/" class="title"> Peterson Recipe Collection </a>
 	<div class="nav-container">
-		<input type="text" class="search" placeholder="Search..." />
+		<!-- 🔍 GLOBAL SEARCH BAR -->
+		<SearchBar />
+
 		<div class="nav-links">
 			<a href="/categories" class:active={$page.url.pathname === '/categories'}>Categories</a>
 			<a href="/about" class:active={$page.url.pathname === '/about'}>About</a>
@@ -14,17 +26,23 @@
 	</div>
 </nav>
 
-<!-- IMAGE ONLY ON HOME PAGE -->
-{#if $page.url.pathname === '/'}
+<!-- 📷 HOME PAGE IMAGE (ONLY IF NO SEARCH) -->
+{#if $page.url.pathname === '/' && $searchTerm.trim().length === 0}
 	<div class="image-container">
 		<img src="/photographs/kitchen-tall.png" alt="Kitchen Setup" />
 	</div>
 {/if}
 
-<!-- SLOT: THIS WILL RENDER DIFFERENT PAGES -->
-<slot />
+<!-- 🧠 SLOT: PAGE CONTENT (ONLY IF NO SEARCH TERM) -->
+{#if $searchTerm.trim().length === 0}
+	<slot />
+{/if}
 
-<!-- STYLES -->
+<!-- 🔥 GLOBAL LIVE SEARCH RESULTS (TAKES OVER PAGE) -->
+{#if $searchTerm.trim().length > 0}
+	<SearchResults />
+{/if}
+
 <style>
 	.navbar {
 		display: flex;
@@ -50,20 +68,6 @@
 		align-items: center;
 	}
 
-	.search {
-		padding: 7px;
-		border: 1px solid #ccc;
-		border-radius: 5px;
-		font-size: 12px;
-		outline: none;
-		box-sizing: border-box;
-	}
-
-	.search:focus {
-		border: 2px solid #999;
-		padding: 6px;
-	}
-
 	.nav-links {
 		display: flex;
 		gap: 15px;
@@ -83,10 +87,6 @@
 		text-decoration-thickness: 2px;
 	}
 
-	/* IMAGE STYLING */
-	/* img {
-		border-radius: 60px;
-	} */
 	.image-container {
 		display: flex;
 		justify-content: center;
@@ -95,12 +95,11 @@
 
 	.image-container img {
 		width: 100%;
-		max-width: 450px; /* ENSURES PROPER SIZE ON DESKTOP */
+		max-width: 450px;
 		height: auto;
 		border-radius: 15px;
 	}
 
-	/* MOBILE STYLING */
 	@media (max-width: 768px) {
 		.image-container img {
 			width: 90%;

@@ -72,7 +72,7 @@
 	}
 
 	.scan-thumb {
-		max-width: 65%;
+		max-width: 50%;
 		height: auto;
 		border-radius: 12px;
 		box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
@@ -89,5 +89,18 @@
 
 	.markdown-inner {
 		text-align: center;
+	}
+
+	/* ====== MEDIA QUERIES FOR RESPONSIVE SCAN SIZING ====== */
+	@media (max-width: 768px) {
+		.scan-thumb {
+			max-width: 60%;
+		}
+	}
+
+	@media (max-width: 480px) {
+		.scan-thumb {
+			max-width: 70%;
+		}
 	}
 </style>

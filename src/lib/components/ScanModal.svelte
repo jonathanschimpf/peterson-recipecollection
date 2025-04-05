@@ -58,11 +58,18 @@
 		background: white;
 		padding: 1rem;
 		border-radius: 8px;
-		max-width: 65vw;
+		max-width: 65vw; /* DESKTOP DEFAULT */
 		max-height: 90vh;
 		overflow: auto;
 		position: relative;
 		box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	}
+
+	/* 🧠 MOBILE OVERRIDE: INCREASE MAX-WIDTH */
+	@media (max-width: 768px) {
+		.modal-content {
+			max-width: 95vw;
+		}
 	}
 
 	.close-btn {

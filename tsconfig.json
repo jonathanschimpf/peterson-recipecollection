@@ -24,7 +24,10 @@
 			"$data/*": [
 				"src/data/*"
 			],
-			"*": [
+			"$types": [
+				"src/types"
+			],
+			"$types/*": [
 				"src/types/*"
 			]
 		}

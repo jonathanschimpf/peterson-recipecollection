@@ -48,7 +48,7 @@
 				class="category-card"
 			>
 				<div class="image-wrapper">
-					<img src={category.image} alt={category.name} />
+					<img src={category.image} alt={category.name} width="500" height="333" loading="lazy" />
 					<div class="overlay"></div>
 					<span class="category-title">{category.name}</span>
 				</div>
