@@ -86,15 +86,24 @@
 		color: #333;
 		font-weight: normal;
 		transition: all 0.2s ease-in-out;
+		position: relative;
 	}
 
-	.nav-links a.active {
-		text-decoration: underline;
-		color: #666;
-		text-underline-offset: 3px;
-		text-decoration-thickness: 2px;
+	/* ACTIVE LINK: olive underline only */
+	.nav-links a.active::after {
+		content: '';
+		position: absolute;
+		left: 0;
+		bottom: -2px;
+		width: 100%;
+		height: 2px;
+		background-color: olive;
 	}
 
+	/* KEEP DEFAULT HOVER COLOR SHIFT (OPTIONAL) */
+	.nav-links a:hover {
+		color: olive;
+	}
 	.image-container {
 		display: flex;
 		justify-content: center;

@@ -1,28 +1,11 @@
-POTATOES GNOCCHI
-6
+Ingredients: 
 
-INGREDIENTS
-4 POTATOES, WATER, ½ TSP SALT,
-1 STICK BUTTER, ½ CUP FLOUR,
-2 EGGS, ¾ CUP PARMESAN CHEESE,
-CHOPPED PARSLEY,
+4 potatoes  •  Water  •  ½ tsp salt  •  1 stick butter  •  ½ cup flour  •  2 eggs ¾ cup parmesan cheese  •  Chopped parsley
 
-METHOD - 2 HRS. BEFORE SERVING
-BOIL POTATOES IN 2 QT. SAUCEPAN,
-RESERVE ½ CUP LIQUID, HEAT
-LIQUID, SALT, &, 4 TBSP BUTTER.
-REMOVE FROM HEAT. STIR IN ALL
-FLOUR, BEAT IN EGGS, MASH POTATOES,
-& [¼ CUP] PARMESAN CHEESE. CHILL 30 MIN.
+Method: 
 
-SHAPE 1 TBSP. PORTIONS INTO 2"
-DIA. OVALS. IN 12" SKILLET HEAT
-1" WATER TO BOIL. SIMMER
-GNOCCHI 5 MIN TILL TENDER
+2 hrs. before serving
+Boil potatoes in 2 qt. saucepan  •  Reserve ½ cup liquid  •  Heat
+Liquid, salt, &, 4 tbsp butter  •  Remove from heat  •  Stir in all flour  •  Beat in eggs  •  Mash potatoes & [¼ cup] parmesan cheese.  •  Chill 30 min.
 
-& THEY RISE, DRAIN. OVEN AT
-350°F. PLACE IN BAKING DISH,
-MELT REMAINING BUTTER. DRIZZLE
-ON TOP. SPRINKLE REMAINING
-PARMESAN CHEESE. BAKE 20 MIN,
-GARNISH WITH PARSLEY
+Shape 1 tbsp. portions into 2" Dia. ovals in 12" skillet   •  Heat 1" water to boil.  •  Simmer gnocchi 5 min till tender & they rise.  •  Drain. oven at 350°f  •  Place in baking dish. Melt remaining butter.  •  Drizzle on top.   •  Sprinkle remaining Parmesan cheese.  •  Bake 20 min.  •  Garnish with parsley.

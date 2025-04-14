@@ -1,16 +1,7 @@
-SHREDDED CABBAGE Omi
+Shred (1) head of cabbage
 
-SHRED (1) HEAD OF CABBAGE
+½ c. vinegar  •   ½ c. water  •  3 tsp. salt  •  3 tbsp. oil  •  2 tsp. sugar  •  (1) small onion - chopped  •  (1) small apple - chopped
 
-→ ½ C. VINEGAR
-→ ½ C. WATER
-→ 3 tsp. SALT
-→ 3 TBSP. OIL
-→ 2 tsp. SUGAR
-→ (1) SMALL ONION - CHOPPED
-→ (1) SMALL APPLE - CHOPPED
+→ Simmer 2 minutes.
 
-→ SIMMER 2 MINUTES
-
-ADD CABBAGE, MED. HEAT, 7-8 MINUTES
-OR UNTIL STILL SOMEWHAT CRISPY
+Add cabbage, medium heat, 7-8 minutes or until still somewhat crispy.

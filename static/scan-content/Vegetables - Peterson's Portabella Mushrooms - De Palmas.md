@@ -1,10 +1,6 @@
-PETERSONS 
-PORTABELLA MUSHROOMS
+Sauté following ingredients: 
 
-SAUTE FOLLOWING INGREDIENTS: ADD IN
-ORDER LISTED. OLIVE OIL, GARLIC (LOTS),
-MUSHROOMS, GR. PEPPERS, RED PEPPERS,
-TOMATOES, BALSAMIC VINEGAR, GRATED
-CHEESE
+Add in order listed → Olive oil  •  Garlic (lots)  •  Mushrooms  •  Green peppers  •  Red peppers  •  Tomatoes  •  Balsamic vinegar  •  Grated Cheese
 
-DE PALMAS
+
+De Palmas

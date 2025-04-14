@@ -1,26 +1,17 @@
-ZUCCHINI CANOES
+Ingredients:
 
-INGREDIENTS:
-CHOPPED ZUCCHINI
-CHOPPED ONIONS
-CHOPPED MUSHROOMS
-GARLIC
-RED PEPPERS
-SHREDDED CHEESE
-COOKED RICE
-LEMON JUICE
-CHOPPED PARSLEY
+Chopped zucchini  •  Chopped onions  •  Chopped mushrooms •  Chopped Garlic  •  Red peppers  •  Shredded cheese  •  Cooked rice  •  Lemon juice  •  Chopped parsley
 
-INSTRUCTIONS:
+Instructions:
 
-1. SAUTE ONIONS, ZUCCHINI & MUSHROOMS.
+1 - Sauté onions, zucchini & mushrooms.
 
-2. ADD RICE, CHEESE, LEMON JUICE.
+2 - Add rice, cheese, lemon juice.
 
-3. FILL SCOOPED-OUT ZUCCHINI BOATS.
+3 - Fill scooped-out zucchini boats.
 
-4. BAKE AT 350°F.
+4 - Bake at 350°f.
 
-5. FOR ? PURÉE RED PEPPERS & SALT. POUR PURÉE OVER BAKED BOATS.
+5 - Red peppers & salt for the purée. Pour purée over baked boats.
 
-6. TOP WITH CHOPPED PARSLEY.
+6 - Top with chopped parsley.
