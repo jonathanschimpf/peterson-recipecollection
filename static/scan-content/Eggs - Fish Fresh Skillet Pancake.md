@@ -1,5 +1,2 @@
-Skillet Pancake
-4
-
-IN BLENDER (HI SPEED MIXER)
-MIX 3 EGGS, 1/2 C. MILK, 1/3 C. FLOUR, 1/4 TSP. SALT. LET BATTER STAND 1 HR. PEEL, CORE & SLICE THIN 2 APPLES. SPRINKLE WITH JUICE OF 1/2 LEMON. HEAT 2 TBSP. BUTTER IN 12" SKILLET WHEN BUBBLY, POUR IN BATTER. COVER WITH APPLE SLICES & BAKE AT 375F FOR 10-15 MIN. DOT WITH 2 TBSP. BUTTER AND SPRINKLE WITH 1/2 TSP CINNAMON SUGAR MIXED. RETURN TO OVEN FOR 2 MIN. WITH SUGAR 1/4 CUP	
+In blender (hi speed mixer)
+Mix 3 eggs, 1/2 c. milk, 1/3 c. flour, 1/4 tsp. salt. let batter stand 1 hr. peel, core & slice thin 2 apples. sprinkle with juice of 1/2 lemon. heat 2 tbsp. butter in 12" skillet when bubbly, pour in batter. cover with apple slices & bake at 375f for 10-15 min. dot with 2 tbsp. butter and sprinkle with 1/2 tsp cinnamon sugar mixed. return to oven for 2 min. with sugar 1/4 cup	

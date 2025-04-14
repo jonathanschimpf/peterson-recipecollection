@@ -1,18 +1,11 @@
-CHICKEN BREASTS IN SWEET/SOUR DRESSING
+Dressing (in saucepan)  •  1/3 cup sugar  •  1/2 tsp dry mustard  •  Dash salt  •  1/2 cup cider vinegar  •  1 cup salad oil
 
-DRESSING (IN SAUCEPAN)
-1/3 CUP SUGAR
-1/2 TSP DRY MUSTARD
-DASH SALT
-1/2 CUP CIDER VINEGAR
-1 CUP SALAD OIL
+Cook above until sugar is dissolved
 
-COOK ABOVE UNTIL SUGAR IS DISSOLVED
+Add 1 tsp celery seed
+Dash onion flakes
 
-ADD 1 TSP CELERY SEED
-DASH ONION FLAKES
-
-SAUTE CHIX BREASTS IN BUTTER
-CUT INTO PIECES
-PLACE ON BED OF SPINACH LEAVES W/ MANDARIN ORANGES
-TOP W/ DRESSING
+Saute chix breasts in butter.
+Cut into pieces.
+Place on bed of spinach leaves w/ mandarin oranges.
+Top w/ dressing.

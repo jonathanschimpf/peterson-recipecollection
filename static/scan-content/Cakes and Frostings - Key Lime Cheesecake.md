@@ -1,26 +1,17 @@
 Crust:
-3 ½ cups - graham cracker crumbs
-¼ cup - sugar
-6 tablespoons - melted butter
+3 ½ cups - graham cracker crumbs  •  ¼ cup - sugar  •  6 tablespoons - melted butter
 
 Blend together and line a 10" springform pan. Bake at 350 degrees  for 5 minutes.
 
 
 Filling:
-1 teaspoon - grated lime rind
-3 tablespoons - Key Lime juice
-3 (8-ounce) - cream cheese packages, at room temperature
-3 - eggs
-1 ⅓ cups - sugar
-1 teaspoon - vanilla
+1 teaspoon - grated lime rind  •  3 tablespoons - Key Lime juice  •  3 (8-ounce) - cream cheese packages, at room temperature  •  3 - eggs  •  1 ⅓ cups - sugar  •  1 teaspoon - vanilla
 
 Beat cream cheese until smooth. Add 1 egg at a time, beating and blending until smooth. Add sugar, lime juice, rind, and vanilla. Pour into prepared crust and bake at 350 degrees for 35 minutes. (You may bake it a few more minutes if the center has not set.)
 
 
-Topping:
-1 pint - sour cream
-3 tablespoons - sugar
-1 teaspoon - vanilla
+Topping: 
+1 pint - sour cream  •  3 tablespoons - sugar  •  1 teaspoon - vanilla
 
 Blend together and set in warm place. After cheesecake has baked, spoon on mixture and return to  oven for 12 minutes at 350 degrees. Cool and garnish with lime slices.
 

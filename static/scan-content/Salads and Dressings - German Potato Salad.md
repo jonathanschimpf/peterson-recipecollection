@@ -1,17 +1,8 @@
-German Potato Salad
-Frau Simon
-
 Golden potatoes 5# bag
 Cook & slice
 
-* reduced fat Breakstone sour cream
-* Mayo Helman’s
-* Kraft miracle whip
-* equal amounts
+  •  Reduced fat Breakstone sour cream  •  Mayo Helman’s  •  Kraft miracle whip  •  Equal amounts
 
-Chop ½ reg. onion
-12 slices bacon—chop & brown
-pour off, grease
+Chop ½ reg. onion. 12 slices bacon — chop & brown. Pour off, grease
 
-dressing:
-sugar, vinegar, pepper, salt, put in with sour cream dressing
+Dressing: Sugar  •  Vinegar  •  Pepper  •  Salt  •  Put in with sour cream dressing

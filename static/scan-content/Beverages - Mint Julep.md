@@ -1,8 +1,4 @@
-Crushed ice
-8 leaves - mint
-1 ½ teaspoons - powdered sugar
-1 tablespoon - cold water
-2 ½ ounces - bourbon
+Crushed ice  •  8 leaves - mint  •  1 ½ teaspoons - powdered sugar  •  1 tablespoon - cold water  •  2 ½ ounces - bourbon
 
 
 Place the mint leaves in a tall glass with the powdered sugar and water.

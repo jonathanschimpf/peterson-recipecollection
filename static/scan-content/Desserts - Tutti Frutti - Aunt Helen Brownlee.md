@@ -1,12 +1,4 @@
-Tutti Frutti Lemon
-
-1 8¾ oz. can pineapple tidbits
-1 11 oz. can mandarin orange sections
-1 17 oz. can fruit cocktail
-½ cup flaked coconut
-2 Tbs lemon juice
-1 3¾ oz or 3⅝ oz. pkg. instant lemon pudding mix
-2 bananas
+1 8¾ oz. can pineapple tidbits  •  1 11 oz. can mandarin orange sections  •  1 17 oz. can fruit cocktail  •  ½ cup flaked coconut  •  2 Tbs lemon juice  •  1 3¾ oz or 3⅝ oz. pkg. instant lemon pudding mix  •  2 bananas
 
 Frozen whipped dessert topping (thawed)
 

@@ -1,44 +1,106 @@
 <script lang="ts">
 	import { fade } from 'svelte/transition';
+	import { onDestroy, tick } from 'svelte';
 
 	export let isOpen = false;
 	export let close: () => void = () => {};
 	export let imageUrl: string;
 
 	let zoomed = false;
+	let scrollContainer: HTMLDivElement | null = null;
+	let modalEl: HTMLDivElement | null = null;
+
+	// RESET ZOOM WHEN MODAL CLOSES
+	$: if (!isOpen) zoomed = false;
+
+	// TOGGLE BODY SCROLL LOCK
+	$: {
+		if (isOpen) {
+			document.body.classList.add('no-scroll');
+		} else {
+			document.body.classList.remove('no-scroll');
+		}
+	}
+	onDestroy(() => {
+		document.body.classList.remove('no-scroll');
+		if (modalEl) modalEl.inert = false;
+	});
+
+	// INERT MODAL WHEN CLOSED
+	$: if (modalEl) modalEl.inert = !isOpen;
+
+	// ZOOM HANDLER
+	async function toggleZoom() {
+		zoomed = !zoomed;
+		await tick();
+		if (scrollContainer && zoomed) {
+			const { scrollWidth, scrollHeight, clientWidth, clientHeight } = scrollContainer;
+			scrollContainer.scrollTo({
+				top: (scrollHeight - clientHeight) / 2,
+				left: (scrollWidth - clientWidth) / 2,
+				behavior: 'smooth'
+			});
+		}
+	}
+
+	// ESC CLOSE
+	function handleKeydown(e: KeyboardEvent) {
+		if (e.key === 'Escape') close();
+	}
+
+	// ZOOM VIA KEYBOARD
+	function handleImageKeydown(e: KeyboardEvent) {
+		if (e.key === 'Enter' || e.key === ' ') {
+			e.preventDefault();
+			toggleZoom();
+		}
+	}
 </script>
 
 {#if isOpen}
 	<div
 		class="modal-backdrop"
+		bind:this={modalEl}
 		role="presentation"
-		aria-hidden="true"
+		transition:fade={{ duration: 25 }}
 		on:click={close}
-		transition:fade|local={{ duration: 25 }}
+		on:keydown={handleKeydown}
 	>
 		<div
 			class="modal-content"
 			role="dialog"
 			aria-modal="true"
-			aria-label="Modal content"
+			aria-label="Scanned recipe"
 			tabindex="0"
 			on:click|stopPropagation
-			on:keydown={(e) => (e.key === 'Escape' || e.key === 'Enter') && close()}
-			transition:fade|local={{ duration: 25 }}
+			transition:fade={{ duration: 25 }}
 		>
-			<button class="close-btn" type="button" aria-label="Close modal" on:click={close}> × </button>
+			<!-- ⨉ CLOSE BUTTON -->
+			<button class="close-btn" aria-label="Close modal" on:click={close}>×</button>
 
-			<!-- 🟢 WRAPPED ZOOMABLE IMAGE IN BUTTON FOR a11y -->
-			<button
-				type="button"
-				class="image-zoom-btn"
-				aria-label="Toggle zoom"
-				on:click={() => (zoomed = !zoomed)}
+			<!-- 📜 SCROLLABLE ZOOM CONTAINER -->
+			<div
+				class="scroll-container"
+				bind:this={scrollContainer}
+				aria-label="Zoomable scanned recipe"
 			>
-				<img src={imageUrl} alt="Full scanned recipe" class="full-scan {zoomed ? 'zoomed' : ''}" />
-			</button>
-
-			<slot />
+				<div
+					class="image-wrapper"
+					role="button"
+					tabindex="0"
+					aria-pressed={zoomed}
+					aria-label={zoomed ? 'Zoom out' : 'Zoom in'}
+					on:click={toggleZoom}
+					on:keydown={handleImageKeydown}
+				>
+					<img
+						src={imageUrl}
+						alt="Scanned recipe"
+						draggable="false"
+						class="scan-img {zoomed ? 'zoomed' : ''}"
+					/>
+				</div>
+			</div>
 		</div>
 	</div>
 {/if}
@@ -52,24 +114,41 @@
 		justify-content: center;
 		align-items: center;
 		z-index: 1000;
+		padding: 2rem;
 	}
 
 	.modal-content {
-		background: white;
-		padding: 1rem;
-		border-radius: 8px;
-		max-width: 65vw; /* DESKTOP DEFAULT */
-		max-height: 90vh;
-		overflow: auto;
 		position: relative;
+		background: white;
+		border-radius: 8px;
 		box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+		max-width: 70vw;
+		max-height: 70vh;
+		overflow: hidden;
 	}
 
-	/* 🧠 MOBILE OVERRIDE: INCREASE MAX-WIDTH */
 	@media (max-width: 768px) {
 		.modal-content {
-			max-width: 95vw;
+			max-width: 98vw !important;
+			max-height: 98vh !important;
 		}
+	}
+
+	.scroll-container {
+		max-width: 65vw;
+		max-height: 65vh;
+		overflow: auto;
+		cursor: grab;
+		border-radius: 4px;
+	}
+	@media (max-width: 768px) {
+		.scroll-container {
+			max-width: 98vw !important;
+			max-height: 98vh !important;
+		}
+	}
+	.scroll-container:active {
+		cursor: grabbing;
 	}
 
 	.close-btn {
@@ -79,42 +158,35 @@
 		background: none;
 		border: none;
 		font-size: 1.5rem;
-		font-weight: bold;
 		color: black;
 		cursor: pointer;
-		transition: color 0.2s ease;
 	}
-
 	.close-btn:hover,
 	.close-btn:active {
 		color: lightgrey;
 	}
 
-	.image-zoom-btn {
-		all: unset;
-		cursor: pointer;
-		display: block;
-		width: 100%;
+	.image-wrapper {
+		outline: none;
+	}
+	.image-wrapper:focus {
+		outline: 2px solid #ccc;
+		border-radius: 4px;
 	}
 
-	.full-scan {
+	.scan-img {
+		display: block;
 		max-width: 100%;
 		height: auto;
-		display: block;
+		margin: 0 auto;
 		border-radius: 4px;
 		box-shadow: 0 0 12px rgba(0, 0, 0, 0.2);
-		cursor: zoom-in;
+		transition: transform 0.2s ease;
 		user-select: none;
-		transition: transform 0.25s ease;
-		margin: 0 auto;
 	}
 
 	.zoomed {
-		cursor: grab;
 		transform: scale(2);
-	}
-
-	.zoomed:active {
-		cursor: grabbing;
+		transform-origin: top left;
 	}
 </style>

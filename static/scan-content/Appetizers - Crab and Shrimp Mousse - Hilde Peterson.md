@@ -1,5 +1,3 @@
-Ingredients:
-
 2 - 10-ounce cans small shrimp (drained)
 2 - 10-ounce cans lump crab meat (drained)
 1 - 16-ounce package cream cheese

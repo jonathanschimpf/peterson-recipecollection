@@ -1,14 +1,5 @@
-Easy Garden Bake
-
-1 cup chopped zucchini
-1 cup chopped tomato
-½ cup chopped onion
-⅓ cup grated Parmesan cheese
-1 cup milk
-½ cup Bisquick® baking mix
-2 eggs
-½ tsp salt
-¼ tsp pepper
+1 cup chopped zucchini  •  1 cup chopped tomato  •  ½ cup chopped onion  •  ⅓ cup grated Parmesan cheese
+1 cup milk  •  ½ cup Bisquick® baking mix  •  2 eggs  •  ½ tsp salt  •  ¼ tsp pepper
 
 Heat oven to 400°. Lightly grease square baking dish, 8x8x2" or pie plate, 9x1¼".
 Sprinkle zucchini, tomato, onion and cheese evenly in pie plate. Beat remaining ingredients in blender on high speed 15 sec, with hand beater 1 min or until smooth. Pour evenly in dish. Bake 30 to 35 min or until knife inserted in center comes out clean. Let stand 5 min before cutting. 6 servings.

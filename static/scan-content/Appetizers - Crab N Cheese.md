@@ -1,5 +1,3 @@
-Crab N' Cheese
-
 12 English muffins
 2 sticks margarine
 2  10 oz extra sharp cheddar

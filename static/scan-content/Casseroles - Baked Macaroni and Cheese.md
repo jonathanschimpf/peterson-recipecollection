@@ -1,24 +1,9 @@
-Ingredients
-½ pound - elbow macaroni
-3 tablespoons - butter
-3 tablespoons - flour
-1 tablespoon - powdered mustard
-3 cups - milk
-½ cup - yellow onion, finely diced
-1 - bay leaf
-½ teaspoon - paprika
-1 - large egg
-12 ounces - sharp cheddar, shredded
-1 teaspoon - kosher salt
-Fresh black pepper (to taste)
+Ingredients: ½ pound - elbow macaroni  •  3 tablespoons - butter  •  3 tablespoons - flour  •  1 tablespoon - powdered mustard  •  3 cups - milk  •  ½ cup - yellow onion, finely diced  •  1 - bay leaf  •  ½ teaspoon - paprika  •  1 - large egg  •  12 ounces - sharp cheddar, shredded  •  1 teaspoon - kosher salt  •  Fresh black pepper (to taste)
 
 
-Topping
-3 tablespoons - butter
-1 cup - panko bread crumbs
+Topping: 3 tablespoons - butter  •  1 cup - panko bread crumbs
 
-Directions
-Preheat oven to 350 degrees F.
+Directions: Preheat oven to 350 degrees F.
 
 In a large pot of boiling, salted water, cook the pasta until al dente.
 

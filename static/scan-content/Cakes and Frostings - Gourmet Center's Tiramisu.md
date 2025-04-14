@@ -1,10 +1,4 @@
-3 - egg yolks
-2 tablespoons - powdered sugar
-8 ounces - mascarpone cheese
-6 tablespoons - strong coffee, cold
-1 tablespoon - Grand Marnier
-24 - Dutch ladyfingers
-2 tablespoons - cocoa powder
+3 - egg yolks  •  2 tablespoons - powdered sugar  •  8 ounces - mascarpone cheese  •  6 tablespoons - strong coffee, cold  •  1 tablespoon - Grand Marnier  •  24 - Dutch ladyfingers  •  2 tablespoons - cocoa powder
 
 
 Beat the egg yolks and sugar together with an electric mixer until pale and thick. Add the mascarpone and beat until smooth.

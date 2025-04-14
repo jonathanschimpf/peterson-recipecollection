@@ -1,22 +1,8 @@
-Chicken Tetrazzini
-
 Serves 8.
 
-4 whole chicken breasts (or 2 broilers)
-1 lb. fresh mushrooms, sliced
-½ C butter or margarine
-1 tbs. lemon juice
-2 tsp. salt
-1 tsp. grated onion
-½ lb. spaghetti
-¼ cup flour
-¼ tsp ea. pepper, nutmeg
-2 cups chicken broth
-1 cup whipping cream
-⅓ cup dry white wine or sherry
-1 jar (4 oz) pimento, chopped
-½ cup chopped gr. peppers
-½ cup grated Parmesan cheese
+
+4 whole chicken breasts (or 2 broilers)  •  1 lb. fresh mushrooms, sliced  •  ½ C butter or margarine  •  1 tbs. lemon juice  •  2 tsp. salt  •  1 tsp. grated onion  •  ½ lb. spaghetti
+¼ cup flour  •  ¼ tsp ea. pepper, nutmeg  •  2 cups chicken broth  •  1 cup whipping cream  •  ⅓ cup dry white wine or sherry  •  1 jar (4 oz) pimento, chopped  •  ½ cup chopped gr. peppers  •  ½ cup grated Parmesan cheese
 
 Cook chicken in salted water - 45–60 min, Cool in broth - Remove meat from bones.
 

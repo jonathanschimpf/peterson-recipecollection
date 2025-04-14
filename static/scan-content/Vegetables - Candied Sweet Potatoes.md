@@ -1,10 +1,4 @@
-Candied Sweet Potatoes
-
-1 C brown sugar
-¼ C butter
-¼ C water
-½ tsp salt
-2 cans yams
+1 C brown sugar  •  ¼ C butter  •  ¼ C water  •  ½ tsp salt  •  2 cans yams
 
 Put yams in baking dish - drained.
 Combine all other ingred in saucepan and bring to a boil. Pour over yams.

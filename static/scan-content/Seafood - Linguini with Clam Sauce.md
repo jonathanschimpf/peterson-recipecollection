@@ -1,15 +1,8 @@
-LINGUINE W/ CLAM SAUCE Eileen Orgo
+2 garlic cloves - chopped fine  •  1/2 onion - chopped fine 1 can  •  3 cans whole baby clams anchoves  •  2 cans minced clam  •  1/2 stick butter  •  1 tbsp olive oil
 
-• 2 GARLIC CLOVES - CHOPPED FINE
-• 1/2 ONION - CHOPPED FINE 1 CAN
-• 3 CANS WHOLE BABY CLAMS ANCHOVES
-• 2 CANS MINCED CLAM
-• 1/2 STICK BUTTER
-• 1 TBSP OLIVE OIL
+Saute onions & garlic in butter & oil. drain clam juice & save.
+Add clams to onions & garlic & sauté further. add clam juice.
+Cook for 20 minutes.
 
-SAUTE ONIONS & GARLIC IN BUTTER & OIL. DRAIN CLAM JUICE & SAVE.
-ADD CLAMS TO ONIONS & GARLIC & SAUTÉ FURTHER. ADD CLAM JUICE.
-COOK FOR 20 MINUTES.
-
-ADD 3 TBSPS FLOUR TO THICKEN SAUCE. SERVE OVER LINGUINE NOODLES, PLAIN OR GARLIC & BASIL.
+Add 3 tbsps flour to thicken sauce. serve over linguine noodles, plain or garlic & basil.
 

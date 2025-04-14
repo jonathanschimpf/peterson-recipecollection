@@ -2,19 +2,11 @@ Cake:
 
 Sift the following dry ingredients together:
 
-2 cups - flour
-2 cups - sugar
-2 teaspoons - baking soda
-1 teaspoon - cinnamon
-1 teaspoon - salt
+2 cups - flour  •  2 cups - sugar  •  2 teaspoons - baking soda  •  1 teaspoon - cinnamon  •  1 teaspoon - salt
 
 Add the following ingredients and stir. Batter will be quite wet:
 
-1 ¼ cups - vegetable oil
-3 - eggs
-2 teaspoons - vanilla
-1 small can - crushed pineapple with juice
-2 cups - junior carrots (about 18 oz. or 3–4 jars)
+1 ¼ cups - vegetable oil  •  3 - eggs  •  2 teaspoons - vanilla  •  1 small can - crushed pineapple with juice  •  2 cups - junior carrots (about 18 oz. or 3–4 jars)
 
 Pour into greased and floured 9" x 13" pan.
 Bake in oven at 325° for 50-60 minutes. Toothpick will pull out dry when done.

@@ -1,16 +1,4 @@
-smoked macaroni & cheese
-
-4 Tbs. (½ stick) unsalted butter
-¼ cup all-purpose flour
-3½ cups milk
-1 Tbs. tomato paste
-2 cups shredded sharp cheddar cheese
-2 cups shredded smoked Gouda cheese
-Salt and freshly ground black pepper, to taste
-Pinch of cayenne pepper
-4 oz. crustless country-style bread
-2 Tbs. unsalted butter, melted
-1 lb. rigatoni, cooked until al dente and drained
+4 Tbs. (½ stick) unsalted butter  •  ¼ cup all-purpose flour  •  3½ cups milk  •  1 Tbs. tomato paste  •  2 cups shredded sharp cheddar cheese  •  2 cups shredded smoked Gouda cheese  •  Salt and freshly ground black pepper, to taste  •  Pinch of cayenne pepper  •  4 oz. crustless country-style bread  •  2 Tbs. unsalted butter, melted  •  1 lb. rigatoni, cooked until al dente and drained
 
 Preheat oven to 375°F. Butter large rectangular 
 baking dish.

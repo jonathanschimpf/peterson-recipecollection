@@ -1,26 +1,7 @@
-SPINACH DIP
+Spinach  •  Sour cream  •  Mayo  •  Lemon juice
 
-SPINACH
-SOUR CREAM
-MAYO
 
-DEHYDRATE*
+Dehydrate*
 
-LEMON JUICE*
-ONIONS*
-CARROTS*
-TOMATOES*
-CELERY*
-LEAFY* 
-CABBAGE* 
-PEAS*
-CAULIFLOWER*
-POTATOES*
-GARLIC*
 
-SALT
-POTATO SPINACH
-SOYBEAN OIL
-GREEN ONIONS
-WATER CHESTNUTS
-SPICES
+Onions*  •  Carrots*  •  Tomatoes*  •  Celery*  •  Leafy*  •  Cabbage*  •  Peas*  •  Cauliflower*  •  Potatoes*  •  Garlic*  •  Salt  •  Potato starch  •  Soybean oil  •  Green onions  •  Water chestnuts  •  Spices

@@ -1,5 +1,5 @@
-STUFFED FLOUNDER
+Stuffing - baby shrimp, crab meat   •   Lobster - bite size, mayo, cream cheese, bread crumbs, lime juice, lobster base paste, worchestershire. Stuff between (2) slices of flounder. 
 
-STUFFING - BABY SHRIMP, CRAB MEAT, LOBSTER - BITE SIZE, MAYO, CREAM CHEESE, BREAD CRUMBS, LIME JUICE, LOBSTER BASE PASTE, WORCHESTERSHIRE. STUFF BETWEEN (2) SLICES OF FLOUNDER. SAUCE - ROUX, MAYO, LIME JUICE, WORCHESTERSHIRE. SPRINKLE W/ PAPRIKA. BAKE 20 MINUTES.
+Sauce - roux, mayo, lime juice, worchestershire. Sprinkle w/ paprika. Bake 20 minutes.
 
-SERVE W/ NEW POTATOES & ASPARAGUS OR BEANS & MELON BALLS (CANTALOUPE & HONEY DEW)
+Serve w/ new potatoes & asparagus or beans & melon balls (cantaloupe & honey dew).

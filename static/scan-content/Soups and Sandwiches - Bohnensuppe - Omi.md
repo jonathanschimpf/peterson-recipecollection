@@ -1,29 +1,16 @@
-"BOHNEN SUPPE"
+(2) onion - chopped  •  (2) cloves garlic - diced  •  Parsnips  •  Celery  •  Carrots  •  Potatoes  •  (1) soup bone  •  Smoked daisy  •  Navy beans  •  Parsley
 
-"BOHNEN SUPPE"        OMI
+Soak beans - per pkg. instructions.
 
-(2) ONION - CHOPPED
-(2) CLOVES GARLIC - DICED
-PARSNIPS
-CELERY
-CARROTS
-POTATOES
-(1) SOUP BONE
-SMOKED DAISY
-NAVY BEANS
-PARSLEY
+In hot water,
+Add all ingredients.
 
-SOAK BEANS - PER PKG. INSTRUCTIONS.
+Cook 1 ½ - 2 hours - stir.
 
-IN HOT WATER,
-ADD ALL INGREDIENTS.
+Make a roux w/ butter, garlic & flour (2 tbsp)
 
-COOK 1 ½ - 2 HOURS - STIR.
+Add paprika to roux.
 
-MAKE A ROUX W/ BUTTER, GARLIC & FLOUR (2 TBSP)
+(cook kluske noodles separately.)
 
-ADD PAPRIKA TO ROUX.
-
-(COOK KLUSKE NOODLES SEPARATELY.)
-
-THICKEN SOUP W/ ROUX
+Thicken soup w/ roux

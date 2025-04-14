@@ -1,12 +1,4 @@
-Hot Chili Jelly
-
-1 - 6 ½ oz can Ortega hot peppers
-(jalapino) (orange labeled can)
-Remove seeds
-1 ½ cups bell peppers, chopped
-6 cups of sugar
-1 cup apple cider vinegar
-1 bottle Certo (6 oz. fruit pectin)
+1 - 6 ½ oz can Ortega hot peppers (jalapino) (orange labeled can) Remove seeds  •  1 ½ cups bell peppers, chopped  •  6 cups of sugar  •  1 cup apple cider vinegar  •  1 bottle Certo (6 oz. fruit pectin)
 
 Betty
 

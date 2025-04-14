@@ -9,8 +9,9 @@ Mexican Dip with Frito Scoops
 2 TBL - oil (vegetable or any)
 2-3 shakes of Seasoned Salt
 2 tsp Red Wine Vinegar (a little more)
-
 Mix all overnight.
+
+
 
 
 Garlic Dip
@@ -24,6 +25,8 @@ Mix well the
 night before. Serve
 with cut up bagels 
 or rye crisps.
+
+
 
 
 

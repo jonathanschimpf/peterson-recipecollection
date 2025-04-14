@@ -1,9 +1,3 @@
-WILTED LETTUCE
-2-3
+1-2 cups quinoa (½ box), add as needed  •  3-4 chopped plum tomatoes  •  Chopped parsley & cilantro  •  Chopped spring onions (1 bunch)  •  2-3 cloves finely chopped garlic  •  1 chopped seedless cucumber (peeled)  •  Juice of 1 lemon (more if needed)  
 
-2 TSP. VINEGAR
-1 TSP. SUGAR
-2 SLICES BACON
-LEAF LETTUCE
-
-FRY BACON, CRUMBLE & PUT ON LEAF LETTUCE. HEAT DRIPPINGS, ADD VINEGAR & SUGAR, POUR HOT OVER LETTUCE.
+Mix above to taste ingredients with olive oil. Dash cayenne, salt, pepper — olive oil to taste

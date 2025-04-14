@@ -1,19 +1,7 @@
-HASH BROWN SCALLOP POTATOES
-4
+2 chix bouillon cubes  •  1/2 c. water  •  1 pkg. (12 oz.)  •  Frozen hash brown potatoes (thawed)  •  1 c. grated cheddar cheese  •  1/4 c. sliced gr. onions
 
-2 CHIX BOUILLON CUBES,
-1/2 C. WATER, 
-1 PKG. (12 OZ.)
-FROZEN HASH BROWN POTATOES (THAWED), 
-1 C. GRATED CHEDDAR CHEESE, 
-1/4 C. SLICED GR. ONIONS,
+Dissolve cubes in hot water, Combine remaining ingredients in 1-1/2 qt. buttered
+casserole, pour bouillon over top, bake at 350°F.
 
-DISSOLVE CUBES IN HOT WATER,
-COMBINE REMAINING INGREDIENTS
-IN 1-1/2 QT. BUTTERED
-CASSEROLE, POUR BOUILLON
-OVER TOP, BAKE AT 350°F
-
-FOR 30", STIR TWICE WHILE
-BAKING
+For 30", stir twice while baking.
 

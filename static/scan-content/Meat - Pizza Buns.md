@@ -1,14 +1,6 @@
-Pizza Buns
+1 # Ground Beef  •  1 # Italian Sausage (out of casing)  •  1 Can Pizza Sauce
 
-1 # Ground Beef
-1 # Italian Sausage
-(out of casing)
-1 Can Pizza Sauce
-
-12 English Muffins
-(cut in half)
-3 pkgs. mazzarella
-(sliced)
+12 English Muffins (cut in half)  •  3 pkgs. mazzarella (sliced)
 
 Brown meat on top of stove. Remove oil and season to taste with salt and pepper. Add can of sauce.
 Put this on muffin with slice of cheese on top.

@@ -1,25 +1,10 @@
-BLACK BOTTOM CUPCAKES
-2 DOZ.
+2 doz.
 
-1 (8 OZ.) SOFT CREAM CHEESE
-1 EGG
-⅓ CUP SUGAR
-⅛ TSP. SALT
-6 OZ. PKG. CHOCOLATE CHIPS (1-½ C.)
-1-½ C. FLOUR
-1 C. SUGAR
-¼ C. COCOA
-1 TSP. BROWN SUGAR
-½ TSP. SALT
-1 C. WATER
-⅓ C. OIL
-1 TBSP. VINEGAR
-1 TSP. VANILLA
+1 (8 oz.) soft cream cheese  •  1 egg  •  ⅓ cup sugar  •  ⅛ tsp. salt  •  6 oz. pkg. chocolate chips (1-½ c.)  •  1-½ c. flour  •  1 c. sugar  •  ¼ c. cocoa  •  1 tsp. brown sugar  •  ½ tsp. salt  •  1 c. water  •  ⅓ c. oil  •  1 tbsp. vinegar  •  1 tsp. vanilla
 
-COMBINE CREAM CHEESE,
-EGG, SUGAR, SALT, BEAT, FOLD IN CHOCOLATE CHIPS
+Combine cream cheese, egg, sugar, salt, beat, fold in chocolate chips.
 
-SIFT FLOUR, SUGAR, COCOA, BROWN SUGAR, SALT,
-ADD WATER, OIL, VINEGAR, & VANILLA, BEAT WELL,
-FILL CUPS ⅓ FULL WITH BATTER, TOP WITH 1 HEAPING
-TSP CREAM CHEESE MIX. BAKE AT 350°F FOR 30"-35"
+Sift flour, sugar, cocoa, brown sugar, salt,
+Add water, oil, vinegar, & vanilla, beat well,
+Fill cups ⅓ full with batter, top with 1 heaping
+Tsp cream cheese mix. bake at 350°f for 30"-35"

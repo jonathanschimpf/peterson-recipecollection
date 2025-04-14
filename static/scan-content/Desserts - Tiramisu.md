@@ -1,10 +1,7 @@
-TIRAMISU
+Dissolve 3 t instant espresso w/ 3 t boiling water to dissolve, add 1 - 1/2 c cold water.
 
+Batter – in mixer place 8 oz cream cheese at room temp, 1/3 c sugar, 3/4 c heavy cream am added gradually
 
-DISSOLVE 3 T INSTANT ESPRESSO W/ 3 T BOILING WATER TO DISSOLVE, ADD 1 - 1/2 C COLD WATER.
-
-BATTER – IN MIXER PLACE 8 OZ CREAM CHEESE AT ROOM TEMP, 1/3 C SUGAR, 3/4 C HEAVY CREAM AM ADDED GRADUALLY
-
-8" X 8" PAN – LAYER 1/3 BATTER, LADY FINGERS DIPPED IN ESPRESSO, 1/3 BATTER, LAYER OF LADY FINGERS, FINAL 1/3 OF BATTER, DUST W/ COCOA POWDER.
+8" x 8" pan – layer 1/3 batter, lady fingers dipped in espresso, 1/3 batter, layer of lady fingers, final 1/3 of batter, dust w/ cocoa powder.
 
 

@@ -1,20 +1,8 @@
-MEXICAN CHEESE SALAD
-IRENE BLAND
+Ingredients: 1 head lettuce  •  4 tomatoes (cut up)  •  1 onion  •  ½ jar marie’s avocado dressing  •  1 large avocado (chopped)  •  1 med bag tortilla chips  •  1 # gr. beef
+1 tb chili powder  •  15 oz. can drained kidney beans  •  4 oz. grated cheddar cheese
 
-INGREDIENTS
-1 HEAD LETTUCE
-4 TOMATOES (CUT UP)
-1 ONION
-½ JAR MARIE’S AVOCADO DRESSING
-1 LARGE AVOCADO (CHOPPED)
-1 MED BAG TORTILLA CHIPS
-1 # GR. BEEF
-1 TB CHILI POWDER
-15 OZ. CAN DRAINED KIDNEY BEANS
-4 OZ. GRATED CHEDDAR CHEESE
+Brown ground beef, add chili powder, beans, & salt to taste. simmer 5 minutes & cool.
 
-BROWN GROUND BEEF, ADD CHILI POWDER, BEANS, & SALT TO TASTE. SIMMER 5 MINUTES & COOL.
+Shred lettuce, chop onions & tomatoes. toss lettuce, onions, tomatoes, cheese, avocado & dressing.
 
-SHRED LETTUCE, CHOP ONIONS & TOMATOES. TOSS LETTUCE, ONIONS, TOMATOES, CHEESE, AVOCADO & DRESSING.
-
-MIX BEEF & SALAD & CHIPS.
+Mix beef & salad & chips.

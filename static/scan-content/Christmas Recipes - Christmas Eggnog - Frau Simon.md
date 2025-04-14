@@ -1,11 +1,7 @@
 Frau Simon’s Eierlikör
 Christmas Eggnog
 
-¾ pkg powd. sugar (12oz)
-2 C milk
-6 egg yolks
-1 T reg. sugar
-1 bottle grain alcohol
+¾ pkg powd. sugar (12oz)  •  2 C milk  •  6 egg yolks  •  1 T reg. sugar  •  1 bottle grain alcohol
 
 Slowly bring milk w/ ½ pkg powd sugar to a
 boil (stir frequently). Let cool. Beat 6 egg yolks

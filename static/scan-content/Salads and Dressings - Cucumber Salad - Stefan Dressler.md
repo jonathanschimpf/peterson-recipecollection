@@ -1,13 +1,9 @@
-CUCUMBER SALAD
+Ingredients
 
-STEFAN DRESSLER
+Cucumbers  •  red onion  •  green peppers  •  red pepper  •  celery  •  parsley  •  tomatoes  •  shrimp, lemon juice  •  sour cream  •  oil  •  sugar
 
-INGREDIENTS
+Salt cucumber well & let stand 1/2 hr. squeeze out well. mix with onions, peppers, & celery (all chopped).
 
-CUCUMBERS, RED ONION, GREEN PEPPERS, RED PEPPER, CELERY, PARSLEY, TOMATOES, SHRIMP, LEMON JUICE, SOUR CREAM, OIL, SUGAR.
+Add oil, salt, pepper, sugar to taste. mix. add 1/4 cup lemon juice & sour cream.
 
-SALT CUCUMBER WELL & LET STAND 1/2 HR. SQUEEZE OUT WELL. MIX WITH ONIONS, PEPPERS, & CELERY (ALL CHOPPED).
-
-ADD OIL, SALT, PEPPER, SUGAR TO TASTE. MIX. ADD 1/4 CUP LEMON JUICE & SOUR CREAM.
-
-TOSS. TOP WITH TOMATOES & SHRIMP.
+Toss. top with tomatoes & shrimp.

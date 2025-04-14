@@ -1,11 +1,4 @@
-2 - 8-ounce packages Philadelphia brand cream cheese
-2 cups (8 ounces) - shredded Cracker Barrel sharp cheddar cheese
-1 tablespoon - chopped pimiento
-1 tablespoon - chopped onion
-1 tablespoon - chopped green pepper
-2 teaspoons - Worcestershire sauce
-1 teaspoon - lemon juice
-Finely chopped pecans
+2 - 8-ounce packages Philadelphia brand cream cheese  •  2 cups (8 ounces) - shredded Cracker Barrel sharp cheddar cheese  •  1 tablespoon - chopped pimiento  •  1 tablespoon - chopped onion  •  1 tablespoon - chopped green pepper  •  2 teaspoons - Worcestershire sauce  •  1 teaspoon - lemon juice  •  Finely chopped pecans
 
 
 

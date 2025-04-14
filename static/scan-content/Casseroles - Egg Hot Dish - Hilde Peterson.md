@@ -1,23 +1,5 @@
-EGG HOT DISH
+4 pieces bread  •  Smokey links  •  3 eggs  •  1 ¼ cup milk  •  ¼ cup butter  •  Cheddar cheese  •  Onion  •  Dash worcestershire sauce
 
-EGG HOT DISH
+Grease pan. Break up bread. Make 2 layers of bread & cheese. Mix eggs, milk, onion & worch. sauce. Pour over bread & cheese. Then pour melted butter on top. Refrigerate overnight.
 
-4 PIECES BREAD
-SMOKEY LINKS
-3 EGGS
-1 ¼ CUP MILK
-¼ CUP BUTTER
-CHEDDAR CHEESE
-ONION
-DASH WORCESTERSHIRE SAUCE
-
-GREASE PAN
-BREAK UP BREAD
-MAKE 2 LAYERS OF BREAD & CHEESE
-MIX EGGS, MILK, ONION & WORCH. SAUCE
-POUR OVER BREAD & CHEESE
-THEN POUR MELTED BUTTER ON TOP
-REFRIGERATE OVERNIGHT
-
-BAKE 325–350° FOR 1 HOUR COVERED
-UNCOVER LAST 15 MINUTES & TOP WITH SMOKEY LINKS
+Bake 325–350° for 1 hour covered. Uncover last 15 minutes & top with smokey links

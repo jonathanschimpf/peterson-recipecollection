@@ -1,14 +1,4 @@
-Pumpkin Pie
-
-2 Cups Pumpkin
-2 Cups Milk
-1 Cup Sugar (½ brown ½ granulated)
-3 Egg yolks - 3 egg whites
-½ tsp Cinnamon
-½ tsp Nutmeg
-½ tsp Salt
-3 Tbl. Flour
-½ Quarter Butter (browned)
+2 Cups Pumpkin  •  2 Cups Milk  •  1 Cup Sugar (½ brown ½ granulated)  •  3 Egg yolks - 3 egg whites  •  ½ tsp Cinnamon  •  ½ tsp Nutmeg  •  ½ tsp Salt  •  3 Tbl. Flour  •  ½ Quarter Butter (browned)
 
 Cream Sugar & Yolks - Add flour & spices -
 Add Pumpkin & then Milk & then browned Butter.

@@ -1,19 +1,10 @@
-Egg and Potato Scallop in Casserole
+¼ c butter  •  2 tb flour  •  2 cups warm milk  •  1 tb minced fresh parsley  •  1 ½ ts.salt  •  ⅛ ts white pepper
 
-¼ c butter
-2 tb flour
-2 cups warm milk
-1 tb minced fresh parsley
-1 ½ ts.salt
-⅛ ts white pepper
 
-6 medium cooked potatoes sl.
-6 hard cooked eggs sliced
-1 cup pulled bread crumbs
-¼ c pimento cut into ½ pieces
+6 medium cooked potatoes sl.  •  6 hard cooked eggs sliced  •  1 cup pulled bread crumbs  •  ¼ c pimento cut into ½ pieces
 
-MELT 2 TBSP BUTTER. ADD FLOUR & BLEND WELL. ADD WARM MILK. COOK OVER LOW HEAT & STIR CONSTANTLY, UNTIL THICK. SIMMER 3 MINUTES. ADD PARSLEY, PIMENTO, SALT & PEPPER. PLACE ALTERNATE LAYERS OF POTATOES & EGGS IN A GREASED BAKING DISH (2 X 6 X 10) & POUR SAUCE OVER TOP. SPRINKLE W/ BREAD CRUMBS. DRIZZLE W/ MELTED BUTTER.
+Melt 2 tbsp butter. add flour & blend well. add warm milk. cook over low heat & stir constantly, until thick. simmer 3 minutes. add parsley, pimento, salt & pepper. place alternate layers of potatoes & eggs in a greased baking dish (2 x 6 x 10) & pour sauce over top. sprinkle w/ bread crumbs. drizzle w/ melted butter.
 
-BAKE AT 375° 15–20 MINUTES.
+Bake at 375° 15–20 minutes.
 
-SUB PEAS, PEAS & CARROTS OR GREEN BEANS IF DESIRED.
+Sub peas, peas & carrots or green beans if desired. 

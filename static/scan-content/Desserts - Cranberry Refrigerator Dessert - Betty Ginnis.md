@@ -1,9 +1,4 @@
-Cranberry Refrigerator Dessert
-Betty Ginnis
-
-Grind 2 cups (½ lb.) fresh cranberries. Combine with 1 large banana, diced (1 cup), and ½ cup sugar; set aside.
-
-Combine 2 cups vanilla wafer crumbs and 6 tablespoons butter or margarine, melted. Press ½ of the crumbs mixture in bottom of 9x9x2-inch pan.
+Grind 2 cups (½ lb.) fresh cranberries. Combine with 1 large banana, diced (1 cup), and ½ cup sugar; set aside. Combine 2 cups vanilla wafer crumbs and 6 tablespoons butter or margarine, melted. Press ½ of the crumbs mixture in bottom of 9x9x2-inch pan.
 
 Cream ½ cup butter or marg. and 1 cup sugar till light. Add 2 egg yolks and beat till fluffy. Fold in ½ cup chopped nuts. Spread over crumb mixture. 12
 

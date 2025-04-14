@@ -1,22 +1,10 @@
-SAUERBRATEN (SERVES 8-10)
+(Serves 8-10)
 
-4 LB BEEF POT ROAST
-1-1/2 CUPS ONIONS - CHOPPED
-1 CUP CARROTS - GRATED
-2* CUPS CIDER VINEGAR
-1 CUP WATER
-8 PEPPERCORNS
-3 CLOVES
-2 BAY LEAVES
-2-1/2 TSP SALT
-2 CLOVES GARLIC - MINCED
-1 CUP SLICED ONIONS
-2 TBSP SUGAR
-1 CUP SOUR CREAM
-1 TBSP BUTTER
+4 lb beef pot roast  •  1-1/2 cups onions - chopped  •  1 cup carrots - grated  •  2* cups cider vinegar  •  1 cup water  •  8 peppercorns  •  3 cloves  •  2 bay leaves  •  2-1/2 tsp salt  •  2 cloves garlic - minced  •  1 cup sliced onions  •  2 tbsp sugar  •  1 cup sour cream  •  1 tbsp butter
 
-TRIM FAT FROM MEAT. IN A SAUCEPAN COMBINE * INGREDIENTS (VINEGAR THRU SLICED ONIONS) & BRING TO A BOIL. PLACE MEAT IN BOWL & POUR HOT MIXTURE OVER MEAT. MARINATE 3 DAYS IN FRIG, TURNING MEAT OVER A FEW TIMES. DRAIN & DRY MEAT. STRAIN & RESERVE 2 CUPS OF MARINADE. HEAT BUTTER IN DUTCH OVEN OR HEAVY SKILLET & BROWN MEAT ON ALL SIDES.
+Trim fat from meat. in a saucepan combine * ingredients (vinegar thru sliced onions) & bring to a boil. place meat in bowl & pour hot mixture over meat. marinate 3 days in frig, turning meat over a few times. drain & dry meat. strain & reserve 2 cups of marinade. heat butter in dutch oven or heavy skillet & brown meat on all sides.
 
-SAUERBRATEN (CONTINUED)
 
-ADD CHOPPED ONIONS & CONTINUE BROWNING. ADD CARROTS, SUGAR AND MARINADE. COVER TIGHTLY & COOK OVER LOW HEAT 3 HOURS OR UNTIL TENDER. SKIM FAT & TASTE FOR SEASONING. TRANSFER MEAT TO A HOT PLATTER, STIR SOUR CREAM INTO GRAVY. P.S. USE PORCELAIN OR GLASS—NOT STAINLESS STEEL.
+Add chopped onions & continue browning. add carrots, sugar and marinade. cover tightly & cook over low heat 3 hours or until tender. skim fat & taste for seasoning. transfer meat to a hot platter, stir sour cream into gravy. 
+
+P.S. use porcelain or glass — not stainless steel.

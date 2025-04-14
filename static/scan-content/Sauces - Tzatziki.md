@@ -1,11 +1,3 @@
-TZATZIKI
+16 oz yogurt  •  1 cucumber, peeled, seeded diced  •  2 tbsp olive oil  •  1/2 lemon   •  S & P  •  1 clove garlic  •  1 tbsp dill
 
-16 OZ YOGURT
-1 CUCUMBER, PEELED, SEEDED DICED
-2 TBSP OLIVE OIL
-1/2 LEMON
-S & P
-1 CLOVE GARLIC
-1 TBSP DILL
-
-BLEND ALL
+Blend all.

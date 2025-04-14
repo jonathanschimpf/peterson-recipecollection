@@ -1,25 +1,9 @@
-Roast Loin of Pork with Fennel
+Cook Time: 1 hr 20 min  •  Level: Intermediate  •  Yield: 8 servings
+
+Ingredients: 2 cloves garlic, minced  •  Salt and freshly ground black pepper, plus 1 tablespoon kosher salt  •  1 tablespoon fresh thyme leaves  •  1/4 cup Dijon mustard  •  1 (3-pound) boneless pork loin, trimmed and tied  •  3 small fennel bulbs, tops removed  •  6 carrots, peeled, and thickly sliced diagonally  •  10 small potatoes (red or white-skinned), cut in quarters  •  2 yellow onions, thickly sliced  •  4 tablespoons good olive oil  •  4 tablespoons unsalted butter, melted
 
 
-Cook Time: 1 hr 20 min Level: Intermediate Yield: 8 servings
-
-Ingredients
-2 cloves garlic, minced
-Salt and freshly ground black pepper, plus 1 tablespoon kosher salt
-1 tablespoon fresh thyme leaves
-1/4 cup Dijon mustard
-1 (3-pound) boneless pork loin, trimmed and tied
-3 small fennel bulbs, tops removed
-6 carrots, peeled, and thickly sliced diagonally
-10 small potatoes (red or white-skinned), cut in quarters
-2 yellow onions, thickly sliced
-4 tablespoons good olive oil
-4 tablespoons unsalted butter, melted
-
-
-Directions
-
-Preheat the oven to 425 degrees F.
+Directions: Preheat the oven to 425 degrees F.
 
 With a mortar and pestle, or in a food processor fitted with a steel blade, grind together the garlic, 1 tablespoon salt, and thyme leaves. Add the mustard. Spread the mixture over the loin of pork and allow it to sit at room temperature for at least 30 minutes.
 

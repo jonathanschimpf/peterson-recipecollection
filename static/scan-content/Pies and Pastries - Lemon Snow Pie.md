@@ -1,5 +1,3 @@
-LEMON-SNOW PIE
-
 Early in day or day before:
 
 Prepare piecrust mix for one-crust 9-in. pie as label directs but use lemon juice instead of water; bake, then chill.

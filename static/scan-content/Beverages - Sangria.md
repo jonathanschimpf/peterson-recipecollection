@@ -1,10 +1,4 @@
-SANGRIA
+Squeeze out 2 oranges  •  add  •  ¼ c brandy, ⅓–½ c sugar  •  Thinly slice 2 oranges &
+2 lemons  •  1 bottle full bodied  •  Spanish wine - red  •  2 cups club soda
 
-SQUEEZE OUT 2 ORANGES, ADD
-¼ C BRANDY, ⅓–½ C SUGAR,
-THINLY SLICE 2 ORANGES &
-2 LEMONS, 1 BOTTLE FULL BODIED
-SPANISH WINE - RED, 2 CUPS
-CLUB SODA
-
-SERVE OVER ICE
+Serve over ice

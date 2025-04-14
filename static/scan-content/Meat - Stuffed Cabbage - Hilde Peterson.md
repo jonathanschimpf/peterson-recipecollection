@@ -1,21 +1,3 @@
-STUFFED CABBAGE
+Lean ground pork  •  Cumin  •  Fennel  •  Allspice  •  Coriander  •  Cayenne  •  Salt  •  Mushrooms - chopped  •  1 can tomato paste  •  Water
 
-STUFFED CABBAGE
-
-LEAN GROUND PORK
-CUMIN
-FENNEL
-ALLSPICE
-CORIANDER
-CAYENNE
-SALT
-MUSHROOMS - CHOPPED
-1 CAN TOMATO PASTE
-WATER
-
-BLANCH CABBAGE LEAVES
-CUT OUT RIB OF LEAF
-PLACE LITTLE PATTY OF MEAT MIXTURE ON LEAF
-ROLL UP
-STIR UP TOMATO PASTE W/ WATER
-COOK FOR 45 MINUTES
+Blanch cabbage leaves. Cut out rib of leaf. Place little patty of meat mixture on leaf. Roll up. Stir up tomato paste w/ water. Cook for 45 minutes.

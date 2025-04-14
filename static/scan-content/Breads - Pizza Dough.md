@@ -1,9 +1,7 @@
-PIZZA DOUGH
+1 pkg yeast  •  1 ¼ c flour  •  ¼ c warm water  •  whisk together  •  let sit for 20'
 
-1 PKG YEAST, 1 ¼ C FLOUR, ¼ C WARM WATER, WHISK TOGETHER, LET SIT FOR 20'
+Add 2 c flour, ½ t salt, 1 t olive oil, ½ c water. knead for 5 minutes.
 
-ADD 2 C FLOUR, ½ t SALT, 1 T OLIVE OIL, ½ C WATER. KNEAD FOR 5 MINUTES.
+Put in oiled bowl, let rise for 1 hour. split into two.
 
-PUT IN OILED BOWL, LET RISE FOR 1 HOUR. SPLIT INTO TWO.
-
-ROLL EACH OUT TO A 9" CIRCLE, BRUSH W/ OIL, ADD INGREDIENTS & BAKE 10 MINUTES.
+Roll each out to a 9" circle, brush w/ oil, add ingredients & bake 10 minutes.

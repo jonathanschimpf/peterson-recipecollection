@@ -1,16 +1,5 @@
-Ingredients:
+2 packages - (8 ounces each) reduced-fat cream cheese  •  1 package - (8 ounces) Louis Kemp Crab Delights flakes  •  2 tablespoons - finely chopped onion  •  1 tablespoon - prepared horseradish  •  1 teaspoon - Worcestershire sauce  •  4–5 drops - hot pepper sauce  •  ¼ cup - finely chopped walnuts  •  Paprika - to taste
 
-2 packages - (8 ounces each) reduced-fat cream cheese
-1 package - (8 ounces) Louis Kemp Crab Delights flakes
-2 tablespoons - finely chopped onion
-1 tablespoon - prepared horseradish
-1 teaspoon - Worcestershire sauce
-4–5 drops - hot pepper sauce
-¼ cup - finely chopped walnuts
-Paprika - to taste
-
-
-Instructions:
 
 Stir the cream cheese until slightly softened. Blend in remaining ingredients except walnuts and paprika. Spread mixture in a 9-inch pie plate.
 

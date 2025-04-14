@@ -1,11 +1,4 @@
-3 Tbs. unsalted butter
-8 oz. small red potatoes, sliced ⅛" thick
-Salt and freshly ground pepper, to taste
-2 leeks, white and light green portions, rinsed well and thinly sliced
-5 eggs
-2 Tbs. heavy cream
-2 oz. Gruyère cheese, shredded
-1 Tbs. finely chopped fresh flat-leaf parsley
+3 Tbs. unsalted butter  •  8 oz. small red potatoes, sliced ⅛" thick  •  Salt and freshly ground pepper, to taste  •  2 leeks, white and light green portions, rinsed well and thinly sliced  •  5 eggs  •  2 Tbs. heavy cream  •  2 oz. Gruyère cheese, shredded  •  1 Tbs. finely chopped fresh flat-leaf parsley
 
 In deep half of small frittata pan over medium-high heat, melt 1 Tbs. butter. Add potatoes, and season with salt and pepper. Cook, stirring occasionally, until tender and golden, about 10 minutes. Transfer to a bowl.
 

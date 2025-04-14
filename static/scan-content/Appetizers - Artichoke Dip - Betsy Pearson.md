@@ -1,4 +1,4 @@
-Artichoke Dip
+
 
 1 - 14 oz Artichoke hearts
 ½ - C mayo

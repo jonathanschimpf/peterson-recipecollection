@@ -1,15 +1,5 @@
-Holiday Baked Apples
-
-6 Market Day Granny Smith Apples
-½ cup Market Day Raisins
-¾ cup fresh cranberries, chopped
-½ cup sugar
-1 teaspoon cinnamon
-½ cup Market Day Pecan Pieces
-1 tablespoon orange zest
-(grated orange rind)
-1 cup orange juice
-2 tablespoon butter, melted
+6 Market Day Granny Smith Apples  •  ½ cup Market Day Raisins  •  ¾ cup fresh cranberries, chopped  •  ½ cup sugar  •  1 teaspoon cinnamon  •  ½ cup Market Day Pecan Pieces  •  1 tablespoon orange zest
+(grated orange rind)  •  1 cup orange juice  •  2 tablespoon butter, melted
 
 Peel top portion of each apple and remove the core. Place apples in
 an 8-inch square baking dish. In a separate bowl, combine

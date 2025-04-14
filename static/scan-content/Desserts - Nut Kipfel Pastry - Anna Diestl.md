@@ -1,19 +1,8 @@
-Nut Kipfel Pastry
-
 Pastry:
-3 c. flour
-2 egg yolks
-1-1/4 c. water
-1 tbsp. vinegar
-1 c. flour
-1 pound Blue Bonnet margarine
+3 c. flour  •  2 egg yolks  •  1-1/4 c. water  •  1 tbsp. vinegar  •  1 c. flour  •  1 pound Blue Bonnet margarine
 
 Nut Filling:
-1 pound ground walnuts
-2 c. sugar
-1/2 to 1 tsp. vanilla
-2 to 3 eggs
-Raisins, as desired (optional)
+1 pound ground walnuts  •  2 c. sugar  •  1/2 to 1 tsp. vanilla  •  2 to 3 eggs  •  Raisins, as desired (optional)
 
 In a bowl mix 3 c. flour and 2 yolks. In a glass or small bowl mix water and vinegar and add to yolk mixture. Mix well with a wooden spoon until it forms a ball. Set aside.
 

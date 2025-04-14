@@ -1,11 +1,4 @@
-Sour Cream Cocktail 
-from Katherine Brownlee
-
-1 # fruit cocktail (lg can)
-3 C mini marshmallows
-2 C sour cream
-2 t lemon juice
-½ t salt
+1 # fruit cocktail (lg can)  •  3 C mini marshmallows  •  2 C sour cream  •  2 t lemon juice  •  ½ t salt
 red food coloring
 
 Freeze for at least one day.

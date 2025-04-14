@@ -1,12 +1,4 @@
-Mushroom Chicken with Dill Sauce
-6
-
-
-4 Boneless Chicken Breasts
-2 pkgs Mushroom Medley
-1 lg onion
-1 C whipping cream - salt & pepper
-1 C regular milk - oil
+4 Boneless Chicken Breasts  •  2 pkgs Mushroom Medley  •  1 lg onion  •  1 C whipping cream - salt & pepper  •  1 C regular milk - oil
 
 Sauce:
 4 TB Butter

@@ -1,22 +1,17 @@
-Date: Saturday, March 26, 2011 1:28 am 
-From: Caroline Peterson <terror.sapience@gmail.com>
-To: Eric Peterson <EPETERSON27@wi.rr.com>
-Subject: pear recipe
-
 Pop,
 
 Here is the recipe from my friend:
 
-1. Get pears (d’anjou or red or bosc — Bartlett are a bit too runny); peel them, cut in half, scoop out seeds.
+1 - Get pears (d’anjou or red or bosc — Bartlett are a bit too runny); peel them, cut in half, scoop out seeds.
 
-2. Melt some butter in a baking dish, add some brown sugar. (I’d say 1 or 2 TB of each per pear? I never measure these things: you don’t need them swimming, you just want enough to make sauce.)
+2 - Melt some butter in a baking dish, add some brown sugar. (I’d say 1 or 2 TB of each per pear? I never measure these things: you don’t need them swimming, you just want enough to make sauce.)
 
-3. Place pear halves in, and pour over them some honey and good balsamic vinegar (good, rich vinegar is what makes this work. Not too much, but don’t be afraid of it.)
+3 - Place pear halves in, and pour over them some honey and good balsamic vinegar (good, rich vinegar is what makes this work. Not too much, but don’t be afraid of it.)
 
-4. Cover with foil, bake at 350 for about 25ish minutes, then bake uncovered for a few minutes to let the sauce reduce a bit.
+4 - Cover with foil, bake at 350 for about 25ish minutes, then bake uncovered for a few minutes to let the sauce reduce a bit.
 
-5. I like to let them cool a bit before serving (I try to take them out of the oven as we sit down to dinner), so the cheese doesn’t melt.
+5 - I like to let them cool a bit before serving (I try to take them out of the oven as we sit down to dinner), so the cheese doesn’t melt.
 
-6. Serve with fresh chevre. You know this part.
+6 - Serve with fresh chevre. You know this part.
 
 

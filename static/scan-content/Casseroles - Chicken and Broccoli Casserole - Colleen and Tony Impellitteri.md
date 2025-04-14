@@ -1,12 +1,4 @@
-2 (10 ounce) packages frozen, chopped broccoli
-1 fryer chicken, cooked, boned, and cut in large chunks (note: pre-cooked and pre-packaged chicken chunks can also be used)
-2 cans cream of mushroom soup or cream of chicken soup (check for MSG)
-1 cup real mayonnaise
-1 teaspoon lemon juice
-½ teaspoon curry powder (for a more intense Indian flavor, increase curry to desired amount)
-1 cup grated, real cheddar cheese
-¼ cup seasoned bread crumbs
-1 tablespoon melted butter
+2 (10 ounce) packages frozen, chopped broccoli  •  1 fryer chicken, cooked, boned, and cut in large chunks (note: pre-cooked and pre-packaged chicken chunks can also be used)  •  2 cans cream of mushroom soup or cream of chicken soup (check for MSG)  •  1 cup real mayonnaise  •  1 teaspoon lemon juice  •  ½ teaspoon curry powder (for a more intense Indian flavor, increase curry to desired amount)  •  1 cup grated, real cheddar cheese  •  ¼ cup seasoned bread crumbs  •  1 tablespoon melted butter
 
 
 

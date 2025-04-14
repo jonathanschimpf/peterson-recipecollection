@@ -20,7 +20,7 @@ shrimp
 parsley
 
 
-ham roll-ups
+Ham roll-ups
 
 sandw. bread
 sliced lgthwise 

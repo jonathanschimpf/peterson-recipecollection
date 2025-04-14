@@ -1,14 +1,4 @@
-Guacamole Dip
+1 cup mashed avocado  •  ¼ cup finely chopped onion  •  2 Tbsp lemon juice  •  2 Tbsp finely chopped green chillies  •  Cilantro  •  ½ teas salt  •  1 small tomato chopped  •  Garlic
 
-1 cup mashed avocado
-¼ cup finely chopped onion
-2 Tbsp lemon juice
-2 Tbsp finely chopped green chillies
-Cilantro
-½ teas salt
-1 small tomato chopped
-Garlic
 
-Combine all ingred 
-Cover
-Chill 1 hr
+Combine all ingred. Cover. Chill 1 hr.

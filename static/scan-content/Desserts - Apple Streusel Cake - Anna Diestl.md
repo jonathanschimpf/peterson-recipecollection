@@ -1,21 +1,10 @@
-Rezept der Woche
-APPLE STREUSEL CAKE
 Anna Diestl
 
-4 eggs
-6 heaping tbsp. sugar
-½ c. butter (1 stick)
-1 tbsp. Crisco
-1 tbsp. vanilla sugar
-2 c. flour
-1-½ to 2 tsp. baking powder
-About ¼ c. milk
+4 eggs  •  6 heaping tbsp. sugar  •  ½ c. butter (1 stick)  •  1 tbsp. Crisco  •  1 tbsp. vanilla sugar  •  2 c. flour  •  1-½ to 2 tsp. baking powder  •  About ¼ c. milk
 
 Cream eggs, sugar, butter, Crisco, and vanilla sugar. Add flour and baking powder and milk. Put the dough into a greased and floured pan. Place apple slices on top and top with streusel topping as follows:
 
-¼ c. sugar
-½ stick butter
-¼ c. flour
+¼ c. sugar  •  ½ stick butter  •  ¼ c. flour
 
 Mix the above ingredients and sprinkle on top of apples. Bake at 350° until done.
 

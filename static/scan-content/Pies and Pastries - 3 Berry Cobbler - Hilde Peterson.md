@@ -1,20 +1,8 @@
-3 BERRY COBBLER
+Strawberries  •  Raspberries  •  Cranberries  •  3 tbsp sugar
 
-3 BERRY COBBLER
+Combine above & cook over low heat a few minutes
 
-STRAWBERRIES
-RASPBERRIES
-CRANBERRIES
-3 TBSP SUGAR
+2 tbsp cornstarch  •  A little water  •  1 lemon - juiced
 
-COMBINE ABOVE & COOK OVER LOW HEAT A FEW MINUTES
-
-2 TBSP CORNSTARCH
-A LITTLE WATER
-1 LEMON - JUICED
-
-ADD ABOVE TO BERRIES
-LADLE INTO DISH
-COVER W/ PIE CRUST
-BAKE 350° FOR 20 MINUTES
+Add above to berries. Ladle into dish. Cover w/ pie crust. Bake 350° for 20 minutes.
 

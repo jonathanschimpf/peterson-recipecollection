@@ -1,26 +1,12 @@
-CROATIAN POTROAST
-Hilde Peterson
+3 to 4 lb. round bone potroast  •  1 tbsp shortening or beef drippings  •  1 medium onion  •  10 ¾ oz can tomatoe soup W/ 1 can water  •  3 bay leaves  •  2 dashes cinnamon  •  2-3 tbsp vinegar or wine  •  12 prunes
 
-
-CROATIAN POTROAST
-
-3 TO 4 LB. ROUND BONE POTROAST
-1 TBSP SHORTENING OR BEEF DRIPPINGS
-1 MEDIUM ONION
-10 ¾ OZ CAN TOMATOE SOUP
-W/ 1 CAN WATER
-3 BAY LEAVES
-2 DASHES CINNAMON
-2-3 TBSP VINEGAR OR WINE
-12 PRUNES
-
-SALT & PEPPER MEAT
-BROWN MEAT & ONIONS
-ADD VINEGAR & 1/2 CUP WATER
-SIMMER 10 MINUTES EACH SIDE
-ADD TOMATOE SOUP & 1 CAN WATER
-BRING TO A BOIL
-ADD BAY LEAVES & PRUNES + CINNAMON
-COOK 2 - 2 1/2 HOURS OVER
-MEDIUM HEAT
-UNCOVER LAST 1/2 HOUR
+Salt & pepper meat. 
+Brown meat & onions.
+Add vinegar & 1/2 cup water.
+Simmer 10 minutes each side.
+Add tomatoe soup & 1 can water.
+Bring to a boil.
+Add bay leaves & prunes + cinnamon.
+Cook 2 - 2 1/2 hours over.
+Medium heat.
+Uncover last 1/2 hour.

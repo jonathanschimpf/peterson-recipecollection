@@ -1,11 +1,4 @@
-Caramelized Onion Mashed Potatoes
-
-4 Tbs. unsalted butter
-2 Tbs. olive oil
-2 red onions, thinly sliced
-4 lb. Yukon Gold potatoes, peeled and quartered
-1½ cups half-and-half, heated
-white pepper
+4 Tbs. unsalted butter  •  2 Tbs. olive oil  •  2 red onions, thinly sliced  •  4 lb. Yukon Gold potatoes, peeled and quartered  •  1½ cups half-and-half, heated  •  White pepper
 
 In a sauté pan over medium-high heat melt butter and olive oil. Add onions and cook until translucent. Reduce heat to low and let cook until caramelized, about ½ hour. Remove from heat.
 

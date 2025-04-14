@@ -1,15 +1,5 @@
-NEW YORK STYLE CHEESECAKE
+3 lbs cream cheese (4 12 oz pkg)  •  .9 lbs. sugar (2 cups)  •  1.2 oz cornstarch  •  .4 oz vanilla (1 tbsp)  •  .1 lb. butter (3 tbsp)  •  .1 gal eggs (9 eggs)  •  .55 qts half & half (2 ¼ cups)
 
-NEW YORK STYLE CHEESECAKE
+Mix, pour, bake
 
-3 LBS CREAM CHEESE (4 12 OZ PKG)
-.9 LBS. SUGAR (2 CUPS)
-1.2 OZ CORNSTARCH
-.4 OZ VANILLA (1 TBSP)
-.1 LB. BUTTER (3 TBSP)
-.1 GAL EGGS (9 EGGS)
-.55 QTS HALF & HALF (2 ¼ CUPS)
-
-MIX, POUR, BAKE
-
-MAKES (1) 10" CHEESECAKE
+Makes (1) 10" cheesecake

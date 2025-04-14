@@ -1,24 +1,8 @@
-Bow Ties with Pesto and Tomatoes
-
-"I LOVE ITALIAN-INSPIRED FOOD. IT’S INTUITIVE AND NATURAL, AND THE ingredients speak for themselves; you don’t have to do too much to them."
-—DAVE LIEBERMAN, HOST OF HIS OWN FOOD NETWORK COOKING SHOW
-
 Pesto:
-5 big handfuls of basil leaves
-½ cup pine nuts OR ¾ cup walnuts
-Juice of 1 lemon
-2 cloves garlic, peeled
-Kosher salt
-Freshly ground black pepper
-¾ cup extra-virgin olive oil
+5 big handfuls of basil leaves  •  ½ cup pine nuts OR ¾ cup walnuts  •  Juice of 1 lemon  •  2 cloves garlic, peeled  •  Kosher salt  •  Freshly ground black pepper  •  ¾ cup extra-virgin olive oil
 
 Pasta Salad:
-1 pound bowtie pasta
-¾ cup pesto (see recipe above)
-½ pint cherry tomatoes, halved
-1 cup feta cheese, crumbled
-Kosher salt
-Freshly ground pepper
+1 pound bowtie pasta  •  ¾ cup pesto (see recipe above)  •  ½ pint cherry tomatoes, halved  •  1 cup feta cheese, crumbled  •  Kosher salt  •  Freshly ground pepper
 
 Pesto directions:
 Place all ingredients with ½ cup oil in blender. Blend. With motor running, drizzle in remaining ¼ cup oil until pesto is thick and smooth.

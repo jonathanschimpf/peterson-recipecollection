@@ -1,16 +1,4 @@
-german pancake
-ACTIVE: 10 MIN | TOTAL: 25 MIN
-SERVES 4
-
-4 large eggs
-½ cup whole milk
-½ cup flour
-1 Tbsp granulated sugar
-½ tsp pure vanilla extract
-½ tsp grated lemon zest
-¼ tsp kosher salt
-2 Tbsp unsalted butter
-Confectioners' sugar, for serving
+4 large eggs  •  ½ cup whole milk  •  ½ cup flour  •  1 Tbsp granulated sugar  •  ½ tsp pure vanilla extract  •  ½ tsp grated lemon zest  •  ¼ tsp kosher salt  •  2 Tbsp unsalted butter  •  Confectioners' sugar, for serving
 
 1. Heat oven to 425°F. In a blender, purée the eggs, milk, flour, granulated sugar, vanilla, lemon zest and salt until well combined.
 

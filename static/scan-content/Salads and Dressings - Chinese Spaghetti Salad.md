@@ -1,5 +1,3 @@
-CHINESE SPAGHETTI SALAD
+Cook spaghetti noodles  •  2 tbsp olive oil  •  2 tbsp butter  •  Salt + Pepper  •  1 onion chopped  •  Chopped parsley  •  Chopped green olives  •  Shredded mozzarella cheese  •  Can tuna  •  Chopped pimento.
 
-COOK SPAGHETTI NOODLES, 2 TBSP OLIVE OIL, 2 TBSP BUTTER, SALT, PEPPER, 1 ONION CHOPPED, CHOPPED PARSLEY, CHOPPED GREEN OLIVES, SHREDDED MOZZARELLA CHEESE, CAN TUNA, CHOPPED PIMENTO.
-
-COOK NOODLES, MIX ALL INGREDIENTS, COOK & SERVE
+Cook noodles, mix all ingredients, cook & serve.

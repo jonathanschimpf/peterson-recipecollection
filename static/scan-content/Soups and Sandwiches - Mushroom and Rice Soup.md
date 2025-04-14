@@ -1,3 +1,1 @@
-MUSHROOM & RICE SOUP
-
-DICED BACON - BROWNED, SAUTE ONIONS, CARROTS & CELERY. ADD CHOPPED MUSHROOMS (VARIETY), COOKED WILD RICE, CHICKEN BROTH, SHERRY, SPICES
+Diced bacon - browned, saute onions, carrots & celery. Add chopped mushrooms (variety), cooked wild rice, chicken broth, sherry, spices.

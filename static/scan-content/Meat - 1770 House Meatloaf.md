@@ -1,29 +1,9 @@
-1770 House Meatloaf
-2011, Kevin Penner, All Rights Reserved
 
-Prep Time: 20 min
-Cook Time: 1 hr 2 min
-Level: Easy
-Serves: 6 to 8 servings
+Prep Time: 20 min  •  Cook Time: 1 hr 2 min  •  Level: Easy  •  Serves: 6 to 8 servings
 
-Ingredients
-1 pound ground veal (preferably naturally raised)
-1 pound pork (preferably naturally raised Berkshire)
-1 pound ground beef (preferably naturally raised)
-1 tablespoon chopped, fresh chives, plus 1 teaspoon for the sauce
-1 tablespoon chopped, fresh thyme leaves, plus 1 teaspoon for the sauce
-1 tablespoon chopped fresh Italian parsley, plus 1 teaspoon for the sauce
-3 large eggs (preferably organic)
-1 1/3 cups finely ground Panko
-2/3 cup whole milk (preferably hormone and antibiotic free)
-1 tablespoon kosher salt
-1 1/2 teaspoons freshly ground black pepper
-Olive oil
-2 stalks of celery, finely diced
-1 large Spanish onion, finely diced
-2 cups chicken or beef stock
-8 to 10 cloves roasted garlic
-3 tablespoons butter, at room temperature
+Ingredients:
+1 pound ground veal (preferably naturally raised)  •  1 pound pork (preferably naturally raised Berkshire)  •  1 pound ground beef (preferably naturally raised)  •  1 tablespoon chopped, fresh chives, plus 1 teaspoon for the sauce  •  1 tablespoon chopped, fresh thyme leaves, plus 1 teaspoon for the sauce  •  1 tablespoon chopped fresh Italian parsley, plus 1 teaspoon for the sauce  •  3 large eggs (preferably organic)  •  1 1/3 cups finely ground Panko  •  2/3 cup whole milk (preferably hormone and antibiotic free)  •  1 tablespoon kosher salt  •  1 1/2 teaspoons freshly ground black pepper
+Olive oil  •  2 stalks of celery, finely diced  •  1 large Spanish onion, finely diced  •  2 cups chicken or beef stock  •  8 to 10 cloves roasted garlic  •  3 tablespoons butter, at room temperature
 
 
 Directions
@@ -36,7 +16,3 @@ Heat a medium sauté pan over medium-high heat and melt it with extra-virgin oli
 Using clean hands, mix the ingredients until well combined and everything is evenly distributed. Place a piece of parchment paper on a sheet pan (it should have sides at least 1 1/2 inches high to prevent grease runoff from the pan). Place the meat on the sheet pan and pat it and punch it down to remove any air pockets. Shape the meat into a loaf (about 14 1/2 inches long by 5 inches wide by 2 inches high). Place the sheet pan in the oven and bake 40 to 50 minutes or until a meat thermometer indicates an internal temperature of 155 to 160 degrees. Remove the meatloaf from the oven and let it rest for 10 minutes.
 
 Meanwhile, for the sauce, combine the broth, roasted garlic and butter over medium-high heat and simmer for about 10 to 15 minutes, or until lightly thickened. Add the rest of the chopped thyme, chives and parsley. Slice the meatloaf into serving portions and spoon the hot sauce over the meatloaf and serve.
-
-A viewer, who may not be a professional cook, provided this recipe. The Food Network Kitchens chefs have not tested this recipe and therefore, we cannot make representation as to the results.
-
-© 2011 Television Food Network, G.P. All Rights Reserved

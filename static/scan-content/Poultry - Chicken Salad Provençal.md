@@ -1,31 +1,14 @@
-PROVENCAL CHICKEN SALAD
+Evoo, 2 lbs gold potatoes cut in wedges  •  4 small onions cut in wedges, 8-10 cloves garlic  •  1 lb gr beans or asparagus  •  1 pint cherry tomatoes  •  ½ cup ripe olives, 4 boneless/skinless breasts  •  1 shallot, sage, tarragon  •  2 tsp dried marjoram  •  1 cup italian parsley  •  2 tbsp dijon mustard  •  4 cups arugula   •  Baguette
 
-EVOO, 2 LBS GOLD POTATOES CUT IN WEDGES
-4 SMALL ONIONS CUT IN WEDGES, 8-10 CLOVES GARLIC
-1 LB GR BEANS OR ASPARAGUS
-1 PINT CHERRY TOMATOES
-½ CUP RIPE OLIVES, 4 BONELESS/SKINLESS BREASTS
-1 SHALLOT, SAGE, TARRAGON 
-2 TSP DRIED MARJORAM
-1 CUP ITALIAN PARSLEY
-2 TBSP DIJON MUSTARD
-4 CUPS ARUGULA 
-BAGUETTE
+Oven at 450°f
 
-OVEN AT 450°F
 
-FROM RACHAEL RAY
+Toss pot/onion/garlic/evoo/salt/pepper. Bake on baking sheet for 45' - turn once
 
-TOSS POT/ONION/GARLIC/EVOO/SALT/PEPPER
-BAKE ON BAKING SHEET FOR 45' - TURN ONCE
+Toss beans/asparagus/tom/olives/evoo/. Salt/pepper bake on baking sht for 20’.
 
-TOSS BEANS/ASPARAGUS/TOM/OLIVES/EVOO/
-SALT/PEPPER BAKE ON BAKING SHT FOR 20’
+Puree shallots/herbs/mustard/salt/pepper. ¼ to ⅓ cup evoo into a pesto.
 
-PUREE SHALLOTS/HERBS/MUSTARD/SALT/PEPPER
-¼ TO ⅓ CUP EVOO INTO A PESTO
+Brown chicken & cut into pieces.
 
-BROWN CHICKEN & CUT INTO PIECES
-
-COMBINE ALL INTO BOWL
-SERVE W/BAGUETTE
+Combine all into bowl. Serve w/baguette.

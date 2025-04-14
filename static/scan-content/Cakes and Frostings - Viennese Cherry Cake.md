@@ -1,21 +1,9 @@
-Viennese Cherry Cake
-
 Pastry:
-8 tbsp (100g) butter, softened
-¼ cup (60g) sugar
-1 ½ cups (150g) all-purpose flour
+8 tbsp (100g) butter, softened  •  ¼ cup (60g) sugar  •  1 ½ cups (150g) all-purpose flour
 1 ½ to 3 tablespoon ice water
 
 Cake:
-1 ¼ cups + 2 tblspns (200g) butter softened
-1 ¼ cups + 2 tblsps. granulated sugar
-6 eggs, separated
-Lemon rind
-Pinch of salt
-1 ¼ cups + 2 tbsp (150g) all purpose flour
-1 ¼ cups (150g) cornstarch
-1 lb. (450g) fresh pitted cherries
-Powdered sugar
+1 ¼ cups + 2 tblspns (200g) butter softened  •  1 ¼ cups + 2 tblsps. granulated sugar  •  6 eggs, separated  •  Lemon rind  •  Pinch of salt  •  1 ¼ cups + 2 tbsp (150g) all purpose flour  •  1 ¼ cups (150g) cornstarch  •  1 lb. (450g) fresh pitted cherries  •  Powdered sugar
 
 Knead well, adding enough ice water to make soft dough. Press into a ball. Refrigerate 2 hours, wrapped in foil or plastic wrap. Preheat oven to 425°F. On floured surface, roll out dough to fit the bottom of 9" inch cake pan. Bake blind 15 minutes or until golden. Reduce heat to 375°F.
 

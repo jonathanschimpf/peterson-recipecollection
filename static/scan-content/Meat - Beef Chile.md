@@ -1,22 +1,4 @@
-CHILI
+1 lb. ground beef  •  2 t flour  •  1 t chili pwdr  •  2 t salt  •  1 t sugar  •  1 lb. can kidney beans  •  Chopped onion  •  Chopped celery  •  1 c tomatoe juice  •  1/8 t cumin  •  Garlic salt  •  Canned tomatoes  •  Black pepper  •  Green pepper (chopped)  •  Tomatoe sauce  •  1/4 t red pepper flakes  •  Ketchup
 
-1 LB. GROUND BEEF
-2 T FLOUR
-1 T CHILI PWDR
-2 t SALT
-1 t SUGAR
-1 LB. CAN KIDNEY BEANS
-CHOPPED ONION 
-CHOPPED CELERY
-1 C TOMATOE JUICE
-1/8 t CUMIN
-GARLIC SALT
-CANNED TOMATOES
-BLACK PEPPER
-GREEN PEPPER (CHOPPED)
-TOMATOE SAUCE
-1/4 t RED PEPPER FLAKES 
-KETCHUP
-
-BROWN MEAT, ONIONS, CELERY, GARLIC & GREEN PEPPER. ADD REST OF INGREDIENTS & SIMMER FOR 1-3/4 HOURS.
+Brown meat, onions, celery, garlic & green pepper. add rest of ingredients & simmer for 1-3/4 hours.
 

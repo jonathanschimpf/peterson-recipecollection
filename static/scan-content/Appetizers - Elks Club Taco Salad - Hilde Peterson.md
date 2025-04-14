@@ -1,24 +1,20 @@
-ELKS CLUB TACO SALAD
+1 - ½ lb ground beef •
+2 pkgs taco seasoning mix •
+1 medium onion – diced •
+1 green pepper – diced •
+1 package cherry tomatoes •
+1 large bottle catalina dressing • 
+1 9 oz bottle lawry's taco sauce •
+1 head of lettuce, shredded •
+1 8 oz package shredded cheddar •
+1 16 oz pkg. nacho cheese doritos (crushed) 
 
-ELKS CLUB TACO SALAD
-
-1 - ½ LB GROUND BEEF
-2 PKGS TACO SEASONING MIX
-1 MEDIUM ONION – DICED
-1 GREEN PEPPER – DICED
-1 PACKAGE CHERRY TOMATOES
-1 LARGE BOTTLE CATALINA DRESSING
-1 9 OZ BOTTLE LAWRY'S TACO SAUCE
-1 HEAD OF LETTUCE, SHREDDED
-1 8 OZ PACKAGE SHREDDED CHEDDAR
-1 16 OZ PKG. NACHO CHEESE DORITOS (CRUSHED)
-
-BROWN GROUND BEEF, DRAIN FAT
-COMBINE W/ TACO SEASONING, COOK
-15 MINUTES. MIX IN LARGE BOWL,
-GREEN PEPPER, ONION, LETTUCE. IN
-SEPARATE BOWL COMBINE CATALINA
-DRESSING & TACO SAUCE. WHEN READY
-TO SERVE, POUR SAUCE OVER
-MEAT, ADD CHEESE, DORITOS
-& TOMATOES. MIX WELL.
+Brown ground beef, drain fat
+Combine w/ taco seasoning, cook
+15 minutes. mix in large bowl,
+Green pepper, onion, lettuce. in
+Separate bowl combine catalina
+Dressing & taco sauce. when ready
+To serve, pour sauce over
+Meat, add cheese, doritos
+& tomatoes. mix well.

@@ -1,17 +1,9 @@
 Omi's Mürbteig Cut-out Cookies
 American equivalent to German recipe.
-Courtesy of Philip
+Courtesy of Philip.
 
 Ingredients:
-2 sticks of butter
-1 cup sugar
-3 tablespoons Sour cream
-3 cups of flour
-1 package baking powder (these mom bought, they are approximately 5 teaspoons)
-1 package Vanilla sugar
-½ large lemon zest
-1 tablespoon lemon juice
-2 egg yolks
+2 sticks of butter  •  1 cup sugar  •  3 tablespoons Sour cream  •  3 cups of flour  •  1 package baking powder (these mom bought, they are approximately 5 teaspoons)  •  1 package Vanilla sugar  •  ½ large lemon zest  •  1 tablespoon lemon juice  •  2 egg yolks
 
 Directions:
 Combine flour, baking powder, vanilla sugar, on a board. Cut room temperature butter into the dry ingredients, and crumble mixture together. Once combined add the sugar, egg yolks, lemon zest, lemon juice, and sour cream. Work into dough.

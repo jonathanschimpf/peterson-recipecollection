@@ -1,13 +1,4 @@
-Taco Soup
-from Barbara Froemming
-
-1 lb. Ground chuck or sirloin
-1 46 oz. can Tomato or V8 juice
-1 can (14 oz.) Kidney beans
-1 can (14 oz.) Corn
-1 can (14 oz.) Diced tomatoes
-1 can (14 oz.) Black beans
-½ to 1 pkg. Taco seasoning
+1 lb. Ground chuck or sirloin  •  1 46 oz. can Tomato or V8 juice  •  1 can (14 oz.) Kidney beans  •  1 can (14 oz.) Corn  •  1 can (14 oz.) Diced tomatoes  •  1 can (14 oz.) Black beans  •  ½ to 1 pkg. Taco seasoning
 
 Brown the ground beef; drain off any excess fat. Throw in the rest of the ingredients and simmer for awhile. Can also be crockpotted. Top with shredded cheddar cheese, sour cream and sliced green onions, if desired.
 

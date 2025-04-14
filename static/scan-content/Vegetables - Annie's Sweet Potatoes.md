@@ -1,15 +1,9 @@
-ANNIE'S SWEET POTATOES
+3 large sweet potatoes  •  2 granny smith apples  •  1/2 cup brown sugar  •  1/4 cup butter 1 t flour  •  1/2 tsp salt 1/2 tsp cinnamon
 
-3 LARGE SWEET POTATOES
-2 GRANNY SMITH APPLES
-1/2 CUP BROWN SUGAR
-1/4 CUP BUTTER 1 T FLOUR
-1/2 TSP SALT 1/2 TSP CINNAMON
+Mix sauce ingredients & cook slowly. pour syrup over sweet potatoes & apples.
 
-MIX SAUCE INGREDIENTS & COOK SLOWLY. POUR SYRUP OVER SWEET POTATOES & APPLES.
+Top w/ marshmallows.
 
-TOP W/ MARSHMALLOWS
+350°f 1/2 hour.
 
-350°F 1/2 HOUR
-
-MARSHMALLOWS LAST 10 MIN
+Marshmallows last 10 min.

@@ -1,13 +1,7 @@
-Homemade Mayonnaise makes about 1 3/4 c
+Makes about 1 3/4 c
 
-2 large eggs, at room temperature
-1 Tbsp fresh lemon juice
-2 tsp Dijon mustard
-1/4 tsp salt
-1/8 tsp freshly ground pepper
-1 c vegetable oil
-1/2 c extra-virgin olive oil
+2 large eggs, at room temperature  •  1 Tbsp fresh lemon juice  •  2 tsp Dijon mustard  •  1/4 tsp salt  •  1/8 tsp freshly ground pepper  •  1 c vegetable oil  •  1/2 c extra-virgin olive oil
 
-1. Place the eggs, lemon juice, mustard, salt and pepper in a blender. In a glass measuring cup, combine the vegetable and olive oils.
+1 - Place the eggs, lemon juice, mustard, salt and pepper in a blender. In a glass measuring cup, combine the vegetable and olive oils.
 
-2. With the machine running, slowly add the oils through the opening in the blender lid, and process until the mayonnaise is thick.
+2 - With the machine running, slowly add the oils through the opening in the blender lid, and process until the mayonnaise is thick.

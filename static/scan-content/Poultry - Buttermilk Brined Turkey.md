@@ -1,11 +1,4 @@
-FARMSTEAD THANKSGIVING
-
-buttermilk-brined turkey
-
-1½ cups turkey brine
-4 qt. buttermilk
-1 fresh turkey, 16-18 lbs., heart, neck and gizzard removed (reserved, if desired)
-4 Tbs. (½ stick) butter, at room temperature
+1½ cups turkey brine  •  4 qt. buttermilk  •  1 fresh turkey, 16-18 lbs., heart, neck and gizzard removed (reserved, if desired)  •  4 Tbs. (½ stick) butter, at room temperature
 
 In saucepan, bring turkey brine and 1 qt. water to boil. Simmer over medium-low heat, stirring until brine dissolves, 5-10 minutes.
 Let cool to room temperature. In large pot, combine brine mixture and buttermilk.
@@ -20,5 +13,3 @@ Position rack in lower third of oven; preheat to 400°F. Roast turkey 30 minutes
 
 Transfer turkey to carving board; tent with foil. Let rest 20-30 minutes before carving.
 Serves 12-14.
-
-Williams-Sonoma Kitchen

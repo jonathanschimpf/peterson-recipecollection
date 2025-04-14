@@ -1,28 +1,6 @@
-Lasagna
-12
+1 lb. italian sausage  •  1 lb. gr. beef  •  1 tsp garlic pwd.  •  1 tbsp. chopped parsley  •  1 tbsp. basil  •  1-1/2 tsp salt  •  1 lb. can (2 c.) tomatoes  •  2 6oz. cans (1-1/2 c.) tomato paste  •  1 10 oz. pkg. lasagna noodles  •  2 12 oz. cartons (3 c.) cottage cheese  •  2 eggs  •  2 tsp salt  •  1/2 tsp pepper  •  2 tbsp. chopped parsley  •  1/2 c. grated parmesan cheese  •  1 lb mozzarella cheese, sliced thin
 
-1 lb. ITALIAN SAUSAGE
-1 lb. GR. BEEF
-1 TSP GARLIC PWD.
-1 TBSP. CHOPPED PARSLEY
-1 TBSP. BASIL
-1-1/2 TSP SALT
-1 lb. CAN (2 C.) TOMATOES
-2 6oz. CANS (1-1/2 C.) TOMATO PASTE
-1 10 oz. PKG. LASAGNA NOODLES
-2 12 oz. CARTONS (3 C.) COTTAGE CHEESE
-2 EGGS
-2 TSP SALT
-1/2 TSP PEPPER
-2 TBSP. CHOPPED PARSLEY
-1/2 C. GRATED PARMESAN CHEESE
-1 LB MOZZARELLA CHEESE, SLICED THIN
-
-BROWN MEAT, SPOON OFF FAT, ADD NEXT 6 INGREDIENTS, SIMMER, UNCOVERED TILL THICK 45"-60", STIRRING OCCASIONALLY. COOK NOODLES IN BOILING WATER TILL TENDER, DRAIN, RINSE. COMBINE COTTAGE CHEESE WITH NEXT 5 INGREDIENTS. PLACE HALF THE NOODLES IN 13 x 9 x 2 DISH, SPREAD HALF COTTAGE CHEESE, ADD HALF MOZARELLA, ADD HALF MEAT, REPEAT, BAKE 375°F FOR 30", LET STAND 10"-15"
-
-
-
-
+Brown meat, spoon off fat, add next 6 ingredients, simmer, uncovered till thick 45"-60", stirring occasionally. cook noodles in boiling water till tender, drain, rinse. combine cottage cheese with next 5 ingredients. place half the noodles in 13 x 9 x 2 dish, spread half cottage cheese, add half mozarella, add half meat, repeat, bake 375°f for 30", let stand 10"-15"
 
 
 

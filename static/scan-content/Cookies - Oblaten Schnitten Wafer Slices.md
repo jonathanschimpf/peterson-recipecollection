@@ -1,16 +1,14 @@
-OBLATEN SCHNITTEN
+Von 6 eiweis festen schnee schlagen
+18 dk. zucker, 10 dk. mehl, 6 eigelb lang - 
+Sam dazu, einen bisquit backen.
+Von 4 eiweis festen schnee schlagen
+24 dk. zucker, 15 dk. gemahlene nüssen
+Rein mischen auf 2 oblaten streichen
+Und backen.
 
-VON 6 EIWEIS FESTEN SCHNEE SCHLAGEN
-18 DK. ZUCKER, 10 DK. MEHL, 6 EIGELB LANG - 
-SAM DAZU, EINEN BISQUIT BACKEN.
-VON 4 EIWEIS FESTEN SCHNEE SCHLAGEN
-24 DK. ZUCKER, 15 DK. GEMAHLENE NÜSSEN
-REIN MISCHEN AUF 2 OBLATEN STREICHEN
-UND BACKEN.
-
-FÜLLE: 4 EIGELB, 15 DK STAUBZUCKER,
-14 DK. BUTTER, EINE TAFFEL BACKCHOKOLADE,
-UND 1 LÖFFEL INSTANT COFFEE MIT 1 LÖFFEL
-HEISEN WASER AUFLÖSEN.
-DIESE FÜLLE AUF BEIDE OBLATEN STREICHEN
-UND DEN BISQUIT IN DIE MITTE
+Fülle: 4 eigelb, 15 dk staubzucker,
+14 dk. butter, eine taffel backchokolade,
+Und 1 löffel instant coffee mit 1 löffel
+Heisen waser auflösen.
+Diese fülle auf beide oblaten streichen
+Und den bisquit in die mitte

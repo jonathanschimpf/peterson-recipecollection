@@ -1,21 +1,7 @@
-COCOA CHIFFON CAKE
+¾ c. flour  •  ⅞ c. sugar (¾ c + 2 tbsp.)  •  2 tsp baking powder  •  ½ tsp. salt  •  ¼ c. oil  •  4 egg yolks  •  ⅜ c. water  •  ¼ c. cocoa  •  ½ tsp vanilla  •  ⅛ tsp red food coloring (opt.)  •  4 egg whites  •  ¼ tsp cream of tartar
 
-¾ C. FLOUR
-⅞ C. SUGAR (¾ C + 2 TBSP.)
-2 TSP BAKING POWDER
-½ TSP. SALT
-¼ C. OIL
-4 EGG YOLKS
-⅜ C. WATER
-¼ C. COCOA
-½ TSP VANILLA
-⅛ TSP RED FOOD COLORING (OPT.)
-4 EGG WHITES
-¼ TSP CREAM OF TARTAR
+Sift flour, sugar, baking powder, & salt, box water, add cocoa, mix and cool, add in order the following to sifted ingredients: oil, yolks, cocoa mixture, vanilla, & food coloring, mix 
 
-SIFT FLOUR, SUGAR, BAKING POWDER, & SALT, BOX WATER, ADD COCOA, MIX AND COOL, ADD IN ORDER THE FOLLOWING TO SIFTED INGREDIENTS: OIL, YOLKS, COCOA MIXTURE, VANILLA, & FOOD COLORING, MIX 
+Put whites in large bowl & cream of tartar. whip until whites form very stiff peaks, pour egg yolk mixture over whipped whites, folding,
 
-PUT WHITES IN LARGE BOWL & CREAM OF TARTAR. WHIP UNTIL WHITES FORM VERY STIFF PEAKS, POUR EGG YOLK MIXTURE OVER WHIPPED WHITES, FOLDING,
-
-POUR INTO UNGREASED PAN, (9" TUBE), BAKE AT 325°F FOR 30, COOL UPSIDE DOWN.
-
+Pour into ungreased pan, (9" tube), bake at 325°f for 30, cool upside down.

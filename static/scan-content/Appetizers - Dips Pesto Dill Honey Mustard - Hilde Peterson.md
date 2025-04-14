@@ -1,28 +1,19 @@
-DIPS - PESTO, DILL, HONEY MUSTARD
+Pesto
 
-DIPS - PESTO, DILL, HONEY MUSTARD
+Pesto sauce
+Add mayo & sour cream (more sour cream)
 
+Fresh Dill
 
+Mayo
+Sour cream
+Crushed garlic
+Chopped onion
+Fresh dill
 
-PESTO
+Honey Mustard
 
-PESTO SAUCE
-ADD MAYO & SOUR CREAM (MORE SOUR CREAM)
-
-
-FRESH DILL
-
-MAYO
-SOUR CREAM
-CRUSHED GARLIC
-CHOPPED ONION
-FRESH DILL
-
-
-HONEY MUSTARD
-
-HONEY
-MUSTARD
-MAYO
-SOUR CREAM
-
+Honey
+Mustard
+Mayo
+Sour cream

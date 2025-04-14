@@ -1,14 +1,6 @@
-Lemon Bars
 Linda Andres
 
-2 cups sifted flour
-½ cup confectioners sugar
-1 cup butter or marg.
-4 eggs beaten
-2 cups sugar
-⅓ cup lemon juice
-¼ cup flour
-½ tsp baking powder
+2 cups sifted flour  •  ½ cup confectioners sugar  •  1 cup butter or marg.  •  4 eggs beaten  •  2 cups sugar  •  ⅓ cup lemon juice  •  ¼ cup flour  •  ½ tsp baking powder
 
 4 doz
 

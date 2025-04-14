@@ -19,4 +19,15 @@
 	.search:focus {
 		border-color: olive;
 	}
+
+	/* ===================================================
+     MEDIA QUERY BECAUSE NOT ALL PETERSON'S USE  PRODUCTS 
+	 =================================================== */
+	@media (max-width: 600px) {
+		.search {
+			font-size: 14px;
+			padding: 4px 8px;
+			width: 140px; /* SLIGHT REDUCTION ON SMALLER VIEWPORTS */
+		}
+	}
 </style>

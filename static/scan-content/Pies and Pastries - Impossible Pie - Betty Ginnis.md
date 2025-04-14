@@ -1,13 +1,7 @@
-Impossible Pie
-Betty Ginnis
-
 2 cups milk
-3/4 cup sugar
-1/2 c biscuit mix
-4 eggs
-1/4 cup margarine
-1 1/2 teaspoon vanilla
-* Optional 1 cup coconut
+3/4 cup sugar  •  1/2 c biscuit mix  •  4 eggs  •  1/4 cup margarine  •  1 1/2 teaspoon vanilla
+
+Optional 1 cup coconut *
 
 Combine first six ingredients in blender container. Cover and blend on low speed for 3 minutes. Pour into greased 9-inch pie pan. Let stand about 5 minutes, then sprinkle with coconut. (over)
 

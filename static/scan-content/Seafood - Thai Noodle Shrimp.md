@@ -1,23 +1,3 @@
-THAI NOODLE SHRIMP
+Oil - 1/4 cup shrimp - 12 oz  •  Chix - 3 breasts  eggs - 3 whipped  •  Rice noodles - 1 pkg soaked  •  Garlic - 2 cloves  •  Green onions - 4  •  Red pepper flakes  •  Pea pods - 2 pkgs, julienned  •  Thai fish sauce - 4 tbsp  •  Sugar - 3 tbsp  •  Lime juice - 5 tbsp  •  Soy sauce - dash
 
-OIL - 1/4 CUP SHRIMP - 12 OZ.
-CHIX - 3 BREASTS  EGGS - 3 WHIPPED
-RICE NOODLES - 1 PKG SOAKED
-GARLIC - 2 CLOVES
-GREEN ONIONS - 4
-RED PEPPER FLAKES
-PEA PODS - 2 PKGS, JULIENNED
-THAI FISH SAUCE - 4 TBSP
-SUGAR - 3 TBSP
-LIME JUICE - 5 TBSP
-SOY SAUCE - DASH
-
-(1) SAUTE MEAT
-(2) ADD GARLIC
-(3) ADD EGGS (OVER)
-(4) ADD ONIONS & PEA PODS
-(5) ADD NOODLES & PEPPER FLAKES
-(6) COMBINE FISH SAUCE, SUGAR & LIME JUICE
-(7) ADD SAUCE
-
-6
+(1) Saute meat  •  (2) Add garlic  •  (3) Add eggs (over)  •  (4) Add onions & pea pods  •  (5) Add noodles & pepper flakes  •  (6) Combine fish sauce, sugar & lime juice  •  (7) Add sauce

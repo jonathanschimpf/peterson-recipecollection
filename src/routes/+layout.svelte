@@ -55,7 +55,7 @@
 	}
 
 	.title {
-		font-size: 22px;
+		font-size: 21px;
 		font-weight: bold;
 		color: olive;
 		text-align: center;
@@ -68,9 +68,17 @@
 		align-items: center;
 	}
 
-	.nav-links {
-		display: flex;
-		gap: 15px;
+	/* ===================================================
+     MEDIA QUERY BECAUSE NOT ALL PETERSON'S USE  PRODUCTS 
+	 =================================================== */
+	@media (max-width: 600px) {
+		.title {
+			font-size: 18px;
+		}
+
+		.nav-links a {
+			font-size: 14px;
+		}
 	}
 
 	.nav-links a {

@@ -1,14 +1,1 @@
-7 LAYER SALAD
-IRENE BLAND
-
-LAYER     AMOUNT
-
-LETTUCE   1 HEAD
-CELERY    ½ CUP
-ONION     ½ CUP
-PEAS      1 PKG FROZEN
-MAYONAISE 1 PT.
-SUGAR     2 TBSP.
-CHEDDAR CHEESE 4 OZ.
-PARMESAN CHEESE THIN LAYER
-BACON-CRUMBLED 6-7 SLICES
+1 head of Lettuce  •  ½ cup of Celery  •  ½ cup of Onion  •  1 pkg frozen Peas  •  1 pt. Mayonaise  •   2 tbsp. Sugar  •  Cheddar cheese 4 oz.  •  Parmesan cheese thin layer  •  Bacon-crumbled 6-7 slices.

@@ -1,14 +1,3 @@
-PINEAPPLE CASSEROLE
+½ cup butter  •  1 cup sugar  •  4 eggs  •  #2 can crushed pineapple – drained  •  5 pieces bread cubed
 
-PINEAPPLE CASSEROLE
-
-½ CUP BUTTER
-1 CUP SUGAR
-4 EGGS
-#2 CAN CRUSHED PINEAPPLE – DRAINED
-5 PIECES BREAD CUBED
-
-CREAM BUTTER & SUGAR
-ADD EGGS & BEAT WELL
-ADD PINEAPPLE & STIR IN BREAD
-BAKE IN 1-½ QT. GREASED CASSEROLE FOR 1 HOUR, UNCOVERED, AT 350°
+Cream butter & sugar. Add eggs & beat well. Add pineapple & stir in bread. Bake in 1-½ qt. greased casserole for 1 hour, uncovered, at 350°.

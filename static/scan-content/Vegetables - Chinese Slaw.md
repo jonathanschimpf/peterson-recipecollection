@@ -1,17 +1,4 @@
-CHINESE SLAW
+1 can french cut beans  •  1 can peas  •  1 can mixed chinese vegetables  •  ½ c. chopped onion  •  ½ c. chopped celery  •  4 oz. can sliced water chestnuts  •  Chopped pimento  •  ⅔ c. sugar  •  2 tbsp cornstarch  •  ¾ c. cider vinegar
 
-10-12
-
-1 CAN FRENCH CUT BEANS,
-1 CAN PEAS, 
-1 CAN MIXED CHINESE VEGETABLES,
-½ C. CHOPPED ONION,
-½ C. CHOPPED CELERY,
-4 OZ. CAN SLICED WATER CHESTNUTS,
-CHOPPED PIMENTO,
-⅔ C. SUGAR,
-2 TBSP CORNSTARCH,
-¾ C. CIDER VINEGAR,
-
-MIX SUGAR, CORNSTARCH & VINEGAR,
-COOK UNTIL THICK. COOL, POUR OVER VEGETABLES, SALT & PEPPER
+Mix sugar, cornstarch & vinegar,
+Cook until thick. cool, pour over vegetables, salt & pepper

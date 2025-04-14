@@ -1,10 +1,4 @@
-4 ounces - mushrooms (thinly sliced)
-1 small leek (white and light green parts only, halved crosswise and lengthwise, thinly sliced)
-1 tablespoon - olive oil
-Kosher salt and pepper to taste
-1 pound - pizza dough (12-inch)
-2 tablespoons - pesto
-2 ounces - fresh goat cheese (about ½ cup; crumbled)
+4 ounces - mushrooms (thinly sliced)  •  1 small leek (white and light green parts only, halved crosswise and lengthwise, thinly sliced)  •  1 tablespoon - olive oil  •  Kosher salt and pepper to taste  •  1 pound - pizza dough (12-inch)  •  2 tablespoons - pesto  •  2 ounces - fresh goat cheese (about ½ cup; crumbled)
 
 
 1. Heat the oven to 425°F. In a large bowl, toss the mushrooms, leek, olive oil, ¼ teaspoon salt and ⅛ teaspoon pepper.

@@ -1,19 +1,9 @@
-WASSAIL
-
-PAT SCHREIBER
+Pat schreiber
 
 100
 
-INGREDIENT AMOUNT
+Apple cider 1 gal  •  Pineapple juice 1 qt  •  Orange juice 1 qt  •  Lemon juice 1 qt  •  Sugar 3 cups  •  Cloves 2 tablespoons  •  Cinnamon sticks 2 sticks  
 
-APPLE CIDER 1 GAL  
-PINEAPPLE JUICE 1 QT  
-ORANGE JUICE 1 QT  
-LEMON JUICE 1 QT  
-SUGAR 3 CUPS  
-CLOVES 2 TABLESPOONS  
-CINNAMON STICKS 2 STICKS  
+Bring to boil - simmer  
 
-BRING TO BOIL - SIMMER  
-
-15 MINUTES  
+15 minutes  

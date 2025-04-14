@@ -1,8 +1,4 @@
-6 cups flour
-1 ½ tablespoons oil
-1 teaspoon salt
-2 teaspoon baking powder
-1 ½ cups warm water
+6 cups flour  •  1 ½ tablespoons oil  •  1 teaspoon salt  •  2 teaspoon baking powder  •  1 ½ cups warm water
 
 
 Put all dry ingredients in a mixing bowl. Add oil and rub through hands until blended. Add water a little at a time; until the dough feels the right consistency. let it stand 10minutes before rolling.

@@ -1,18 +1,4 @@
-Orange Cream Cake
-Kathy
-
-1 18½ oz. pkg lemon cake mix
-1 envelope unsweetened Kool Ade
-3 eggs
-1 c water
-⅓ c vegetable oil
-2 3oz pkgs orange Jello (divided)
-1 c boiling water
-1 c cold water
-1 c cold milk
-1 tsp vanilla ext.
-3.4oz pkg instant vanilla pudding
-8 oz carton Cool Whip, thawed
+1 18½ oz. pkg lemon cake mix  •  1 envelope unsweetened Kool Ade  •  3 eggs  •  1 c water  •  ⅓ c vegetable oil  •  2 3oz pkgs orange Jello (divided) •  1 c boiling water •  1 c cold water •  1 c cold milk •  1 tsp vanilla ext. •  3.4oz pkg instant vanilla pudding •  8 oz carton Cool Whip, thawed
 
 12-15
 

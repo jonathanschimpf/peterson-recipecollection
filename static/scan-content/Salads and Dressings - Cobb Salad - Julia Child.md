@@ -1,15 +1,10 @@
-COBB SALAD
-
-CHOP LETTUCE, ROMAINE, CHICORY & PARSLEY. PUT IN BOTTOM OF BOWL. LAYER FOLLOWING ACROSS LETTUCE.
+Chop lettuce, romaine, chicory & parsley. put in bottom of bowl. layer following across lettuce.
 
 ROW
 
-CHOPPED CHICKEN & BACON (1)
-" EGGS (HARD BOILED) (2)
-" TOMATOES (3)
-" AVACADO (4)
+Chopped chicken & bacon (1)  •  Chopped eggs (hard boiled) (2)  •  Chopped tomatoes (3)  •  Chopped avacado (4)
 
-POUR DRESSING OVER TOP (AT TABLE)
+Pour dressing over top (at table)
 TOSS
 
-SUGGESTED VINEGAR & OIL OR ITALIAN
+Suggested vinegar & oil or italian

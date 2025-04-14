@@ -1,8 +1,4 @@
-Fruit Salad in Lemon Sauce
-
-4 egg yolks, well beaten
-1 cup milk
-2 tbsp. sugar
+4 egg yolks, well beaten  •  1 cup milk  •  2 tbsp. sugar
 
 Put into double boiler and cook until mixture coats spoon. Remove and when luke-warm add ¼ cup cut up marshmallows or miniature ones. When cool, add juice of 2 lemons. Add cut up fruit (drained)—
 

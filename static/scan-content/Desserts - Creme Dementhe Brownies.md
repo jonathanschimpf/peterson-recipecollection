@@ -1,16 +1,7 @@
-CREME DE MENTHE BROWNIES
+Blend 1 c sugar w/ ½ c butter. add 4 beaten eggs, 1 t vanilla, (1) 16 oz. can hershey's syrup. add 1 c flour, ½ t salt.add 1 c flour, ½ t salt. bake in (greased) 9" x 13" pan at 350°f for 20 minutes. Cool.
 
-BLEND 1 C SUGAR W/ ½ C BUTTER. ADD 4 BEATEN EGGS, 1 t VANILLA, (1) 16 OZ. CAN HERSHEY'S SYRUP. ADD 1 C FLOUR, ½ t SALT.ADD 1 C FLOUR, ½ t SALT. BAKE IN (GREASED) 9" x 13" PAN AT 350°F FOR 20 MINUTES. COOL
+Mix 2 c powdered sugar, 4 t creme de menthe ½ c butter. spread over cooled brownie & chill
 
-MIX 2 C POWDERED SUGAR, 4 T CREME DE MENTHE ½ C BUTTER. SPREAD OVER COOLED BROWNIE & CHILL
+Melt 6 oz semi-sweet chocolate morsels w/ 6 t butter. pour over cooled brownies. Chill again.
 
-MELT 6 OZ SEMI-SWEET CHOCOLATE MORSELS W/ 6 T BUTTER. POUR OVER COOLED BROWNIES. CHILL AGAIN.
-
-1 C BUTTER (2 STICKS) + 6 T BUTTER
-2 HERSHEY'S SYRUP (16 OZ)
-1 C FLOUR ½t SALT
-2C POWDERED SUGAR
-4 EGGS
-4T CREME DE MENTHE
-1t VANILLA
-6g SEMI SWEET CHOCOLATE
+1 c butter (2 sticks) + 6 t butter  •  2 hershey's syrup (16 oz)  •  1 c flour ½t salt  •  2c powdered sugar  •  4 eggs  •  4t creme de menthe  •  1t vanilla  •  6g semi sweet chocolate

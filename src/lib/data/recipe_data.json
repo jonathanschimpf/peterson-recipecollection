@@ -907,7 +907,7 @@
     },
     {
         "category": "Salads and Dressings",
-        "recipe_name": "BlackBean Corn and Squash Salad",
+        "recipe_name": "Black Bean Corn and Squash Salad",
         "image_path": "/scan-content/Salads and Dressings - BlackBean Corn and Squash Salad.jpg",
         "text_path": "/scan-content/Salads and Dressings - BlackBean Corn and Squash Salad.md"
     },
@@ -949,13 +949,13 @@
     },
     {
         "category": "Salads and Dressings",
-        "recipe_name": "Fruit Salad",
+        "recipe_name": "Fruit Salad (1 of 2)",
         "image_path": "/scan-content/Salads and Dressings - Fruit Salad - Judy Barker & Hilde Peterson.jpg",
         "text_path": "/scan-content/Salads and Dressings - Fruit Salad - Judy Barker & Hilde Peterson.md"
     },
     {
         "category": "Salads and Dressings",
-        "recipe_name": "Fruit Salad",
+        "recipe_name": "Fruit Salad (2 of 2)",
         "image_path": "/scan-content/Salads and Dressings - Fruit Salad.jpg",
         "text_path": "/scan-content/Salads and Dressings - Fruit Salad.md"
     },
@@ -1220,8 +1220,8 @@
     {
         "category": "Vegetables",
         "recipe_name": "Corn Souffle",
-        "image_path": "/scan-content/Vegetables - Corn Souffle - Hille Peterson.jpg",
-        "text_path": "/scan-content/Vegetables - Corn Souffle - Hille Peterson.md"
+        "image_path": "/scan-content/Vegetables - Corn Souffle - Hilde Peterson.jpg",
+        "text_path": "/scan-content/Vegetables - Corn Souffle - Hilde Peterson.md"
     },
     {
         "category": "Vegetables",

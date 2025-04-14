@@ -1,14 +1,8 @@
-BANANAS FLAMBÉED IN ORANGE SAUCE
-JULIA CHILD
-4
+Ingredients: Half stick butter, grouned orange
+rind, orange sauce, sugar, orange
+liqueur, 4 whole bananas
 
-
-INGREDIENTS
-HALF STICK BUTTER, GROUNED ORANGE
-RIND, ORANGE SAUCE, SUGAR, ORANGE
-LIQUEUR, 4 WHOLE BANANAS
-
-HEAT BUTTER, RIND, SAUCE &
-SUGAR TILL BUBBLY. ADD
-LIQUEUR, COOK 5 MINUTES (TIL THICK)
-SPOON OVER BANANAS.
+Heat butter, rind, sauce &
+Sugar till bubbly. add
+liqueur, cook 5 minutes (til thick)
+Spoon over bananas.

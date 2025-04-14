@@ -1,23 +1,11 @@
 6-02-08
-Carrie's Sticky Toffee Pudding
 
 
 SPONGE:
-1 cup plus 1 tablespoon all-purpose flour
-1 teaspoon baking powder
-¾ cup pitted dates
-¼ cups boiling water
-1 teaspoon baking soda
-¼ cup unsalted butter, softened
-¼ cup granulated sugar
-1 large egg, lightly beaten
-1 teaspoon vanilla
+1 cup plus 1 tablespoon all-purpose flour  •  1 teaspoon baking powder  •  ¾ cup pitted dates  •  ¼ cups boiling water  •  1 teaspoon baking soda  •  ¼ cup unsalted butter, softened  •  ¼ cup granulated sugar  •  1 large egg, lightly beaten  •  1 teaspoon vanilla
 
 TOFFEE SAUCE:
-½ cup unsalted butter
-½ cup heavy cream
-1 cup packed light brown sugar
-1 cup heavy cream, whipped
+½ cup unsalted butter  •  ½ cup heavy cream  •  1 cup packed light brown sugar  •  1 cup heavy cream, whipped
 
 
 Preheat oven to 350 degrees. Butter a 10-inch round or square baking dish. Sift the flour and baking powder onto a sheet of 

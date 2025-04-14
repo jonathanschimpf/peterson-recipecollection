@@ -1,14 +1,8 @@
-TURKEY DRESSING
+1 ½ loaf bread  •  6 tsp butter, 1 chopped onion  •  1 c. chopped celery, 1 tsp sage  •  ¼ tsp poultry seasoning  •  ½ tsp. thyme, pepper, salt (tsp)
 
-1 ½ LOAF BREAD
-6 TSP BUTTER, 1 CHOPPED ONION
-1 C. CHOPPED CELERY, 1 TSP SAGE
-¼ TSP POULTRY SEASONING
-½ TSP. THYME, PEPPER, SALT (TSP)
+Cut bread into cubes, let sit about 8-10 hrs. melt butter br. onion & celery in butter, add seasonings.
 
-CUT BREAD INTO CUBES, LET SIT ABOUT 8-10 HRS. MELT BUTTER BR. ONION & CELERY IN BUTTER, ADD SEASONINGS.
+Add bread & brown until butter till absorbed. stuff into turkey.
 
-ADD BREAD & BROWN UNTIL BUTTER TILL ABSORBED. STUFF INTO TURKEY.
-
-NOTE:
-ADD GIBLET WATER IF NOT STUFFED.
+Note:
+Add giblet water if not stuffed.

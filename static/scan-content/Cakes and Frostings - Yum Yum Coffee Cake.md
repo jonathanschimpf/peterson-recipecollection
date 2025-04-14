@@ -1,25 +1,9 @@
-YUM-YUM COFFEE CAKE
+Batter: 2 c flour  •  1 c sugar  •  1 tsp baking powder  •  1 tsp baking soda  •  ½ tsp salt  •  ½ c butter (16 oz)  •  3 eggs  •  1 ½ c sour cream  •  1 tsp vanilla
 
-BATTER:
+Topping: ½ c brown sugar  •  ¼ c white sugar  •  1 tsp cinnamon
 
-2 C FLOUR
-1 C SUGAR
-1 TSP BAKING POWDER
-1 TSP BAKING SODA
-½ TSP SALT
-½ C BUTTER (16 oz)
-3 EGGS
-1 ½ C SOUR CREAM
-1 TSP VANILLA
+Mix dry ingredients, add wet ingredients, if too dry, add more sour cream
 
-TOPPING:
+Butter & flour a 9" x 9" pan. put in ½ batter, ½ sugar, balance of batter, balance of sugar
 
-½ C BROWN SUGAR
-¼ C WHITE SUGAR
-1 TSP CINNAMON
-
-MIX DRY INGREDIENTS, ADD WET INGREDIENTS, IF TOO DRY, ADD MORE SOUR CREAM
-
-BUTTER & FLOUR A 9" X 9" PAN. PUT IN ½ BATTER, ½ SUGAR, BALANCE OF BATTER, BALANCE OF SUGAR
-
-BAKE AT 325°F FOR 55 MIN
+Bake at 325°f for 55 min

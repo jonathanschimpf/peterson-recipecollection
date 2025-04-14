@@ -1,15 +1,6 @@
-Prep Time: 15 min.
-Total Time: 35 min.
+Prep Time: 15 min. — Total Time: 35 min.
 
-1 small onion, chopped
-1 clove garlic, minced
-4 small chicken breasts, cooked & shredded
-1 cup any thick & chunky salsa, divided
-4 oz. Philadelphia Cream Cheese, cubed
-1 tbsp. cilantro, chopped
-1 tsp. ground cumin
-4 oz. Kraft Shredded Cheddar & Monterey Jack Cheese, divided
-8 flour tortillas
+1 small onion, chopped  •  1 clove garlic, minced  •  4 small chicken breasts, cooked & shredded  •  1 cup any thick & chunky salsa, divided  •  4 oz. Philadelphia Cream Cheese, cubed  •  1 tbsp. cilantro, chopped  •  1 tsp. ground cumin  •  4 oz. Kraft Shredded Cheddar & Monterey Jack  •  Cheese, divided  •  8 flour tortillas
 
 Preheat oven to 350 degrees.
 

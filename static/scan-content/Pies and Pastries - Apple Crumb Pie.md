@@ -1,23 +1,16 @@
-DENISE'S Apple Crumb Pie
-
 Ingredients
+
+
 Filling:
-3/4 cup sugar
-3 tablespoons flour
-1 teaspoon cinnamon
-1/8 teaspoon nutmeg
-6-8 medium Macintosh or 
-Granny Smith apples
+3/4 cup sugar  •  3 tablespoons flour  •  1 teaspoon cinnamon  •  1/8 teaspoon nutmeg  •  6-8 medium  •  Macintosh or Granny Smith apples
 
 Streusel Topping:
-¾ cup flour
-1/3 cup sugar
-6 tablespoons butter or margarine
+¾ cup flour  •  1/3 cup sugar  •  6 tablespoons butter or margarine
 
 Cooking Instructions
-1. Core, peel and thinly slice apples. Add apples to sugar, flour, cinnamon, and nutmeg mixture. Pour into pie shell. (Make your own or use Pet Ritz frozen pie shell.)
-2. To make streusel topping, cut butter into flour and sugar until crumbly. Sprinkle atop pie. Or…. use the regular piecrust for top, making slits for pie to breathe.
-3. Bake at 350 degrees for 50 min or until bubbly. Cool for 1 hour.
+1 - Core, peel and thinly slice apples. Add apples to sugar, flour, cinnamon, and nutmeg mixture. Pour into pie shell. (Make your own or use Pet Ritz frozen pie shell.)
+2 - To make streusel topping, cut butter into flour and sugar until crumbly. Sprinkle atop pie. Or…. use the regular piecrust for top, making slits for pie to breathe.
+3 - Bake at 350 degrees for 50 min or until bubbly. Cool for 1 hour.
 
 Variations
 
@@ -26,11 +19,8 @@ Reduce number of apples to 6 and add one of the following:
 • 1 cup fresh cranberries
 • 1 cup fresh blueberries and ½ teaspoon lemon zest.
 
-Pie Crust
-2 1/3 cups of Flour
-1 Teaspoon of Salt
-¾ cup of butter flavored Crisco
-6-8 tablespoons of water.
+Pie Crust:
+2 1/3 cups of Flour  •  1 Teaspoon of Salt  •  ¾ cup of butter flavored Crisco  •  6-8 tablespoons of water.
 
 Mix flour, salt and crisco using two knives or pastry cutter.
 Gradually add water, 2 tablespoons at a time until mixture forms a ball.
