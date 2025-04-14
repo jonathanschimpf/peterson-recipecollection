@@ -1,38 +1,39 @@
-# sv
+# 🥘 Peterson Recipe Collection
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+The **Peterson Recipe Collection** is a lovingly crafted digital archive of over 200+ handwritten family recipes — scanned, transcribed, and organized using SvelteKit.
 
-## Creating a project
+Built as a nostalgic, front-end experience for browsing, zooming, and reading verbatim family recipes (dating back to the 1980s), this project is powered by modern web tech while honoring the charm of vintage 3x5 recipe cards.
 
-If you're seeing this, you've probably already done this step. Congrats!
+---
 
-```bash
-# create a new project in the current directory
-npx sv create
+## 🔧 Tech Stack
 
-# create a new project in my-app
-npx sv create my-app
-```
+- **Framework:** [SvelteKit](https://kit.svelte.dev/)
+- **Hosting:** [Netlify](https://netlify.com/)
+- **Styling:** Tailwind CSS
+- **Image Zoom Modal:** Custom-built, mobile-friendly, with smooth scroll/pinch zooming
+- **Search:** Real-time global search powered by a writable Svelte store
+- **Routing:** Dynamic category and slug-based routing (`/categories/Desserts` → `/recipes/chocolate-chip-cookies`)
+- **Data Source:** Recipes stored as `.md` files, with metadata mapped via `recipe_data.json`
 
-## Developing
+---
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
+## 📁 Project Structure
 
 ```bash
-npm run build
-```
+.
+├── src
+│   ├── routes
+│   │   ├── recipes/[slug]      # Dynamic recipe pages
+│   │   ├── categories          # Category-based routes
+│   │   └── +layout.svelte      # Shared layout + search injection
+│   ├── lib/components
+│   │   └── ScanModal.svelte    # Custom modal w/ zoomable scan images
+│   └── lib/data
+│       └── recipe_data.json    # Category + path metadata
+├── static
+│   └── scan-content            # All `.jpg` scans and `.md` transcriptions
+└── app.css                     # Tailwind + base styles
 
-You can preview the production build with `npm run preview`.
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+A GPT helped write this 'README.md' for me because it's 2025 😃✨

@@ -1,5 +1,3 @@
-Heavenly Potatoes
-
 Cook 7 large baking potatoes in a small amount of water till tender. Drain and cool thoroughly.
 
 Grate half of the cooled and peeled potatoes into a large baking dish. Grate a large onion over all. Grate rest of potatoes over the onion.
