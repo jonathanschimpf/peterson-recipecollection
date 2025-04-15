@@ -5,7 +5,7 @@ import { marked } from 'marked';
 import fs from 'fs/promises';
 import path from 'path';
 
-// SLUGIFY FUNCTION
+// SLUGIFY FUNCTION TO MATCH ROUTE PARAM
 function slugify(str: string): string {
     return str
         .toLowerCase()
@@ -16,23 +16,33 @@ function slugify(str: string): string {
 
 export async function load({ params }) {
     const requestedSlug = slugify(params.slug);
+    console.log('📦 Requested slug:', requestedSlug);
 
-    const recipe: Recipe | undefined = recipeData.find((r) =>
-        slugify(r.recipe_name) === requestedSlug
+    // FIND MATCHING RECIPE BASED ON SLUG
+    const recipe: Recipe | undefined = recipeData.find(
+        (r) => slugify(r.recipe_name) === requestedSlug
     );
 
     if (!recipe) {
+        console.warn('❌ Recipe not found for slug:', requestedSlug);
         throw error(404, 'Recipe not found');
     }
 
-    // ✅ READ AND PARSE THE MARKDOWN FILE
-    const fullPath = path.join('static', recipe.text_path); // markdown path starts from /scan-content/
+    console.log('✅ Matched recipe:', recipe.recipe_name);
+
+    // CONSTRUCT FULL FILE PATH FROM FILENAME FIELD
+    const fullPath = path.join('src/lib/data/recipes', `${recipe.filename}.md`);
+    console.log('📄 Attempting to load markdown from:', fullPath);
+
     let text = '';
+
     try {
         const raw = await fs.readFile(fullPath, 'utf-8');
-        text = await marked.parse(raw); // ✅ AWAIT HERE
+        console.log('📖 Raw markdown loaded successfully.');
+        text = await marked.parse(raw);
+        console.log('✅ Markdown parsed successfully.');
     } catch (err) {
-        console.error(`Error reading markdown for ${recipe.recipe_name}:`, err);
+        console.error(`⚠️ Error reading markdown for ${recipe.recipe_name}:`, err);
         text = '<p><em>No text transcription available.</em></p>';
     }
 
