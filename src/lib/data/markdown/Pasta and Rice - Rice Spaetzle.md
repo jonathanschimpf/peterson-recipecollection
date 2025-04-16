@@ -1,0 +1,6 @@
+3 whole eggs, beaten and frothy  •  3 cups sifted flour  •  ¼ teaspoon salt
+1 cup milk  •  Boiling water or chicken soup
+
+With electric mixer beat eggs. Add salt to flour and toss. To egg mixture add flour and milk alternately until well blended. Put dough in square basket of spaetzle maker and place over pot of boiling water or soup. Slide basket back and forth allowing the dough to drop into boiling liquid. Stir to keep them from sticking together. When they are done, spaetzle will float to top. Drain in a strainer, if not cooked in soup. Serve buttered, or drain and saute in butter until lightly browned. Salt and pepper to taste.
+
+Makes 4 to 5 cups spaetzle.

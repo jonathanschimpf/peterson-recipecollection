@@ -1,0 +1,3 @@
+1 c. flour  •  1-1/2 tsp baking powder  •  1/2 tsp salt  •  1/4 c. milk  •  1 tbsp butter  •  1 egg
+
+Sift dry ingredients. Cut in butter. Mix egg + milk, Mix with dry ingredients, drop by tsp. in broth. Cook covered 20".

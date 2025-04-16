@@ -1,0 +1,4 @@
+1 can french cut beans  •  1 can peas  •  1 can mixed chinese vegetables  •  ½ c. chopped onion  •  ½ c. chopped celery  •  4 oz. can sliced water chestnuts  •  Chopped pimento  •  ⅔ c. sugar  •  2 tbsp cornstarch  •  ¾ c. cider vinegar
+
+Mix sugar, cornstarch & vinegar,
+Cook until thick. cool, pour over vegetables, salt & pepper

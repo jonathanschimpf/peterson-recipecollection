@@ -1,0 +1,3 @@
+Oil - 1/4 cup shrimp - 12 oz  •  Chix - 3 breasts  eggs - 3 whipped  •  Rice noodles - 1 pkg soaked  •  Garlic - 2 cloves  •  Green onions - 4  •  Red pepper flakes  •  Pea pods - 2 pkgs, julienned  •  Thai fish sauce - 4 tbsp  •  Sugar - 3 tbsp  •  Lime juice - 5 tbsp  •  Soy sauce - dash
+
+(1) Saute meat  •  (2) Add garlic  •  (3) Add eggs (over)  •  (4) Add onions & pea pods  •  (5) Add noodles & pepper flakes  •  (6) Combine fish sauce, sugar & lime juice  •  (7) Add sauce

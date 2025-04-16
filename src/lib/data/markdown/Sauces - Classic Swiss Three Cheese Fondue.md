@@ -1,0 +1,16 @@
+Classic Swiss Three-Cheese Fondue
+
+1 garlic clove, peeled
+1 c dry white wine
+1 Tbsp fresh lemon juice
+8 oz Gruyere cheese, rind trimmed and discarded, and shredded (about 2 1/2 c)
+8 oz Emmentaler cheese, rind trimmed and discarded, and shredded (about 2 1/2 c)
+3 oz Appenzeller cheese, cut into small cubes (about 1/2 c)
+4 tsp cornstarch
+1 Tbsp Kirsh (Kirshwasser)
+A few gratings of nutmeg (OPTIONAL)
+Freshly ground pepper, to taste
+
+1. Rub the inside of a medium, heavy-bottomed saucepan with the garlic; discard the garlic. Add the wine and lemon juice and bring to a bare simmer over medium heat.
+
+2. In a medium bowl, toss the Gruyere, Emmentaler, and Appenzeller cheeses with the cornstarch. A handful at a time, stir the cheese mixture into the wine, stirring the first batch until it is almost completely melted before adding another. The fondue can bubble gently, but do not boil. Stir in the kirsh and season with nutmeg and pepper.

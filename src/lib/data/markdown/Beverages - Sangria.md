@@ -1,0 +1,4 @@
+Squeeze out 2 oranges  •  add  •  ¼ c brandy, ⅓–½ c sugar  •  Thinly slice 2 oranges &
+2 lemons  •  1 bottle full bodied  •  Spanish wine - red  •  2 cups club soda
+
+Serve over ice

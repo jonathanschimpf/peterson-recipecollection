@@ -1,0 +1,8 @@
+1 pkg. bowtie pasta (multi-colored)  •  1 jar (8 oz.) sundried tomatoes (julian)  •  1 cup chopped cilantro  •  1 cup sliced Kalmata olives  •  1 clove garlic minced  •  1 teaspoon red pepper flakes  •  8 oz. feta cheese crumbled (optional)*
+
+Cook pasta as directed, drain.
+Mix remaining ingredients & add pasta.
+Serve at room temperature. Serves 12.
+
+*Save and add just before serving.
+(I skimp on the olives and feta cheese)

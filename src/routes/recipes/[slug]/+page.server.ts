@@ -1,48 +1,33 @@
 import { error } from '@sveltejs/kit';
+import fs from 'fs';
+import path from 'path';
 import recipeData from '$lib/data/recipe_data.json';
-import type { Recipe } from '../../../types/json';
-import { marked } from 'marked';
 
-// SLUGIFY FUNCTION TO MATCH ROUTE PARAM
-function slugify(str: string): string {
-    return str
-        .toLowerCase()
-        .replace(/[^a-z0-9 -]/g, '')
-        .replace(/\s+/g, '-')
-        .replace(/-+/g, '-');
-}
+export async function load({ params }) {
+    const slug = params.slug.toLowerCase();
 
-export async function load({ params, fetch }) {
-    const requestedSlug = slugify(params.slug);
-    console.log('📦 Requested slug:', requestedSlug);
+    const matchedRecipe = recipeData.find((recipe) => {
+        const recipeSlug = recipe.recipe_name.toLowerCase().replace(/\s+/g, '-');
+        return recipeSlug === slug;
+    });
 
-    const recipe: Recipe | undefined = recipeData.find(
-        (r) => slugify(r.recipe_name) === requestedSlug
-    );
-
-    if (!recipe) {
-        console.warn('❌ Recipe not found for slug:', requestedSlug);
+    if (!matchedRecipe) {
+        console.error(`❌ No recipe matched slug: ${slug}`);
         throw error(404, 'Recipe not found');
     }
 
-    console.log('✅ Matched recipe:', recipe.recipe_name);
+    const htmlPath = path.resolve(matchedRecipe.text_path);
 
-    let text = '';
+    console.log(`📄 Attempting to read HTML from: ${htmlPath}`);
 
     try {
-        const res = await fetch(`/${recipe.text_path}`);
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const raw = await res.text();
-        console.log('📖 Markdown file fetched successfully.');
-        text = await marked.parse(raw);
-        console.log('✅ Markdown parsed successfully.');
+        const text = fs.readFileSync(htmlPath, 'utf-8');
+        return {
+            recipe: matchedRecipe,
+            text
+        };
     } catch (err) {
-        console.error(`⚠️ Error fetching markdown for ${recipe.recipe_name}:`, err);
-        text = '<p><em>No text transcription available.</em></p>';
+        console.error(`❌ Failed to read HTML: ${err.message}`);
+        throw error(500, 'Error loading recipe HTML content');
     }
-
-    return {
-        recipe,
-        text
-    };
 }

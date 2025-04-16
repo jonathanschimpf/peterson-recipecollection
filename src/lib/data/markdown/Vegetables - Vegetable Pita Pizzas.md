@@ -1,0 +1,11 @@
+Ingredients: 
+
+2 large whole-wheat pitas  •  Cooking spray  •  1/2 cup assorted fresh vegetables (broccoli/cauliflower florets, red/green pepper strips, sliced mushrooms, chopped carrot, onions... your choice)  •  1/4 cup pizza sauce  •  1/4 cup part-skim mozzarella
+
+Preparation:
+
+1 - Preheat oven to 400°f. Place pita bread halves on a baking sheet. Bake 5 minutes.
+
+2 - Meanwhile, coat an unheated small skillet with nonstick cooking spray. Preheat over medium heat. Add the vegetables; cook and stir until crisp-tender.
+
+3 - Spread pizza sauce on pita bread rounds; sprinkle with cooked vegetables and cheese. Bake for 8 to 10 minutes more or until light brown. Serve warm.
