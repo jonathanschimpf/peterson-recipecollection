@@ -3,41 +3,42 @@
 	import ScanModal from '$lib/components/ScanModal.svelte';
 	import type { Recipe } from '../../../types/json';
 
-	export let data: { recipe: Recipe; text: string };
+	// EXPEXT DATA TO PROVIDE FULL RECIPE DATA AND HTML SNIPPET
+	export let data: { recipe: Recipe; htmlContent: string };
 
-	const { recipe, text } = data;
+	const { recipe, htmlContent } = data;
 	let showModal = false;
 
-	// 🧭 SCROLL TO TOP ON PAGE LOAD
+	// TOP SCROLL UPON PAGE LOAD
 	onMount(() => {
 		window.scrollTo(0, 0);
 	});
 
-	// 🔙 BACK LINK FROM CATEGORY
+	// CCONSTRUCT THE BACK LINK BASED ON RECIPE
 	const backLink = `/categories/${recipe.category.toLowerCase().replace(/\s+/g, '-')}`;
 </script>
 
-<!-- 🔙 BACK ARROW -->
+<!-- ← BACK ARROW -->
 <a href={backLink} class="back-link">←</a>
 
-<!-- 📝 TITLE -->
+<!-- RRECIPE TITLE -->
 <h1 class="recipe-title">{recipe.recipe_name}</h1>
 
-<!-- 🖼️ SCAN THUMBNAIL (TRIGGERS MODAL) -->
+<!-- IMAGE THUMBNAILTRIGGERS THE MODAL -->
 <div class="scan-wrapper">
 	<button class="scan-button" on:click={() => (showModal = true)}>
 		<img src={recipe.image_path} alt="Recipe scan" class="scan-thumb" />
 	</button>
 </div>
 
-<!-- 📜 RECIPE TRANSCRIPTION -->
+<!-- TRANSCRIBED RECIPE // VIA RAW HTML -->
 <div class="markdown">
 	<div class="markdown-inner">
-		{@html text}
+		{@html htmlContent}
 	</div>
 </div>
 
-<!-- 🔍 MODAL IMAGE ZOOM -->
+<!-- MODAL FOR ZOOMED SCAN IMAGE -->
 <ScanModal imageUrl={recipe.image_path} isOpen={showModal} close={() => (showModal = false)} />
 
 <style>
