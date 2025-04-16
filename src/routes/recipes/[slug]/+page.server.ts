@@ -1,33 +1,34 @@
-import { error } from '@sveltejs/kit';
-import fs from 'fs';
-import path from 'path';
+// +page.server.ts
+import type { PageServerLoad } from './$types';
 import recipeData from '$lib/data/recipe_data.json';
 
-export async function load({ params }) {
-    const slug = params.slug.toLowerCase();
+// GLOB ALL HTML FILES UNDER DATA
+const htmlFiles = import.meta.glob('/src/lib/data/html/*.html', { as: 'raw', eager: true });
 
-    const matchedRecipe = recipeData.find((recipe) => {
-        const recipeSlug = recipe.recipe_name.toLowerCase().replace(/\s+/g, '-');
-        return recipeSlug === slug;
+export const load: PageServerLoad = async ({ params }) => {
+    const slug = params.slug;
+
+    // FIND RECIPE OBJECT BY SLUG
+    const recipe = recipeData.find((r) => {
+        const normalized = r.recipe_name.toLowerCase().replace(/\s+/g, '-');
+        return normalized === slug;
     });
 
-    if (!matchedRecipe) {
-        console.error(`❌ No recipe matched slug: ${slug}`);
-        throw error(404, 'Recipe not found');
+    if (!recipe) {
+        throw new Error(`Recipe not found for slug: ${slug}`);
     }
 
-    const htmlPath = path.resolve(matchedRecipe.text_path);
+    // LOOKUP GLOB-MATCHED HTML USING FULL PATH
+    const htmlPath = recipe.text_path;
+    const htmlContent = htmlFiles[`/${htmlPath}`];
 
-    console.log(`📄 Attempting to read HTML from: ${htmlPath}`);
-
-    try {
-        const text = fs.readFileSync(htmlPath, 'utf-8');
-        return {
-            recipe: matchedRecipe,
-            text
-        };
-    } catch (err) {
-        console.error(`❌ Failed to read HTML: ${err.message}`);
-        throw error(500, 'Error loading recipe HTML content');
+    if (!htmlContent) {
+        throw new Error(`Error loading recipe HTML content from path: ${htmlPath}`);
     }
-}
+
+    return {
+        title: recipe.recipe_name,
+        image: recipe.image_path,
+        htmlContent
+    };
+};
