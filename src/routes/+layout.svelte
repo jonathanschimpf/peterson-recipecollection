@@ -26,13 +26,6 @@
 	</div>
 </nav>
 
-<!-- 📷 HOME PAGE IMAGE (ONLY IF NO SEARCH) -->
-{#if $page.url.pathname === '/' && $searchTerm.trim().length === 0}
-	<div class="image-container">
-		<img src="/photographs/kitchen-tall.png" alt="Kitchen Setup" />
-	</div>
-{/if}
-
 <!-- 🧠 SLOT: PAGE CONTENT (ONLY IF NO SEARCH TERM) -->
 {#if $searchTerm.trim().length === 0}
 	<slot />
@@ -103,23 +96,5 @@
 	/* KEEP DEFAULT HOVER COLOR SHIFT (OPTIONAL) */
 	.nav-links a:hover {
 		color: olive;
-	}
-	.image-container {
-		display: flex;
-		justify-content: center;
-		margin-top: 20px;
-	}
-
-	.image-container img {
-		width: 100%;
-		max-width: 450px;
-		height: auto;
-		border-radius: 15px;
-	}
-
-	@media (max-width: 768px) {
-		.image-container img {
-			width: 90%;
-		}
 	}
 </style>
