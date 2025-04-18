@@ -1,4 +1,2 @@
-<!-- src/routes/+page.svelte -->
-<section class="homepage">
-	<img src="/photographs/kitchen-tall.png" alt="Kitchen Setup" />
-</section>
+<!-- routes/+page.svelte -->
+<!-- Intentionally blank to let layout drive homepage visuals -->

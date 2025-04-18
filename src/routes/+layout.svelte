@@ -26,8 +26,17 @@
 	</div>
 </nav>
 
-<!-- 🧠 SLOT: ALWAYS RENDER PAGE CONTENT -->
-<slot />
+<!-- 📷 HOME PAGE IMAGE (ONLY IF NO SEARCH) -->
+{#if $page.url.pathname === '/' && $searchTerm.trim().length === 0}
+	<div class="image-container">
+		<img src="/photographs/kitchen-tall.png" alt="Kitchen Setup" />
+	</div>
+{/if}
+
+<!-- 🧠 SLOT: PAGE CONTENT (ONLY IF NO SEARCH TERM) -->
+{#if $searchTerm.trim().length === 0}
+	<slot />
+{/if}
 
 <!-- 🔥 GLOBAL LIVE SEARCH RESULTS (TAKES OVER PAGE) -->
 {#if $searchTerm.trim().length > 0}
@@ -59,14 +68,10 @@
 		align-items: center;
 	}
 
-	/* ===================================================
-     MEDIA QUERY BECAUSE NOT ALL PETERSON'S USE  PRODUCTS 
-	 =================================================== */
 	@media (max-width: 600px) {
 		.title {
 			font-size: 18px;
 		}
-
 		.nav-links a {
 			font-size: 14px;
 		}
@@ -80,7 +85,6 @@
 		position: relative;
 	}
 
-	/* ACTIVE LINK: olive underline only */
 	.nav-links a.active::after {
 		content: '';
 		position: absolute;
@@ -91,8 +95,26 @@
 		background-color: olive;
 	}
 
-	/* KEEP DEFAULT HOVER COLOR SHIFT (OPTIONAL) */
 	.nav-links a:hover {
 		color: olive;
+	}
+
+	.image-container {
+		display: flex;
+		justify-content: center;
+		margin-top: 20px;
+	}
+
+	.image-container img {
+		width: 100%;
+		max-width: 450px;
+		height: auto;
+		border-radius: 15px;
+	}
+
+	@media (max-width: 768px) {
+		.image-container img {
+			width: 90%;
+		}
 	}
 </style>
