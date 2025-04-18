@@ -69,6 +69,8 @@
 		on:click={close}
 		on:keydown={handleKeydown}
 	>
+		<!-- svelte-ignore a11y-click-events-have-key-events -->
+		<!-- svelte-ignore a11y-no-static-element-interactions -->
 		<div class="modal-content" on:click|stopPropagation transition:fade={{ duration: 25 }}>
 			<button class="close-btn" aria-label="Close modal" type="button" on:click={close}>×</button>
 
