@@ -47,7 +47,6 @@
 	},
 	"dependencies": {
 		"bigger-picture": "^1.1.19",
-		"marked": "^15.0.7",
-		"svelte-zoom": "^1.0.16"
+		"marked": "^15.0.7"
 	}
 }

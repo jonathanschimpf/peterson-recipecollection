@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { fade } from 'svelte/transition';
 	import { onDestroy, tick } from 'svelte';
+	import { browser } from '$app/environment';
 
 	export let isOpen = false;
 	export let close: () => void = () => {};
@@ -10,26 +11,27 @@
 	let scrollContainer: HTMLDivElement | null = null;
 	let modalEl: HTMLDivElement | null = null;
 
-	// RESET ZOOM WHEN MODAL CLOSES
 	$: if (!isOpen) zoomed = false;
 
-	// TOGGLE BODY SCROLL LOCK
-	$: {
+	$: if (browser) {
 		if (isOpen) {
 			document.body.classList.add('no-scroll');
 		} else {
 			document.body.classList.remove('no-scroll');
 		}
 	}
+
 	onDestroy(() => {
-		document.body.classList.remove('no-scroll');
-		if (modalEl) modalEl.inert = false;
+		if (browser) {
+			document.body.classList.remove('no-scroll');
+			if (modalEl) modalEl.inert = false;
+		}
 	});
 
-	// INERT MODAL WHEN CLOSED
-	$: if (modalEl) modalEl.inert = !isOpen;
+	$: if (browser && modalEl) {
+		modalEl.inert = !isOpen;
+	}
 
-	// ZOOM HANDLER
 	async function toggleZoom() {
 		zoomed = !zoomed;
 		await tick();
@@ -43,12 +45,10 @@
 		}
 	}
 
-	// ESC CLOSE
 	function handleKeydown(e: KeyboardEvent) {
 		if (e.key === 'Escape') close();
 	}
 
-	// ZOOM VIA KEYBOARD
 	function handleImageKeydown(e: KeyboardEvent) {
 		if (e.key === 'Enter' || e.key === ' ') {
 			e.preventDefault();
@@ -61,24 +61,17 @@
 	<div
 		class="modal-backdrop"
 		bind:this={modalEl}
-		role="presentation"
+		role="dialog"
+		tabindex="0"
+		aria-modal="true"
+		aria-label="Scanned recipe modal"
 		transition:fade={{ duration: 25 }}
 		on:click={close}
 		on:keydown={handleKeydown}
 	>
-		<div
-			class="modal-content"
-			role="dialog"
-			aria-modal="true"
-			aria-label="Scanned recipe"
-			tabindex="0"
-			on:click|stopPropagation
-			transition:fade={{ duration: 25 }}
-		>
-			<!-- ⨉ CLOSE BUTTON -->
-			<button class="close-btn" aria-label="Close modal" on:click={close}>×</button>
+		<div class="modal-content" on:click|stopPropagation transition:fade={{ duration: 25 }}>
+			<button class="close-btn" aria-label="Close modal" type="button" on:click={close}>×</button>
 
-			<!-- 📜 SCROLLABLE ZOOM CONTAINER -->
 			<div
 				class="scroll-container"
 				bind:this={scrollContainer}
@@ -86,8 +79,8 @@
 			>
 				<div
 					class="image-wrapper"
-					role="button"
 					tabindex="0"
+					role="button"
 					aria-pressed={zoomed}
 					aria-label={zoomed ? 'Zoom out' : 'Zoom in'}
 					on:click={toggleZoom}
@@ -116,7 +109,6 @@
 		z-index: 1000;
 		padding: 2rem;
 	}
-
 	.modal-content {
 		position: relative;
 		background: white;
@@ -126,14 +118,12 @@
 		max-height: 70vh;
 		overflow: hidden;
 	}
-
 	@media (max-width: 768px) {
 		.modal-content {
 			max-width: 98vw !important;
 			max-height: 98vh !important;
 		}
 	}
-
 	.scroll-container {
 		max-width: 65vw;
 		max-height: 65vh;
@@ -150,7 +140,6 @@
 	.scroll-container:active {
 		cursor: grabbing;
 	}
-
 	.close-btn {
 		position: absolute;
 		top: 1rem;
@@ -165,7 +154,6 @@
 	.close-btn:active {
 		color: lightgrey;
 	}
-
 	.image-wrapper {
 		outline: none;
 	}
@@ -173,7 +161,6 @@
 		outline: 2px solid #ccc;
 		border-radius: 4px;
 	}
-
 	.scan-img {
 		display: block;
 		max-width: 100%;
@@ -184,7 +171,6 @@
 		transition: transform 0.2s ease;
 		user-select: none;
 	}
-
 	.zoomed {
 		transform: scale(2);
 		transform-origin: top left;

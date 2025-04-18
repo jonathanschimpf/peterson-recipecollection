@@ -1,33 +1,44 @@
-// +page.server.ts
+// src/routes/recipes/[slug]/+page.server.ts
 import type { PageServerLoad } from './$types';
 import recipeData from '$lib/data/recipe_data.json';
 
-// GLOB ALL HTML FILES UNDER src/lib/data/html/ and bundle them at build time.
-const htmlFiles = import.meta.glob('/src/lib/data/html/*.html', { as: 'raw', eager: true });
+// ✅ FIXED: Updated glob to use `query` syntax
+const htmlFiles = import.meta.glob('$lib/data/html/*.html', {
+    query: '?raw',
+    import: 'default',
+    eager: true
+});
 
 export const load: PageServerLoad = async ({ params }) => {
+    console.log('--- [slug] PAGE SERVER LOAD INIT ---');
     const slug = params.slug.toLowerCase();
+    console.log('Slug:', slug);
 
-    // Find the recipe by normalizing the recipe name to match the slug.
     const recipe = recipeData.find((r) => {
         const normalized = r.recipe_name.toLowerCase().replace(/\s+/g, '-');
         return normalized === slug;
     });
 
     if (!recipe) {
+        console.error('❌ Recipe not found for slug:', slug);
         throw new Error(`Recipe not found for slug: ${slug}`);
     }
+    console.log('✅ Recipe found:', recipe.recipe_name);
 
-    // Use the text_path to locate the bundled HTML content.
-    const htmlPath = recipe.text_path;
-    const htmlContent = htmlFiles[`/${htmlPath}`];
+    const matchingKey = Object.keys(htmlFiles).find((key) =>
+        key.endsWith(recipe.text_path.split('/html/')[1])
+    );
 
-    if (!htmlContent) {
-        throw new Error(`Error loading recipe HTML content from path: ${htmlPath}`);
+    if (!matchingKey) {
+        console.error('❌ No matching HTML key found for:', recipe.text_path);
+        throw new Error(`HTML content missing for: ${recipe.text_path}`);
     }
+    console.log('✅ Matching HTML key:', matchingKey);
+
+    const htmlContent = htmlFiles[matchingKey];
 
     return {
-        recipe,        // Return the full recipe object (includes category, name, image_path, etc.)
-        htmlContent    // The raw HTML content that you'll render in the client.
+        recipe,
+        htmlContent
     };
 };
