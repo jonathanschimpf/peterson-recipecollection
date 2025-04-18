@@ -1,5 +1,0 @@
-2# potatoes diced  •  1 C boiled ham  •  1 C chopped pork (cooked)  •  4 eggs chopped  •  ½ C celery  •  1 med. yell. onion  •  1 C pickled beets  •  1 C golden del. apples  •  ½ C parsley  •  1 C cuc. pickled  •  ½ C salt herring fillet
-
-Dressing: 
-
-1 C sour vrm  •  1 C mayo  •  2 T. yellow mustard  •  1 T horseradish  •  Juice of one fresh lemon  •  Salt & pepper

@@ -1,3 +1,0 @@
-¾ cup Italian dressing  •  1 tsp. Worc. sauce  •  1 tsp. dry mustard  •  1 sliced medium onion  •  1 lb. flank steak  •  2 Tbsp. melted butter
-
-Combine dressing, Worc. sauce, mustard, thyme, and onion. Place steak in shallow dish & pour marinade over it. Cover & refrigerate at least 4 hours. Transfer the steak to broiler pan. Melt butter in fry pan. Brown onions & some marinade. Place onions in fry pan, cover with foil & warm on stove. Broil meat 3-4" from heat for 5-7 min., occasionally spoon on marinade. Turn & broil 5-7 min. more. Top with onions. Slice the steak & then diagonal slices across the grain.

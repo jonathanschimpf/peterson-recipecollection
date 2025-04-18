@@ -26,10 +26,8 @@
 	</div>
 </nav>
 
-<!-- 🧠 SLOT: PAGE CONTENT (ONLY IF NO SEARCH TERM) -->
-{#if $searchTerm.trim().length === 0}
-	<slot />
-{/if}
+<!-- 🧠 SLOT: ALWAYS RENDER PAGE CONTENT -->
+<slot />
 
 <!-- 🔥 GLOBAL LIVE SEARCH RESULTS (TAKES OVER PAGE) -->
 {#if $searchTerm.trim().length > 0}

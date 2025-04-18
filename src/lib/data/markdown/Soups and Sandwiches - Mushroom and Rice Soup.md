@@ -1,1 +1,0 @@
-Diced bacon - browned, saute onions, carrots & celery. Add chopped mushrooms (variety), cooked wild rice, chicken broth, sherry, spices.
