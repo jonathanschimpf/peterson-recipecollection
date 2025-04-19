@@ -1,2 +1,3 @@
 <!-- routes/+page.svelte -->
-<!-- Intentionally blank to let layout drive homepage visuals -->
+<!-- INTENTIONALLY BLANK - (WISH CHAT WOULD'VE SAID THIS EARLIER) -->
+<!-- build? -->
