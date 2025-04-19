@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"
-  publish = ".svelte-kit/output"
+  publish = ".netlify/output"
 
 [functions]
   directory = ".netlify/functions"
