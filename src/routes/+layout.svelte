@@ -12,25 +12,19 @@
 	});
 </script>
 
-<!-- NAVIGATION BAR -->
-<nav class="navbar">
-	<a href="/" class="title"> Peterson Recipe Collection </a>
-	<div class="nav-container">
-		<!-- 🔍 GLOBAL SEARCH BAR -->
-		<SearchBar />
-
-		<div class="nav-links">
-			<a href="/categories" class:active={$page.url.pathname === '/categories'}>Categories</a>
-			<a href="/about" class:active={$page.url.pathname === '/about'}>About</a>
+{#if $page.url.pathname !== '/'}
+	<!-- NAVIGATION BAR -->
+	<nav class="navbar">
+		<a href="/home" class="title"> Peterson Recipe Collection </a>
+		<div class="nav-container">
+			<!-- 🔍 GLOBAL SEARCH BAR -->
+			<SearchBar />
+			<div class="nav-links">
+				<a href="/categories" class:active={$page.url.pathname === '/categories'}>Categories</a>
+				<a href="/about" class:active={$page.url.pathname === '/about'}>About</a>
+			</div>
 		</div>
-	</div>
-</nav>
-
-<!-- 📷 HOME PAGE IMAGE (ONLY IF NO SEARCH) -->
-{#if $page.url.pathname === '/' && $searchTerm.trim().length === 0}
-	<div class="image-container">
-		<img src="/photographs/kitchen-tall.png" alt="Kitchen Setup" />
-	</div>
+	</nav>
 {/if}
 
 <!-- 🧠 SLOT: PAGE CONTENT (ONLY IF NO SEARCH TERM) -->
@@ -97,24 +91,5 @@
 
 	.nav-links a:hover {
 		color: olive;
-	}
-
-	.image-container {
-		display: flex;
-		justify-content: center;
-		margin-top: 20px;
-	}
-
-	.image-container img {
-		width: 100%;
-		max-width: 450px;
-		height: auto;
-		border-radius: 15px;
-	}
-
-	@media (max-width: 768px) {
-		.image-container img {
-			width: 90%;
-		}
 	}
 </style>
