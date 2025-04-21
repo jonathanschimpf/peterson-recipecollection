@@ -2,11 +2,13 @@
 	export const prerender = true;
 </script>
 
-<a href="/home" class="welcome-link">
-	<h1 class="welcome-title">Peterson</h1>
-	<h1 class="welcome-subtitle">Recipe Collection</h1>
-	<p class="welcome-enter">Enter</p>
-</a>
+<div class="welcome-container">
+	<a href="/home" class="welcome-link">
+		<h1 class="welcome-title">Peterson</h1>
+		<h1 class="welcome-subtitle">Recipe Collection</h1>
+		<p class="welcome-enter">Enter</p>
+	</a>
+</div>
 
 <style>
 	:global(body) {
@@ -16,25 +18,28 @@
 		font-family: Arial, sans-serif;
 	}
 
+	.welcome-container {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		height: 100vh;
+		text-align: center;
+	}
+
 	.welcome-link {
+		text-decoration: none;
+		color: inherit;
 		display: flex;
 		flex-direction: column;
 		align-items: center;
-		justify-content: center;
-		text-align: center;
-		height: 100vh;
-		text-decoration: none;
-		color: olive;
+		transition: color 0.2s ease;
 	}
 
-	.welcome-title {
-		font-size: 3rem;
-		margin: 0;
-	}
-
+	.welcome-title,
 	.welcome-subtitle {
-		font-size: 2.5rem;
 		margin: 0;
+		color: black;
+		transition: color 0.2s ease;
 	}
 
 	.welcome-enter {
@@ -44,8 +49,13 @@
 		transition: color 0.2s ease;
 	}
 
+	/* HOVER & ACTIVE EFFECT (Desktop & Mobile) */
+	.welcome-link:hover .welcome-title,
+	.welcome-link:active .welcome-title,
+	.welcome-link:hover .welcome-subtitle,
+	.welcome-link:active .welcome-subtitle,
 	.welcome-link:hover .welcome-enter,
 	.welcome-link:active .welcome-enter {
-		color: gray;
+		color: olive;
 	}
 </style>

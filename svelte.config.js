@@ -13,7 +13,7 @@ const config = {
 			$lib: './src/lib'
 		},
 		prerender: {
-			entries: ['*', '/'] // ← MAKE SURE '/' is included here
+			entries: ['*', '/'] // ← 
 		}
 	}
 };
