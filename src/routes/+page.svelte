@@ -1,4 +1,7 @@
-<!-- src/routes/+page.svelte -->
+<script context="module">
+	export const prerender = true;
+</script>
+
 <a href="/home" class="welcome-link">
 	<h1 class="welcome-title">Peterson</h1>
 	<h1 class="welcome-subtitle">Recipe Collection</h1>
