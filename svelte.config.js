@@ -7,15 +7,13 @@ const config = {
 
 	kit: {
 		adapter: adapter({
-			split: false // 🛠️ PREVENTS CONFLICTS WRITING _headers/_redirects
+			split: false
 		}),
-
 		alias: {
 			$lib: './src/lib'
 		},
-
 		prerender: {
-			default: true
+			entries: ['*', '/'] // ← MAKE SURE '/' is included here
 		}
 	}
 };
