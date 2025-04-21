@@ -12,6 +12,10 @@ const config = {
 
 		alias: {
 			$lib: './src/lib'
+		},
+
+		prerender: {
+			default: true
 		}
 	}
 };
