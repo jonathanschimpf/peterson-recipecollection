@@ -8,3 +8,8 @@ body.no-scroll {
     position: fixed;
     width: 100%;
 }
+
+/* NO 'PRESS BOX' */
+a {
+    -webkit-tap-highlight-color: transparent;
+}
