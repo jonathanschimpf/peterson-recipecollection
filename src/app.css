@@ -11,5 +11,5 @@ body.no-scroll {
 
 /* NO 'PRESS BOX' */
 a {
-    -webkit-tap-highlight-color: transparent;
+    -webkit-tap-highlight-color: transparent !important;
 }
