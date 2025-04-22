@@ -13,3 +13,10 @@ body.no-scroll {
 a {
     -webkit-tap-highlight-color: transparent !important;
 }
+
+* {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    /* FULLY TRANSPARENT */
+    -webkit-tap-highlight-color: transparent;
+    /* BACKUP ON PRESSIN'  */
+}
