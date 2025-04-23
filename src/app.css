@@ -15,10 +15,10 @@ a {
 }
 
 * {
-    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
     /* FULLY TRANSPARENT */
-    -webkit-tap-highlight-color: transparent;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
     /* BACKUP ON PRESSIN'  */
+    -webkit-tap-highlight-color: transparent !important;
 }
 
 a,
@@ -27,12 +27,12 @@ button,
 input,
 textarea,
 select {
-    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-    -webkit-tap-highlight-color: transparent;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0) !important;
+    -webkit-tap-highlight-color: transparent !important;
 }
 
 a:focus,
 button:focus,
 input:focus {
-    outline: none;
+    outline: none !important;
 }
