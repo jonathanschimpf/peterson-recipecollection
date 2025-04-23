@@ -20,3 +20,19 @@ a {
     -webkit-tap-highlight-color: transparent;
     /* BACKUP ON PRESSIN'  */
 }
+
+a,
+button,
+[role="button"],
+input,
+textarea,
+select {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-tap-highlight-color: transparent;
+}
+
+a:focus,
+button:focus,
+input:focus {
+    outline: none;
+}
