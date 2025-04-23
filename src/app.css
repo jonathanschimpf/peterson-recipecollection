@@ -36,3 +36,16 @@ button:focus,
 input:focus {
     outline: none !important;
 }
+
+a:focus-visible {
+    outline: none !important;
+}
+
+a,
+a:focus,
+a:focus-visible,
+a:active {
+    outline: none !important;
+    -webkit-tap-highlight-color: transparent !important;
+    background-color: transparent !important;
+}
