@@ -34,4 +34,4 @@ The 'About' section will be updated to include some backstory soon.
 ---
 
 ✨ A GPT helped write this README — because it’s 2025.  
-🔗 [https://petersonrecipecollection.netlify.app](petersonrecipecollection.netlify.app)
+🔗 [petersonrecipecollection.netlify.app](https://petersonrecipecollection.netlify.app)
