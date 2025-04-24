@@ -1,59 +1,37 @@
-🥘 Peterson Recipe Collection 🥘 
-A handcrafted digital archive of 226+ handwritten and printed family recipes — collected since the mid-1980s, then scanned and GPT-OCR-transcribed in 2024–2025. Built with SvelteKit to preserve the charm of the originals in a clean, modern interface.
+# Peterson Recipe Collection
 
-Carefully rganized for fast browsing, smooth zooming, and reading verbatim text — this project blends nostalgia with responsive design to honor decades of meals and memories.
+🥘 A handcrafted digital archive of 226+ handwritten and printed family recipes — collected since the mid-1980s, then scanned and GPT-OCR-transcribed in 2024–2025. Built with SvelteKit to preserve the charm of the originals in a clean, modern interface.
+
+Carefully organized for fast browsing, smooth zooming, and reading verbatim text — this project blends nostalgia with responsive design to honor decades of meals and memories.
 
 The 'About' section will be updated to include some backstory soon.
 
-🔧 Tech Stack
-Framework: SvelteKit
+## 🛠️ Tech Stack
 
-Hosting: Netlify
+- **Framework**: SvelteKit  
+- **Hosting**: Netlify  
+- **Styling**: Tailwind CSS (mobile-first, minimal, and intuitive)  
+- **Image Modal**: Custom `<ScanModal.svelte>` with zoom, scroll lock, and pinch support  
+- **Search**: Real-time global search powered by a writable Svelte store  
 
-Styling: Tailwind CSS (mobile-first, minimal, and intuitive)
+## 🗂️ Routing
 
-Image Modal: Custom <ScanModal.svelte> with zoom, scroll lock, and pinch support
+- `/categories/[category]` — explore recipes by category (e.g., Appetizers, Desserts)  
+- `/recipes/[slug]` — dynamic recipe pages with scan + transcription  
 
-Search: Real-time global search powered by a writable Svelte store
+## 💾 Data Source
 
-Routing:
+- Recipes stored as raw `.html` files (converted from markdown)  
+- Metadata mapped in `recipe_data.json` for category, name, and file paths  
 
-/categories/[category] — explore recipes by category (e.g., Appetizers, Desserts)
+## ✅ Key Features
 
-/recipes/[slug] — dynamic recipe pages with scan + transcription
+- 🧠 **Accessible by design**: semantic structure, keyboard-friendly modal  
+- 🧲 **Fast image loads**: lightweight thumbnails with optional full-zoom  
+- 🧵 **Verbatim transcriptions**: exactly as written — quirks, typos, and all  
+- 🔍 **Instant global search**: returns results as you type, inline on any page  
 
-Data Source:
+---
 
-Recipes stored as raw .html files (converted from markdown)
-
-Metadata mapped in recipe_data.json for category, name, and file paths
-
-📁 Project Structure
-
-.
-├── src
-│   ├── routes
-│   │   ├── recipes/[slug]      # Dynamic recipe pages
-│   │   ├── categories          # Category-based routes
-│   │   └── +layout.svelte      # Shared layout + search injection
-│   ├── lib
-│   │   ├── components
-│   │   │   └── ScanModal.svelte # Custom modal w/ zoomable scan images
-│   │   └── data
-│   │       └── recipe_data.json # Category + path metadata
-├── static
-│   └── scan-content            # All `.jpg` scans and `.html` transcriptions
-└── app.css                     # Tailwind + base styles
-
-
-✅ Key Features
-🧠 Accessible by design: semantic structure, keyboard-friendly modal
-
-🧲 Fast image loads: lightweight thumbnails with optional full-zoom
-
-🧵 Verbatim transcriptions: exactly as written — quirks, typos, and all
-
-🔍 Instant global search: returns results as you type, inline on any page
-
-🪄 A GPT helped write this README — because it’s 2025 😃✨
-🔗 https://petersonrecipecollection.netlify.app
+✨ A GPT helped write this README — because it’s 2025.  
+🔗 [https://petersonrecipecollection.netlify.app](https://petersonrecipecollection.netlify.app)
