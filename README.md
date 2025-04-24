@@ -1,6 +1,6 @@
-# Peterson Recipe Collection
+# 🥘 Peterson Recipe Collection 🥘
 
-🥘 A handcrafted digital archive of 226+ handwritten and printed family recipes — collected since the mid-1980s, then scanned and GPT-OCR-transcribed in 2024–2025. Built with SvelteKit to preserve the charm of the originals in a clean, modern interface.
+ A handcrafted digital archive of 226+ handwritten and printed family recipes — collected since the mid-1980s, then scanned and GPT-OCR-transcribed in 2024–2025. Built with SvelteKit to preserve the charm of the originals in a clean, modern interface.
 
 Carefully organized for fast browsing, smooth zooming, and reading verbatim text — this project blends nostalgia with responsive design to honor decades of meals and memories.
 
