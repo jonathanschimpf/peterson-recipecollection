@@ -1,18 +1,28 @@
 <!-- src/routes/home/+page.svelte -->
-<div class="image-container">
-	<img
-		src="/photographs/kitchen-tall.png"
-		class="recipe-collection"
-		alt="Peterson Recipe Collection"
-	/>
+<!-- src/routes/home/+page.svelte -->
+<div class="image-outer">
+	<div class="image-container">
+		<img
+			src="/photographs/kitchen-tall.png"
+			class="recipe-collection"
+			alt="Peterson Recipe Collection"
+		/>
+	</div>
 </div>
 
 <style>
+	.image-outer {
+		min-height: calc(80vh);
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		padding: 1rem;
+	}
+
 	.image-container {
 		display: flex;
 		justify-content: center;
-		margin-top: 2rem;
-		margin-bottom: 2rem;
+		width: 100%;
 	}
 
 	.recipe-collection {
