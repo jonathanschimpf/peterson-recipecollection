@@ -1,54 +1,46 @@
-<script>
+<script lang="ts">
 	import { base } from '$app/paths';
 
-	// CATEGORY LIST WITH REAL IMAGE PATHS
 	const categories = [
 		{ name: 'Appetizers', image: `${base}/photographs/categories/categories_appetizers.jpg` },
 		{ name: 'Beverages', image: `${base}/photographs/categories/categories_beverages.jpg` },
 		{ name: 'Breads', image: `${base}/photographs/categories/categories_breads.jpg` },
-		{
-			name: 'Cakes and Frostings',
-			image: `${base}/photographs/categories/categories_cakesandfrostings.jpg`
-		},
+		{ name: 'Cakes and Frostings', image: `${base}/photographs/categories/categories_cakesandfrostings.jpg` },
 		{ name: 'Casseroles', image: `${base}/photographs/categories/categories_casseroles.jpg` },
-		{
-			name: 'Christmas Recipes',
-			image: `${base}/photographs/categories/categories_christmasrecipes.jpg`
-		},
+		{ name: 'Christmas Recipes', image: `${base}/photographs/categories/categories_christmasrecipes.jpg` },
 		{ name: 'Cookies', image: `${base}/photographs/categories/categories_cookies.jpg` },
 		{ name: 'Desserts', image: `${base}/photographs/categories/categories_desserts.jpg` },
 		{ name: 'Eggs', image: `${base}/photographs/categories/categories_eggs.jpg` },
 		{ name: 'Meat', image: `${base}/photographs/categories/categories_meat.jpg` },
 		{ name: 'Pasta and Rice', image: `${base}/photographs/categories/categories_pastaandrice.jpg` },
-		{
-			name: 'Pies and Pastries',
-			image: `${base}/photographs/categories/categories_piesandpastries.jpg`
-		},
+		{ name: 'Pies and Pastries', image: `${base}/photographs/categories/categories_piesandpastries.jpg` },
 		{ name: 'Poultry', image: `${base}/photographs/categories/categories_poultry.jpg` },
-		{
-			name: 'Salads and Dressings',
-			image: `${base}/photographs/categories/categories_saladsanddressings.jpg`
-		},
+		{ name: 'Salads and Dressings', image: `${base}/photographs/categories/categories_saladsanddressings.jpg` },
 		{ name: 'Sauces', image: `${base}/photographs/categories/categories_sauces.jpg` },
 		{ name: 'Seafood', image: `${base}/photographs/categories/categories_seafood.jpg` },
-		{
-			name: 'Soups and Sandwiches',
-			image: `${base}/photographs/categories/categories_soupsandsandwiches.jpg`
-		},
+		{ name: 'Soups and Sandwiches', image: `${base}/photographs/categories/categories_soupsandsandwiches.jpg` },
 		{ name: 'Vegetables', image: `${base}/photographs/categories/categories_vegetables.jpg` }
 	];
 </script>
 
-<!-- CATEGORIES PAGE -->
 <section class="categories">
 	<div class="grid">
-		{#each categories as category}
-			<a
-				href={`/categories/${category.name.toLowerCase().replace(/\s+/g, '-')}`}
-				class="category-card"
-			>
+		{#each categories as category (category.name)}
+			<a href={`/categories/${category.name.toLowerCase().replace(/\s+/g, '-')}`} class="category-card">
 				<div class="image-wrapper">
-					<img src={category.image} alt={category.name} width="500" height="333" loading="lazy" />
+					<img
+					src={category.image}
+					alt={category.name}
+					width="500"
+					height="333"
+					loading="lazy"
+					class="category-image"
+					class:loaded={false} 
+					on:load={(e) => {
+						const target = e.target as HTMLImageElement;
+						if (target) target.classList.add('loaded');
+					}}
+				/>				
 					<div class="overlay"></div>
 					<span class="category-title">{category.name}</span>
 				</div>
@@ -57,14 +49,11 @@
 	</div>
 </section>
 
-<!-- STYLES -->
 <style>
 	a {
 		-webkit-tap-highlight-color: transparent;
 	}
-
-	a:focus,
-	a:active {
+	a:focus, a:active {
 		outline: none;
 	}
 
@@ -80,7 +69,7 @@
 		gap: 20px;
 		padding: 20px;
 		justify-content: center;
-		text-align: center; /* STAY CENTERED */
+		text-align: center;
 	}
 
 	.category-card {
@@ -111,13 +100,19 @@
 		margin: 0 auto;
 	}
 
-	.image-wrapper img {
+	.category-image {
 		width: 100%;
 		height: 200px;
 		object-fit: cover;
 		display: block;
 		border-radius: 10px;
 		box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+		opacity: 0;
+		transition: opacity 0.5s ease-in-out;
+	}
+
+	.category-image.loaded {
+		opacity: 1;
 	}
 
 	.overlay {
@@ -145,7 +140,6 @@
 		text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
 	}
 
-	/* MOBILE TAP FIX */
 	@media (max-width: 768px) {
 		.category-card:active .overlay {
 			background: rgba(0, 0, 0, 0.5);

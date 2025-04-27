@@ -7,5 +7,3 @@
 Chop artichoke hearts add mayo
 & cheese; Put in 350° oven
 10-15 mins. Serve hot w/ crackers
-
-Betsy Pearson

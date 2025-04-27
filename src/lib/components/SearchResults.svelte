@@ -12,7 +12,12 @@
 	unsubscribe = searchTerm.subscribe((value) => {
 		term = value.trim().toLowerCase();
 		results =
-			term.length > 0 ? recipeData.filter((r) => r.recipe_name.toLowerCase().includes(term)) : [];
+			term.length > 0
+				? recipeData.filter((r) =>
+						r.recipe_name.toLowerCase().includes(term) ||
+						(r.credit?.toLowerCase().includes(term))
+				  )
+				: [];
 	});
 
 	onDestroy(() => {
@@ -54,6 +59,7 @@
 		{/if}
 	</div>
 {/if}
+
 
 <style>
 	/* 🧭 GHOST BACK ARROW SPACER TO PRESERVE VISUAL ALIGNMENT */
