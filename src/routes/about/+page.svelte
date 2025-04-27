@@ -6,9 +6,12 @@
 
 <section class="about-section">
 	<p class="about-text">
-		A nostalgic archive of handwritten and printed family recipes collected since the mid-1980s.
-		<br />
-		Scanned and OCR-GPT-transcribed in 2024–2025.
+		A nostalgic archive of handwritten and printed recipes, continuously collected and preserved by the Peterson family since the 1980s. 
+		
+		<br/>
+
+		Digitized by scanning & OCR-GPT-transcribed in 2024–2025.
+
 	</p>
 </section>
 
