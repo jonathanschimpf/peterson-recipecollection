@@ -46,4 +46,3 @@ The 'About' section will be updated to include some backstory soon.
 ✨ A GPT helped write this README — because it’s 2025.  
 🔗 [petersonrecipecollection.netlify.app](https://petersonrecipecollection.netlify.app)
 
-🧑‍💻 Repo: [github.com/jonathanschimpf/peterson-recipecollection](https://github.com/jonathanschimpf/peterson-recipecollection)
