@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import type { Recipe } from '../../../types/json';
-	import ScanModal from '$lib/components/ScanModal.svelte'; // 🛠 OKAY NOW
+	import ScanModal from '$lib/components/ScanModal.svelte';
 
 	export let data: { recipe: Recipe; htmlContent: string; credit: string | null };
 
@@ -20,13 +20,15 @@
 <h1 class="recipe-title">{recipe.recipe_name}</h1>
 
 <div class="scan-wrapper">
-	<button class="scan-button" on:click={() => (showModal = true)}>
-		<img src={recipe.image_path} alt="Recipe scan" class="scan-thumb" />
-	</button>
+	<div class="scan-container">
+		<button class="scan-button" on:click={() => (showModal = true)}>
+			<img src={recipe.image_path} alt="Recipe scan" class="scan-thumb" />
+		</button>
 
-	{#if credit}
-		<div class="recipe-credit">{credit}</div>
-	{/if}
+		{#if credit}
+			<div class="recipe-credit">{credit}</div>
+		{/if}
+	</div>
 </div>
 
 <div class="markdown">
@@ -38,7 +40,6 @@
 <ScanModal imageUrl={recipe.image_path} isOpen={showModal} close={() => (showModal = false)} />
 
 <style>
-	/* == YOUR EXISTING STYLES INCLUDED EXACTLY AS-IS == */
 	@media (max-width: 768px) {
 		.scan-thumb {
 			max-width: 70% !important;
@@ -55,6 +56,7 @@
 			font-size: 13px !important;
 		}
 	}
+
 	.back-link {
 		font-size: 2rem;
 		text-decoration: none;
@@ -65,6 +67,7 @@
 	.back-link:hover {
 		color: grey;
 	}
+
 	.recipe-title {
 		text-align: center;
 		font-size: 2.5rem;
@@ -72,6 +75,7 @@
 		font-family: Arial, sans-serif;
 		font-size: 28px;
 	}
+
 	.scan-wrapper {
 		display: flex;
 		flex-direction: column;
@@ -79,29 +83,38 @@
 		margin: 1.5rem 0;
 		position: relative;
 	}
+
+	.scan-container {
+		max-width: 33%;
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		align-items: flex-end;
+	}
+
 	.scan-button {
 		background: none;
 		border: none;
 		padding: 0;
 		cursor: zoom-in;
 	}
+
 	.scan-thumb {
-		max-width: 33%;
+		width: 100%;
 		height: auto;
 		border-radius: 12px;
 		box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
 		transition: transform 0.2s ease;
 	}
+
 	.recipe-credit {
-	font-size: 10px;
-	color: #888;
-	text-align: right;
-	width: 100%;
-	max-width: 33%;
-	padding-right: 0.5rem; 
-	margin-top: 0.75rem;    
-	box-sizing: border-box; 
-    }
+		font-size: 10px;
+		color: #888;
+		padding-right: 0.5rem;
+		margin-top: 0.75rem;
+		box-sizing: border-box;
+	}
+
 	.markdown {
 		max-width: 700px;
 		margin: 2rem auto;
@@ -111,6 +124,7 @@
 		font-family: Arial, sans-serif;
 		font-size: 16px;
 	}
+
 	.markdown-inner {
 		text-align: center;
 	}
