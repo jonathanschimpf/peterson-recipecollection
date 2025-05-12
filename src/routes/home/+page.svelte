@@ -1,11 +1,15 @@
-<!-- src/routes/home/+page.svelte -->
-<!-- src/routes/home/+page.svelte -->
+<script>
+	let imageLoaded = false;
+</script>
+
 <div class="image-outer">
 	<div class="image-container">
 		<img
 			src="/photographs/kitchen-tall.png"
-			class="recipe-collection"
 			alt="Peterson Recipe Collection"
+			class:loaded={imageLoaded}
+			on:load={() => (imageLoaded = true)}
+			class="recipe-collection"
 		/>
 	</div>
 </div>
@@ -31,5 +35,11 @@
 		border-radius: 12px;
 		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
 		height: auto;
+		opacity: 0;
+		transition: opacity 0.5s ease-in-out;
+	}
+
+	.recipe-collection.loaded {
+		opacity: 1;
 	}
 </style>

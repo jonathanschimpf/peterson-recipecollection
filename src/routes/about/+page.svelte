@@ -1,7 +1,5 @@
-<!-- src/routes/about/+page.svelte -->
-
 <script>
-	import { fade } from 'svelte/transition';
+	let imageLoaded = false;
 </script>
 
 <section class="about-section">
@@ -10,8 +8,9 @@
 			<img
 				src="/photographs/categories-overhead.png"
 				alt="Overhead view of the Peterson recipe box"
+				class:loaded={imageLoaded}
+				on:load={() => (imageLoaded = true)}
 				class="recipe-collection"
-				transition:fade={{ duration: 25 }}
 			/>
 		</div>
 	</div>
@@ -52,6 +51,12 @@
 		border-radius: 12px;
 		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
 		height: auto;
+		opacity: 0;
+		transition: opacity 0.5s ease-in-out;
+	}
+
+	.recipe-collection.loaded {
+		opacity: 1;
 	}
 
 	.about-text {
