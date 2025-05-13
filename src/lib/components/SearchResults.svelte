@@ -17,7 +17,7 @@
 						r.recipe_name.toLowerCase().includes(term) ||
 						(r.credit?.toLowerCase().includes(term))
 				  )
-	: [];
+				: [];
 	});
 
 	onDestroy(() => {

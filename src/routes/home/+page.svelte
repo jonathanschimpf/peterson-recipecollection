@@ -27,6 +27,7 @@
 		display: flex;
 		justify-content: center;
 		width: 100%;
+		min-height: 315px; /* 3:2 IMAGE SPACE RESERVED */
 	}
 
 	.recipe-collection {

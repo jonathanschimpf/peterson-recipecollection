@@ -16,7 +16,8 @@
 	</div>
 
 	<p class="about-text">
-		A nostalgic archive of handwritten and printed recipes, continuously collected and preserved by the Peterson family since the 1980s. Digitized by scanning & OCR-GPT-transcribed in 2024–2025.
+		A nostalgic archive of handwritten and printed recipes, continuously collected and preserved by
+		the Peterson family since the 1980s. Digitized by scanning & OCR-GPT-transcribed in 2024–2025.
 	</p>
 </section>
 
@@ -43,7 +44,9 @@
 		display: flex;
 		justify-content: center;
 		width: 100%;
+		min-height: 315px; /* 3:2 IMAGE SPACE RESERVED */
 	}
+	/* TEST */
 
 	.recipe-collection {
 		max-width: 415px;
