@@ -7,11 +7,12 @@
 		<img
 			src="/photographs/kitchen-tall.png"
 			alt="Peterson Recipe Collection"
-			class:loaded={imageLoaded}
-			on:load={() => (imageLoaded = true)}
-			class="recipe-collection"
 			loading="eager"
 			decoding="async"
+			class:loaded={imageLoaded}
+			on:load={() => (imageLoaded = true)}
+			on:error={() => console.error('Failed to load /photographs/kitchen-tall.png')}
+			class="recipe-collection"
 		/>
 	</div>
 </div>

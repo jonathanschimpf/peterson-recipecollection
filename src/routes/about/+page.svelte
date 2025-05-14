@@ -8,11 +8,12 @@
 			<img
 				src="/photographs/categories-overhead.png"
 				alt="Overhead view of the Peterson recipe box"
-				class:loaded={imageLoaded}
-				on:load={() => (imageLoaded = true)}
-				class="recipe-collection"
 				loading="eager"
 				decoding="async"
+				class:loaded={imageLoaded}
+				on:load={() => (imageLoaded = true)}
+				on:error={() => console.error('Failed to load /photographs/categories-overhead.png')}
+				class="recipe-collection"
 			/>
 		</div>
 	</div>

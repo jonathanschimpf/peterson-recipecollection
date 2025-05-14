@@ -16,6 +16,12 @@
 	const backLink = `/categories/${recipe.category.toLowerCase().replace(/\s+/g, '-')}`;
 </script>
 
+<svelte:head>
+	{#if recipe?.image_path}
+		<link rel="preload" as="image" href={recipe.image_path} />
+	{/if}
+</svelte:head>
+
 <div transition:fade={{ duration: 250 }}>
 	<a href={backLink} class="back-link">←</a>
 
