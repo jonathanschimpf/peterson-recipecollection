@@ -1139,7 +1139,7 @@
 	},
 	{
 		"category": "Seafood",
-		"recipe_name": "Fish Fresh Bourbon Marinated Atlantic Salmon",
+		"recipe_name": "Fresh Bourbon Marinated Atlantic Salmon",
 		"image_path": "/scan-content/Seafood - Fish Fresh Bourbon Marinated Atlantic Salmon.jpg",
 		"text_path": "src/lib/data/html/Seafood - Fish Fresh Bourbon Marinated Atlantic Salmon.html"
 	},
