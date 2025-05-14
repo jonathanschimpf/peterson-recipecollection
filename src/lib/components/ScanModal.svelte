@@ -93,6 +93,8 @@
 						alt="Scanned recipe"
 						draggable="false"
 						class="scan-img {zoomed ? 'zoomed' : ''}"
+						loading="eager"
+						decoding="async"
 					/>
 				</div>
 			</div>
