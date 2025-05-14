@@ -672,15 +672,15 @@
 	},
 	{
 		"category": "Eggs",
-		"recipe_name": "Fish Fresh Skillet Pancake",
-		"image_path": "/scan-content/Eggs - Fish Fresh Skillet Pancake.jpg",
-		"text_path": "src/lib/data/html/Eggs - Fish Fresh Skillet Pancake.html"
-	},
-	{
-		"category": "Eggs",
 		"recipe_name": "German Pancake",
 		"image_path": "/scan-content/Eggs - German Pancake.jpg",
 		"text_path": "src/lib/data/html/Eggs - German Pancake.html"
+	},
+	{
+		"category": "Eggs",
+		"recipe_name": "Skillet Pancake",
+		"image_path": "/scan-content/Eggs - Skillet Pancake.jpg",
+		"text_path": "src/lib/data/html/Eggs - Skillet Pancake.html"
 	},
 	{
 		"category": "Meat",
