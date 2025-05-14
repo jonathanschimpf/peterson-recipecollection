@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
+	import { fade } from 'svelte/transition';
 	import type { Recipe } from '../../../types/json';
 	import ScanModal from '$lib/components/ScanModal.svelte';
 
@@ -15,48 +16,40 @@
 	const backLink = `/categories/${recipe.category.toLowerCase().replace(/\s+/g, '-')}`;
 </script>
 
-<a href={backLink} class="back-link">←</a>
+<div transition:fade={{ duration: 250 }}>
+	<a href={backLink} class="back-link">←</a>
 
-<h1 class="recipe-title">{recipe.recipe_name}</h1>
+	<h1 class="recipe-title">{recipe.recipe_name}</h1>
 
-<div class="scan-wrapper">
-	<div class="scan-container">
-		<button class="scan-button" on:click={() => (showModal = true)}>
-			<img src={recipe.image_path} alt="Recipe scan" class="scan-thumb" />
-		</button>
+	<div class="scan-wrapper">
+		<div class="scan-container">
+			<button class="scan-button" on:click={() => (showModal = true)}>
+				<img src={recipe.image_path} alt="Recipe scan" class="scan-thumb" />
+			</button>
 
-		{#if credit}
-			<div class="recipe-credit">{credit}</div>
-		{/if}
+			{#if credit}
+				<div class="recipe-credit">{credit}</div>
+			{/if}
+		</div>
 	</div>
-</div>
 
-<div class="markdown">
-	<div class="markdown-inner">
-		{@html htmlContent}
+	<div class="markdown">
+		<div class="markdown-inner">
+			{@html htmlContent}
+		</div>
 	</div>
 </div>
 
 <ScanModal imageUrl={recipe.image_path} isOpen={showModal} close={() => (showModal = false)} />
 
 <style>
-	@media (max-width: 768px) {
-		.scan-thumb {
-			max-width: 70% !important;
-		}
+	/* -----------------   FORCE IT   -----------------*/
+	img {
+		image-rendering: crisp-edges !important;
+		image-rendering: -webkit-optimize-contrast !important;
+		backface-visibility: hidden !important;
 	}
-	@media (max-width: 480px) {
-		.scan-thumb {
-			max-width: 75% !important;
-		}
-		:global(.recipe-title) {
-			font-size: 20px !important;
-		}
-		:global(.markdown) {
-			font-size: 13px !important;
-		}
-	}
-
+	/* ----------------- MOBILE FIRST ----------------- */
 	.back-link {
 		font-size: 2rem;
 		text-decoration: none;
@@ -70,10 +63,9 @@
 
 	.recipe-title {
 		text-align: center;
-		font-size: 2.5rem;
+		font-size: 20px;
 		margin: 2rem 0 1rem;
 		font-family: Arial, sans-serif;
-		font-size: 28px;
 	}
 
 	.scan-wrapper {
@@ -85,8 +77,7 @@
 	}
 
 	.scan-container {
-		max-width: 33%;
-		width: 100%;
+		width: 85%;
 		display: flex;
 		flex-direction: column;
 		align-items: flex-end;
@@ -110,22 +101,45 @@
 	.recipe-credit {
 		font-size: 10px;
 		color: #888;
-		padding-right: 0.5rem;
-		margin-top: 0.75rem;
-		box-sizing: border-box;
+		padding-top: 0.5rem;
+		padding-right: 0.25rem;
+		align-self: flex-end;
 	}
 
 	.markdown {
 		max-width: 700px;
-		margin: 2rem auto;
+		margin: 2rem auto 4rem;
 		padding: 0 1rem;
-		font-size: 1.125rem;
+		font-size: 13px;
 		line-height: 1.6;
 		font-family: Arial, sans-serif;
-		font-size: 16px;
 	}
 
 	.markdown-inner {
 		text-align: center;
+	}
+
+	/* ----------------- TABLET ----------------- */
+	@media (min-width: 481px) {
+		.recipe-title {
+			font-size: 24px;
+		}
+		.markdown {
+			font-size: 15px;
+		}
+	}
+
+	/* ----------------- DESKTOP ----------------- */
+	@media (min-width: 769px) {
+		.recipe-title {
+			font-size: 28px;
+		}
+		.scan-container {
+			max-width: 33%;
+			width: 100%;
+		}
+		.markdown {
+			font-size: 16px;
+		}
 	}
 </style>

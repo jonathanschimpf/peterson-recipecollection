@@ -1,5 +1,0 @@
-The following are per serving:
-
-(25) littleneck clams  •  6” hot Italian sausage  •  (1) large onion  •  (1) large potato  •  (1) ear of corn  •  (1) cheesecloth sack from fishmonger  •  4 oz. beer  •  Salt, pepper, Old Bay
-
-Cut sausage and potato into bite size pieces, peel and quarter onion and break corn in half. Add all ingredients into cheesecloth sack except beer. Wrap in heavy-duty aluminum foil. Add beer into packet and close foil. Put on BBQ grill or in oven for 30 – 40 minutes at 350 - 375 degrees. Check for doneness of potato’s and sausage. Serve right in the foil on a plate with melted butter.

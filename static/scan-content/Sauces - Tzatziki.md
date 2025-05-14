@@ -1,3 +1,0 @@
-16 oz yogurt  •  1 cucumber, peeled, seeded diced  •  2 tbsp olive oil  •  1/2 lemon   •  S & P  •  1 clove garlic  •  1 tbsp dill
-
-Blend all.

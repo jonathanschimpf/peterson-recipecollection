@@ -1,3 +1,0 @@
-1-2 cups quinoa (½ box), add as needed  •  3-4 chopped plum tomatoes  •  Chopped parsley & cilantro  •  Chopped spring onions (1 bunch)  •  2-3 cloves finely chopped garlic  •  1 chopped seedless cucumber (peeled)  •  Juice of 1 lemon (more if needed)  
-
-Mix above to taste ingredients with olive oil. Dash cayenne, salt, pepper — olive oil to taste

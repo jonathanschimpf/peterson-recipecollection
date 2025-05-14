@@ -1,7 +1,0 @@
-4 Tbs. unsalted butter  •  2 Tbs. olive oil  •  2 red onions, thinly sliced  •  4 lb. Yukon Gold potatoes, peeled and quartered  •  1½ cups half-and-half, heated  •  White pepper
-
-In a sauté pan over medium-high heat melt butter and olive oil. Add onions and cook until translucent. Reduce heat to low and let cook until caramelized, about ½ hour. Remove from heat.
-
-Put potatoes in a large pot with enough cold water to cover. Bring to a boil. Add a pinch of salt and boil until tender when pierced with a fork, about 15 min. Drain well. Put the potatoes through a ricer or mill. Slowly add half-and-half, stirring constantly until potatoes are creamy but not soupy. Mix in caramelized onions; add salt and white pepper to taste.
-
-Serves 8.

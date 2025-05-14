@@ -1,9 +1,0 @@
-Early in day or day before:
-
-Prepare piecrust mix for one-crust 9-in. pie as label directs but use lemon juice instead of water; bake, then chill.
-
-Meanwhile, in 8" by 8" baking pan, freeze one 13-oz. can evaporated milk until ice crystals appear on sides of pan, about 30 min. In large bowl with electric mixer at high speed, beat chilled milk until stiff peaks form. Slowly beat in one 6-oz. can frozen lemonade concentrate, thawed, and 1/4 cup sugar.
-
-Pour into cold piecrust. Freeze until firm.
-
-To serve: Let pie stand at room temp. abt. 5 min. for

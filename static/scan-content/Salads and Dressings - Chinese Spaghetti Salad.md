@@ -1,3 +1,0 @@
-Cook spaghetti noodles  •  2 tbsp olive oil  •  2 tbsp butter  •  Salt + Pepper  •  1 onion chopped  •  Chopped parsley  •  Chopped green olives  •  Shredded mozzarella cheese  •  Can tuna  •  Chopped pimento.
-
-Cook noodles, mix all ingredients, cook & serve.

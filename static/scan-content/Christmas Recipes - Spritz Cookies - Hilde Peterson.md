@@ -1,5 +1,0 @@
-(Mom Peterson’s recipe)
-
-½ lb. of Butter  •  1 ¼ cup powder sugar  •  2 egg yolks  •  ½ t almond  •  ½ t vanilla  •  2-½ cup flour (sift)  •  ½ts salt
-
-400 5 min.
