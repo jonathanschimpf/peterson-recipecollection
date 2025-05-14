@@ -62,13 +62,9 @@
 		align-items: center;
 	}
 
-	@media (max-width: 600px) {
-		.title {
-			font-size: 18px;
-		}
-		.nav-links a {
-			font-size: 14px;
-		}
+	.nav-links {
+		display: flex;
+		gap: 8px; /* 👈 TINY SPACING BETWEEN 'Categories' and 'About' */
 	}
 
 	.nav-links a {
@@ -91,5 +87,15 @@
 
 	.nav-links a:hover {
 		color: olive;
+	}
+
+	@media (max-width: 600px) {
+		.title {
+			font-size: 18px;
+		}
+
+		.nav-links a {
+			font-size: 14px;
+		}
 	}
 </style>
