@@ -11,6 +11,8 @@
 				class:loaded={imageLoaded}
 				on:load={() => (imageLoaded = true)}
 				class="recipe-collection"
+				loading="eager"
+				decoding="async"
 			/>
 		</div>
 	</div>
