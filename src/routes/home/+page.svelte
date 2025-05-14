@@ -16,11 +16,11 @@
 
 <style>
 	.image-outer {
-		min-height: calc(80vh);
+		padding: 0.5rem 1rem 1.5rem;
 		display: flex;
 		justify-content: center;
 		align-items: center;
-		padding: 1rem;
+		min-height: 80vh;
 	}
 
 	.image-container {

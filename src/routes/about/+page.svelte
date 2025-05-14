@@ -28,7 +28,7 @@
 		justify-content: center;
 		align-items: center;
 		min-height: 85vh;
-		padding: 2rem;
+		padding: 0.5rem 2rem 2rem; /* REDUCED TOP PADDING */
 		box-sizing: border-box;
 		text-align: center;
 	}
