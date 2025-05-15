@@ -89,4 +89,13 @@
 		color: olive;
 	}
 
-	@media (max-
+	@media (max-width: 600px) {
+		.title {
+			font-size: 18px;
+		}
+
+		.nav-links a {
+			font-size: 14px;
+		}
+	}
+</style>

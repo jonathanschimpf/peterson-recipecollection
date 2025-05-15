@@ -113,3 +113,39 @@
 	}
 
 	.markdown {
+		max-width: 700px;
+		margin: 2rem auto 4rem;
+		padding: 0 1rem;
+		font-size: 13px;
+		line-height: 1.6;
+		font-family: Arial, sans-serif;
+	}
+
+	.markdown-inner {
+		text-align: center;
+	}
+
+	/* ----------------- TABLET ----------------- */
+	@media (min-width: 481px) {
+		.recipe-title {
+			font-size: 24px;
+		}
+		.markdown {
+			font-size: 15px;
+		}
+	}
+
+	/* ----------------- DESKTOP ----------------- */
+	@media (min-width: 769px) {
+		.recipe-title {
+			font-size: 28px;
+		}
+		.scan-container {
+			max-width: 33%;
+			width: 100%;
+		}
+		.markdown {
+			font-size: 16px;
+		}
+	}
+</style>

@@ -152,4 +152,4 @@
 			font-size: 18px;
 		}
 	}
-</styl
+</style>
