@@ -5,20 +5,35 @@
 		{ name: 'Appetizers', image: `${base}/photographs/categories/categories_appetizers.jpg` },
 		{ name: 'Beverages', image: `${base}/photographs/categories/categories_beverages.jpg` },
 		{ name: 'Breads', image: `${base}/photographs/categories/categories_breads.jpg` },
-		{ name: 'Cakes and Frostings', image: `${base}/photographs/categories/categories_cakesandfrostings.jpg` },
+		{
+			name: 'Cakes and Frostings',
+			image: `${base}/photographs/categories/categories_cakesandfrostings.jpg`
+		},
 		{ name: 'Casseroles', image: `${base}/photographs/categories/categories_casseroles.jpg` },
-		{ name: 'Christmas Recipes', image: `${base}/photographs/categories/categories_christmasrecipes.jpg` },
+		{
+			name: 'Christmas Recipes',
+			image: `${base}/photographs/categories/categories_christmasrecipes.jpg`
+		},
 		{ name: 'Cookies', image: `${base}/photographs/categories/categories_cookies.jpg` },
 		{ name: 'Desserts', image: `${base}/photographs/categories/categories_desserts.jpg` },
 		{ name: 'Eggs', image: `${base}/photographs/categories/categories_eggs.jpg` },
 		{ name: 'Meat', image: `${base}/photographs/categories/categories_meat.jpg` },
 		{ name: 'Pasta and Rice', image: `${base}/photographs/categories/categories_pastaandrice.jpg` },
-		{ name: 'Pies and Pastries', image: `${base}/photographs/categories/categories_piesandpastries.jpg` },
+		{
+			name: 'Pies and Pastries',
+			image: `${base}/photographs/categories/categories_piesandpastries.jpg`
+		},
 		{ name: 'Poultry', image: `${base}/photographs/categories/categories_poultry.jpg` },
-		{ name: 'Salads and Dressings', image: `${base}/photographs/categories/categories_saladsanddressings.jpg` },
+		{
+			name: 'Salads and Dressings',
+			image: `${base}/photographs/categories/categories_saladsanddressings.jpg`
+		},
 		{ name: 'Sauces', image: `${base}/photographs/categories/categories_sauces.jpg` },
 		{ name: 'Seafood', image: `${base}/photographs/categories/categories_seafood.jpg` },
-		{ name: 'Soups and Sandwiches', image: `${base}/photographs/categories/categories_soupsandsandwiches.jpg` },
+		{
+			name: 'Soups and Sandwiches',
+			image: `${base}/photographs/categories/categories_soupsandsandwiches.jpg`
+		},
 		{ name: 'Vegetables', image: `${base}/photographs/categories/categories_vegetables.jpg` }
 	];
 </script>
@@ -26,21 +41,24 @@
 <section class="categories">
 	<div class="grid">
 		{#each categories as category (category.name)}
-			<a href={`/categories/${category.name.toLowerCase().replace(/\s+/g, '-')}`} class="category-card">
+			<a
+				href={`/categories/${category.name.toLowerCase().replace(/\s+/g, '-')}`}
+				class="category-card"
+			>
 				<div class="image-wrapper">
 					<img
-					src={category.image}
-					alt={category.name}
-					width="500"
-					height="333"
-					loading="lazy"
-					class="category-image"
-					class:loaded={false} 
-					on:load={(e) => {
-						const target = e.target as HTMLImageElement;
-						if (target) target.classList.add('loaded');
-					}}
-				/>				
+						src={category.image}
+						alt={category.name}
+						width="500"
+						height="333"
+						loading="lazy"
+						class="category-image"
+						class:loaded={false}
+						on:load={(e) => {
+							const target = e.target as HTMLImageElement;
+							if (target) target.classList.add('loaded');
+						}}
+					/>
 					<div class="overlay"></div>
 					<span class="category-title">{category.name}</span>
 				</div>
@@ -50,28 +68,63 @@
 </section>
 
 <style>
+	/* DISABLE BLUE TAP HIGHLIGHT ON MOBILE */
 	a {
 		-webkit-tap-highlight-color: transparent;
 	}
-	a:focus, a:active {
+	a:focus,
+	a:active {
 		outline: none;
 	}
 
+	/* WRAPS ENTIRE CATEGORIES SECTION */
 	.categories {
 		text-align: center;
 		margin-top: 20px;
 		font-family: 'Arial', sans-serif;
 	}
 
+	/* MAIN RESPONSIVE GRID LAYOUT */
 	.grid {
 		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+		grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* DEFAULT RESPONSIVE FALLBACK */
 		gap: 20px;
 		padding: 20px;
 		justify-content: center;
 		text-align: center;
+		max-width: 1860px; /* 6 COLUMNS @ 300PX + 5 GAPS @ 20PX */
+		margin: 0 auto;
 	}
 
+	/* FORCE 6 COLUMNS ONLY WHEN WIDE ENOUGH TO PREVENT HORIZONTAL SCROLL ON EDGE DEVICES */
+	@media (min-width: 1320px) {
+		.grid {
+			grid-template-columns: repeat(6, 1fr);
+		}
+	}
+
+	/* STEP DOWN TO 3 COLUMNS AT LAPTOP WIDTH */
+	@media (max-width: 1319px) {
+		.grid {
+			grid-template-columns: repeat(3, 1fr);
+		}
+	}
+
+	/* STEP DOWN TO 2 COLUMNS AT SMALL TABLET WIDTH */
+	@media (max-width: 870px) {
+		.grid {
+			grid-template-columns: repeat(2, 1fr);
+		}
+	}
+
+	/* SINGLE COLUMN STACK FOR MOBILE */
+	@media (max-width: 580px) {
+		.grid {
+			grid-template-columns: repeat(1, 1fr);
+		}
+	}
+
+	/* INDIVIDUAL CATEGORY CARDS */
 	.category-card {
 		width: 100%;
 		max-width: 300px;
@@ -87,10 +140,12 @@
 		margin: 0 auto;
 	}
 
+	/* HOVER SCALE EFFECT */
 	.category-card:hover {
 		transform: scale(1.05);
 	}
 
+	/* WRAPS IMAGE + OVERLAY + TITLE */
 	.image-wrapper {
 		position: relative;
 		width: 100%;
@@ -100,6 +155,7 @@
 		margin: 0 auto;
 	}
 
+	/* CATEGORY IMAGE STYLING */
 	.category-image {
 		width: 100%;
 		height: 200px;
@@ -111,10 +167,12 @@
 		transition: opacity 0.5s ease-in-out;
 	}
 
+	/* FADE-IN WHEN LOADED */
 	.category-image.loaded {
 		opacity: 1;
 	}
 
+	/* DARK OVERLAY ON IMAGE */
 	.overlay {
 		position: absolute;
 		top: 0;
@@ -126,10 +184,12 @@
 		border-radius: 10px;
 	}
 
+	/* LIGHTER OVERLAY ON HOVER */
 	.category-card:hover .overlay {
 		background: rgba(0, 0, 0, 0.2);
 	}
 
+	/* CENTERED CATEGORY TEXT */
 	.category-title {
 		position: absolute;
 		left: 50%;
@@ -138,8 +198,10 @@
 		font-size: 18px;
 		font-weight: bold;
 		text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+		text-align: center;
 	}
 
+	/* MOBILE OVERLAY INTENSITY WHEN TAPPED */
 	@media (max-width: 768px) {
 		.category-card:active .overlay {
 			background: rgba(0, 0, 0, 0.5);
