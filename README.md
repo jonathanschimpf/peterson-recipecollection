@@ -39,10 +39,4 @@ The 'About' section will be updated to include some backstory soon.
 - 🧲 **Fast image loads:** lightweight thumbnails with optional full-zoom  
 - 🧵 **Verbatim transcriptions:** exactly as written — quirks, typos, and all  
 - 🔍 **Instant global search:** returns results as you type, inline on any page  
-- ⚙️ **Fully deployable on Netlify:** no runtime config or database required
-
----
-
-✨ A GPT helped write this README — because it’s 2025.  
-🔗 [petersonrecipecollection.netlify.app](https://petersonrecipecollection.netlify.app)
-
+- ⚙�

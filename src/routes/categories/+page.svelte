@@ -1,5 +1,6 @@
 <script lang="ts">
-	// USE ABSOLUTE PATHS FROM STATIC
+	import { onMount } from 'svelte';
+
 	const categories = [
 		{ name: 'Appetizers', image: '/photographs/categories/categories_appetizers.jpg' },
 		{ name: 'Beverages', image: '/photographs/categories/categories_beverages.jpg' },
@@ -29,6 +30,23 @@
 		},
 		{ name: 'Vegetables', image: '/photographs/categories/categories_vegetables.jpg' }
 	];
+
+	let imageLoadedMap: Record<string, boolean> = {};
+
+	onMount(() => {
+		// Check each image in DOM on initial hydration
+		categories.forEach((cat) => {
+			const selector = `img[data-name="${cat.name}"]`;
+			const img = document.querySelector(selector) as HTMLImageElement | null;
+			if (img?.complete) {
+				imageLoadedMap[cat.name] = true;
+			}
+		});
+	});
+
+	function handleImageLoad(name: string) {
+		imageLoadedMap[name] = true;
+	}
 </script>
 
 <section class="categories">
@@ -40,17 +58,16 @@
 			>
 				<div class="image-wrapper">
 					<img
+						data-name={category.name}
 						src={category.image}
 						alt={category.name}
 						width="500"
 						height="333"
 						loading="lazy"
 						class="category-image"
-						class:loaded={false}
-						on:load={(e) => {
-							const target = e.target as HTMLImageElement;
-							if (target) target.classList.add('loaded');
-						}}
+						class:loaded={imageLoadedMap[category.name]}
+						on:load={() => handleImageLoad(category.name)}
+						on:error={() => console.error(`Failed to load ${category.image}`)}
 					/>
 					<div class="overlay"></div>
 					<span class="category-title">{category.name}</span>
