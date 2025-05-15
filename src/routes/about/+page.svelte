@@ -1,5 +1,24 @@
-<script>
+<script lang="ts">
+	import { onMount, tick } from 'svelte';
+
 	let imageLoaded = false;
+
+	onMount(async () => {
+		const img = document.querySelector('img.recipe-collection') as HTMLImageElement | null;
+
+		if (!img) return;
+
+		if (img.complete) {
+			await tick(); // WAIT FOR DOM TO BIND CLASS DIRECTIVE
+			imageLoaded = true;
+		} else {
+			img.addEventListener('load', async () => {
+				await tick();
+				imageLoaded = true;
+			});
+			img.addEventListener('error', () => console.error(`Failed to load ${img.src}`));
+		}
+	});
 </script>
 
 <section class="about-section">
@@ -10,10 +29,8 @@
 				alt="Overhead view of the Peterson recipe box"
 				loading="eager"
 				decoding="async"
-				class:loaded={imageLoaded}
-				on:load={() => (imageLoaded = true)}
-				on:error={() => console.error('Failed to load /photographs/categories-overhead.png')}
 				class="recipe-collection"
+				class:loaded={imageLoaded}
 			/>
 		</div>
 	</div>
@@ -31,7 +48,7 @@
 		justify-content: center;
 		align-items: center;
 		min-height: 85vh;
-		padding: 0.5rem 2rem 2rem; /* REDUCED TOP PADDING */
+		padding: 0.5rem 2rem 2rem;
 		box-sizing: border-box;
 		text-align: center;
 	}
@@ -49,7 +66,6 @@
 		width: 100%;
 		min-height: 315px; /* 3:2 IMAGE SPACE RESERVED */
 	}
-	/* TEST */
 
 	.recipe-collection {
 		max-width: 415px;

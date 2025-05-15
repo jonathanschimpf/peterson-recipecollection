@@ -1,5 +1,24 @@
-<script>
+<script lang="ts">
+	import { onMount, tick } from 'svelte';
+
 	let imageLoaded = false;
+
+	onMount(async () => {
+		const img = document.querySelector('img.recipe-collection') as HTMLImageElement | null;
+
+		if (!img) return;
+
+		if (img.complete) {
+			await tick(); // WAIT FOR DOM TO BIND CLASS DIRECTIVE
+			imageLoaded = true;
+		} else {
+			img.addEventListener('load', async () => {
+				await tick();
+				imageLoaded = true;
+			});
+			img.addEventListener('error', () => console.error(`Failed to load ${img.src}`));
+		}
+	});
 </script>
 
 <div class="image-outer">
@@ -9,10 +28,8 @@
 			alt="Peterson Recipe Collection"
 			loading="eager"
 			decoding="async"
-			class:loaded={imageLoaded}
-			on:load={() => (imageLoaded = true)}
-			on:error={() => console.error('Failed to load /photographs/kitchen-tall.png')}
 			class="recipe-collection"
+			class:loaded={imageLoaded}
 		/>
 	</div>
 </div>
