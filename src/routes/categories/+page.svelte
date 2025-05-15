@@ -1,40 +1,33 @@
 <script lang="ts">
-	import { base } from '$app/paths';
-
+	// USE ABSOLUTE PATHS FROM STATIC
 	const categories = [
-		{ name: 'Appetizers', image: `${base}/photographs/categories/categories_appetizers.jpg` },
-		{ name: 'Beverages', image: `${base}/photographs/categories/categories_beverages.jpg` },
-		{ name: 'Breads', image: `${base}/photographs/categories/categories_breads.jpg` },
+		{ name: 'Appetizers', image: '/photographs/categories/categories_appetizers.jpg' },
+		{ name: 'Beverages', image: '/photographs/categories/categories_beverages.jpg' },
+		{ name: 'Breads', image: '/photographs/categories/categories_breads.jpg' },
 		{
 			name: 'Cakes and Frostings',
-			image: `${base}/photographs/categories/categories_cakesandfrostings.jpg`
+			image: '/photographs/categories/categories_cakesandfrostings.jpg'
 		},
-		{ name: 'Casseroles', image: `${base}/photographs/categories/categories_casseroles.jpg` },
-		{
-			name: 'Christmas Recipes',
-			image: `${base}/photographs/categories/categories_christmasrecipes.jpg`
-		},
-		{ name: 'Cookies', image: `${base}/photographs/categories/categories_cookies.jpg` },
-		{ name: 'Desserts', image: `${base}/photographs/categories/categories_desserts.jpg` },
-		{ name: 'Eggs', image: `${base}/photographs/categories/categories_eggs.jpg` },
-		{ name: 'Meat', image: `${base}/photographs/categories/categories_meat.jpg` },
-		{ name: 'Pasta and Rice', image: `${base}/photographs/categories/categories_pastaandrice.jpg` },
-		{
-			name: 'Pies and Pastries',
-			image: `${base}/photographs/categories/categories_piesandpastries.jpg`
-		},
-		{ name: 'Poultry', image: `${base}/photographs/categories/categories_poultry.jpg` },
+		{ name: 'Casseroles', image: '/photographs/categories/categories_casseroles.jpg' },
+		{ name: 'Christmas Recipes', image: '/photographs/categories/categories_christmasrecipes.jpg' },
+		{ name: 'Cookies', image: '/photographs/categories/categories_cookies.jpg' },
+		{ name: 'Desserts', image: '/photographs/categories/categories_desserts.jpg' },
+		{ name: 'Eggs', image: '/photographs/categories/categories_eggs.jpg' },
+		{ name: 'Meat', image: '/photographs/categories/categories_meat.jpg' },
+		{ name: 'Pasta and Rice', image: '/photographs/categories/categories_pastaandrice.jpg' },
+		{ name: 'Pies and Pastries', image: '/photographs/categories/categories_piesandpastries.jpg' },
+		{ name: 'Poultry', image: '/photographs/categories/categories_poultry.jpg' },
 		{
 			name: 'Salads and Dressings',
-			image: `${base}/photographs/categories/categories_saladsanddressings.jpg`
+			image: '/photographs/categories/categories_saladsanddressings.jpg'
 		},
-		{ name: 'Sauces', image: `${base}/photographs/categories/categories_sauces.jpg` },
-		{ name: 'Seafood', image: `${base}/photographs/categories/categories_seafood.jpg` },
+		{ name: 'Sauces', image: '/photographs/categories/categories_sauces.jpg' },
+		{ name: 'Seafood', image: '/photographs/categories/categories_seafood.jpg' },
 		{
 			name: 'Soups and Sandwiches',
-			image: `${base}/photographs/categories/categories_soupsandsandwiches.jpg`
+			image: '/photographs/categories/categories_soupsandsandwiches.jpg'
 		},
-		{ name: 'Vegetables', image: `${base}/photographs/categories/categories_vegetables.jpg` }
+		{ name: 'Vegetables', image: '/photographs/categories/categories_vegetables.jpg' }
 	];
 </script>
 
