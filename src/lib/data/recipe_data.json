@@ -565,8 +565,9 @@
 	{
 		"category": "Desserts",
 		"recipe_name": "Cranberry Jello",
-		"image_path": "/scan-content/Desserts - Cranberry Jello.jpg",
-		"text_path": "src/lib/data/html/Desserts - Cranberry Jello.html"
+		"image_path": "/scan-content/Desserts - Cranberry Jello - Irene Balogh.jpg",
+		"text_path": "src/lib/data/html/Desserts - Cranberry Jello - Irene Balogh.html",
+		"credit": "Irene Balogh 11/16/89"
 	},
 	{
 		"category": "Desserts",
