@@ -47,13 +47,13 @@
 	},
 	{
 		"category": "Appetizers",
-		"recipe_name": "Dips Mexican Garlic Dried Beef",
+		"recipe_name": "Dips - Mexican, Garlic, Dried Beef",
 		"image_path": "/scan-content/Appetizers - Dips Mexican Garlic Dried Beef.jpg",
 		"text_path": "src/lib/data/html/Appetizers - Dips Mexican Garlic Dried Beef.html"
 	},
 	{
 		"category": "Appetizers",
-		"recipe_name": "Dips Pesto Dill Honey Mustard",
+		"recipe_name": "Dips - Pesto, Dill, Honey Mustard",
 		"image_path": "/scan-content/Appetizers - Dips Pesto Dill Honey Mustard - Hilde Peterson.jpg",
 		"text_path": "src/lib/data/html/Appetizers - Dips Pesto Dill Honey Mustard - Hilde Peterson.html",
 		"credit": "Hilde Peterson"
@@ -176,8 +176,9 @@
 	{
 		"category": "Breads",
 		"recipe_name": "Dinner Rolls",
-		"image_path": "/scan-content/Breads - Dinner Rolls.jpg",
-		"text_path": "src/lib/data/html/Breads - Dinner Rolls.html"
+		"image_path": "/scan-content/Breads - Dinner Rolls - Gladys Peterson.jpg",
+		"text_path": "src/lib/data/html/Breads - Dinner Rolls - Gladys Peterson.html",
+		"credit": "Gladys Peterson 4/22/83"
 	},
 	{
 		"category": "Breads",
