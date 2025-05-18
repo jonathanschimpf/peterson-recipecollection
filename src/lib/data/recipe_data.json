@@ -928,9 +928,9 @@
 	},
 	{
 		"category": "Poultry",
-		"recipe_name": "Chicken Salad Proven\u00e7al",
-		"image_path": "/scan-content/Poultry - Chicken Salad Proven\u00e7al.jpg",
-		"text_path": "src/lib/data/html/Poultry - Chicken Salad Proven\u00e7al.html"
+		"recipe_name": "Chicken Salad Provençal",
+		"image_path": "/scan-content/Poultry - Chicken Salad Provençal.jpg",
+		"text_path": "src/lib/data/html/Poultry - Chicken Salad Provençal.html"
 	},
 	{
 		"category": "Salads and Dressings",
@@ -1105,9 +1105,9 @@
 	},
 	{
 		"category": "Sauces",
-		"recipe_name": "B\u00e9arnaise Sauce",
-		"image_path": "/scan-content/Sauces - B\u00e9arnaise Sauce.jpg",
-		"text_path": "src/lib/data/html/Sauces - B\u00e9arnaise Sauce.html"
+		"recipe_name": "Béarnaise Sauce",
+		"image_path": "/scan-content/Sauces - Bearnaise Sauce.jpg",
+		"text_path": "src/lib/data/html/Sauces - Bearnaise Sauce.html"
 	},
 	{
 		"category": "Sauces",
