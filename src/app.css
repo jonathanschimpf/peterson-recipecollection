@@ -1,0 +1,51 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+body.no-scroll {
+    overflow: hidden;
+    touch-action: none;
+    position: fixed;
+    width: 100%;
+}
+
+/* NO 'PRESS BOX' */
+a {
+    -webkit-tap-highlight-color: transparent !important;
+}
+
+* {
+    /* FULLY TRANSPARENT */
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    /* BACKUP ON PRESSIN'  */
+    -webkit-tap-highlight-color: transparent !important;
+}
+
+a,
+button,
+[role="button"],
+input,
+textarea,
+select {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0) !important;
+    -webkit-tap-highlight-color: transparent !important;
+}
+
+a:focus,
+button:focus,
+input:focus {
+    outline: none !important;
+}
+
+a:focus-visible {
+    outline: none !important;
+}
+
+a,
+a:focus,
+a:focus-visible,
+a:active {
+    outline: none !important;
+    -webkit-tap-highlight-color: transparent !important;
+    background-color: transparent !important;
+}

@@ -1,0 +1,9 @@
+{
+	"svelte.plugin.typescript.enable": true,
+	"editor.formatOnSave": false, // ⛔️ DISABLE formatting on save
+	"editor.defaultFormatter": null, // 🧼 Use no global formatter
+	"[svelte]": {
+		"editor.defaultFormatter": null // 🧼 Disable Svelte-specific formatting too
+	},
+	"typescript.tsdk": "node_modules/typescript/lib"
+}

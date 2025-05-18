@@ -1,0 +1,1423 @@
+[
+	{
+		"category": "Appetizers",
+		"recipe_name": "Artichoke Dip",
+		"image_path": "/scan-content/Appetizers - Artichoke Dip - Betsy Pearson.jpg",
+		"text_path": "src/lib/data/html/Appetizers - Artichoke Dip - Betsy Pearson.html",
+		"credit": "Betsy Pearson"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "Beer Dip",
+		"image_path": "/scan-content/Appetizers - Beer Dip.jpg",
+		"text_path": "src/lib/data/html/Appetizers - Beer Dip.html"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "Crab N Cheese",
+		"image_path": "/scan-content/Appetizers - Crab N Cheese.jpg",
+		"text_path": "src/lib/data/html/Appetizers - Crab N Cheese.html"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "Crab and Shrimp Mousse",
+		"image_path": "/scan-content/Appetizers - Crab and Shrimp Mousse - Hilde Peterson.jpg",
+		"text_path": "src/lib/data/html/Appetizers - Crab and Shrimp Mousse - Hilde Peterson.html",
+		"credit": "Hilde Peterson"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "Creamy Pepper Dip",
+		"image_path": "/scan-content/Appetizers - Creamy Pepper Dip.jpg",
+		"text_path": "src/lib/data/html/Appetizers - Creamy Pepper Dip.html"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "Debbie's Appetizer Trio",
+		"image_path": "/scan-content/Appetizers - Debbie's Appetizer Trio - Debbie.jpg",
+		"text_path": "src/lib/data/html/Appetizers - Debbie's Appetizer Trio - Debbie.html",
+		"credit": "Debbie"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "Dill Crackers",
+		"image_path": "/scan-content/Appetizers - Dill Crackers - Hilde Peterson.jpg",
+		"text_path": "src/lib/data/html/Appetizers - Dill Crackers - Hilde Peterson.html",
+		"credit": "Hilde Peterson"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "Dips - Mexican, Garlic, Dried Beef",
+		"image_path": "/scan-content/Appetizers - Dips Mexican Garlic Dried Beef.jpg",
+		"text_path": "src/lib/data/html/Appetizers - Dips Mexican Garlic Dried Beef.html"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "Dips - Pesto, Dill, Honey Mustard",
+		"image_path": "/scan-content/Appetizers - Dips Pesto Dill Honey Mustard - Hilde Peterson.jpg",
+		"text_path": "src/lib/data/html/Appetizers - Dips Pesto Dill Honey Mustard - Hilde Peterson.html",
+		"credit": "Hilde Peterson"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "Elks Club Taco Salad",
+		"image_path": "/scan-content/Appetizers - Elks Club Taco Salad - Hilde Peterson.jpg",
+		"text_path": "src/lib/data/html/Appetizers - Elks Club Taco Salad - Hilde Peterson.html",
+		"credit": "Hilde Peterson"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "French Gruyere and Onion Fondue",
+		"image_path": "/scan-content/Appetizers - French Gruyere and Onion Fondue.jpg",
+		"text_path": "src/lib/data/html/Appetizers - French Gruyere and Onion Fondue.html"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "Guacamole Dip",
+		"image_path": "/scan-content/Appetizers - Guacamole Dip.jpg",
+		"text_path": "src/lib/data/html/Appetizers - Guacamole Dip.html"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "Krab Dip",
+		"image_path": "/scan-content/Appetizers - Krab Dip.jpg",
+		"text_path": "src/lib/data/html/Appetizers - Krab Dip.html"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "Party Cheese Ball",
+		"image_path": "/scan-content/Appetizers - Party Cheese Ball.jpg",
+		"text_path": "src/lib/data/html/Appetizers - Party Cheese Ball.html"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "Seafood Dip",
+		"image_path": "/scan-content/Appetizers - Seafood Dip.jpg",
+		"text_path": "src/lib/data/html/Appetizers - Seafood Dip.html"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "Shrimp Mousse",
+		"image_path": "/scan-content/Appetizers - Shrimp Mousse.jpg",
+		"text_path": "src/lib/data/html/Appetizers - Shrimp Mousse.html"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "Spinach Dip (1 of 2)",
+		"image_path": "/scan-content/Appetizers - Spinach Dip (1 of 2).jpg",
+		"text_path": "src/lib/data/html/Appetizers - Spinach Dip (1 of 2).html"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "Spinach Dip (2 of 2)",
+		"image_path": "/scan-content/Appetizers - Spinach Dip (2 of 2).jpg",
+		"text_path": "src/lib/data/html/Appetizers - Spinach Dip (2 of 2).html"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "Stuffed Mushrooms",
+		"image_path": "/scan-content/Appetizers - Stuffed Mushrooms.jpg",
+		"text_path": "src/lib/data/html/Appetizers - Stuffed Mushrooms.html"
+	},
+	{
+		"category": "Appetizers",
+		"recipe_name": "Velveeta Salsa Dip",
+		"image_path": "/scan-content/Appetizers - Velveeta Salsa Dip.jpg",
+		"text_path": "src/lib/data/html/Appetizers - Velveeta Salsa Dip.html"
+	},
+	{
+		"category": "Beverages",
+		"recipe_name": "Hot Cranberry Punch",
+		"image_path": "/scan-content/Beverages - Hot Cranberry Punch.jpg",
+		"text_path": "src/lib/data/html/Beverages - Hot Cranberry Punch.html"
+	},
+	{
+		"category": "Beverages",
+		"recipe_name": "Mimosas",
+		"image_path": "/scan-content/Beverages - Mimosas.jpg",
+		"text_path": "src/lib/data/html/Beverages - Mimosas.html"
+	},
+	{
+		"category": "Beverages",
+		"recipe_name": "Mint Julep",
+		"image_path": "/scan-content/Beverages - Mint Julep.jpg",
+		"text_path": "src/lib/data/html/Beverages - Mint Julep.html"
+	},
+	{
+		"category": "Beverages",
+		"recipe_name": "Sangria",
+		"image_path": "/scan-content/Beverages - Sangria.jpg",
+		"text_path": "src/lib/data/html/Beverages - Sangria.html"
+	},
+	{
+		"category": "Beverages",
+		"recipe_name": "Sweet Lassi",
+		"image_path": "/scan-content/Beverages - Sweet Lassi.jpg",
+		"text_path": "src/lib/data/html/Beverages - Sweet Lassi.html"
+	},
+	{
+		"category": "Breads",
+		"recipe_name": "Auntie Anne's Pretzels (1 of 2)",
+		"image_path": "/scan-content/Breads - Auntie Anne's Pretzels (1 of 2).jpg",
+		"text_path": "src/lib/data/html/Breads - Auntie Anne's Pretzels (1 of 2).html"
+	},
+	{
+		"category": "Breads",
+		"recipe_name": "Auntie Anne's Pretzels (2 of 2)",
+		"image_path": "/scan-content/Breads - Auntie Anne's Pretzels (2 of 2).jpg",
+		"text_path": "src/lib/data/html/Breads - Auntie Anne's Pretzels (2 of 2).html"
+	},
+	{
+		"category": "Breads",
+		"recipe_name": "Banana Bread",
+		"image_path": "/scan-content/Breads - Banana Bread.jpg",
+		"text_path": "src/lib/data/html/Breads - Banana Bread.html"
+	},
+	{
+		"category": "Breads",
+		"recipe_name": "Dinner Rolls",
+		"image_path": "/scan-content/Breads - Dinner Rolls - Gladys Peterson.jpg",
+		"text_path": "src/lib/data/html/Breads - Dinner Rolls - Gladys Peterson.html",
+		"credit": "Gladys Peterson 4/22/83"
+	},
+	{
+		"category": "Breads",
+		"recipe_name": "Dough For Biscuits",
+		"image_path": "/scan-content/Breads - Dough For Biscuits.jpg",
+		"text_path": "src/lib/data/html/Breads - Dough For Biscuits.html"
+	},
+	{
+		"category": "Breads",
+		"recipe_name": "Focaccia Bread",
+		"image_path": "/scan-content/Breads - Focaccia Bread.jpg",
+		"text_path": "src/lib/data/html/Breads - Focaccia Bread.html"
+	},
+	{
+		"category": "Breads",
+		"recipe_name": "Leak Mushroom and Pesto Pizza",
+		"image_path": "/scan-content/Breads - Leak Mushroom and Pesto Pizza.jpg",
+		"text_path": "src/lib/data/html/Breads - Leak Mushroom and Pesto Pizza.html"
+	},
+	{
+		"category": "Breads",
+		"recipe_name": "Pizza Dough",
+		"image_path": "/scan-content/Breads - Pizza Dough.jpg",
+		"text_path": "src/lib/data/html/Breads - Pizza Dough.html"
+	},
+	{
+		"category": "Breads",
+		"recipe_name": "Popovers",
+		"image_path": "/scan-content/Breads - Popovers.jpg",
+		"text_path": "src/lib/data/html/Breads - Popovers.html"
+	},
+	{
+		"category": "Breads",
+		"recipe_name": "Pumpkin Bread",
+		"image_path": "/scan-content/Breads - Pumpkin Bread.jpg",
+		"text_path": "src/lib/data/html/Breads - Pumpkin Bread.html"
+	},
+	{
+		"category": "Breads",
+		"recipe_name": "Santa Fe Soapapillas",
+		"image_path": "/scan-content/Breads - Santa Fe Soapapillas.jpg",
+		"text_path": "src/lib/data/html/Breads - Santa Fe Soapapillas.html"
+	},
+	{
+		"category": "Breads",
+		"recipe_name": "Turkey Dressing",
+		"image_path": "/scan-content/Breads - Turkey Dressing.jpg",
+		"text_path": "src/lib/data/html/Breads - Turkey Dressing.html"
+	},
+	{
+		"category": "Breads",
+		"recipe_name": "Yorkshire Pudding",
+		"image_path": "/scan-content/Breads - Yorkshire Pudding.jpg",
+		"text_path": "src/lib/data/html/Breads - Yorkshire Pudding.html"
+	},
+	{
+		"category": "Cakes and Frostings",
+		"recipe_name": "ButterCream Frosting",
+		"image_path": "/scan-content/Cakes and Frostings - ButterCream Frosting.jpg",
+		"text_path": "src/lib/data/html/Cakes and Frostings - ButterCream Frosting.html"
+	},
+	{
+		"category": "Cakes and Frostings",
+		"recipe_name": "Carrot Cake",
+		"image_path": "/scan-content/Cakes and Frostings - Carrot Cake.jpg",
+		"text_path": "src/lib/data/html/Cakes and Frostings - Carrot Cake.html"
+	},
+	{
+		"category": "Cakes and Frostings",
+		"recipe_name": "Cocoa Chiffon Cake",
+		"image_path": "/scan-content/Cakes and Frostings - Cocoa Chiffon Cake.jpg",
+		"text_path": "src/lib/data/html/Cakes and Frostings - Cocoa Chiffon Cake.html"
+	},
+	{
+		"category": "Cakes and Frostings",
+		"recipe_name": "Gourmet Center's Tiramisu",
+		"image_path": "/scan-content/Cakes and Frostings - Gourmet Center's Tiramisu.jpg",
+		"text_path": "src/lib/data/html/Cakes and Frostings - Gourmet Center's Tiramisu.html"
+	},
+	{
+		"category": "Cakes and Frostings",
+		"recipe_name": "Key Lime Cheesecake",
+		"image_path": "/scan-content/Cakes and Frostings - Key Lime Cheesecake.jpg",
+		"text_path": "src/lib/data/html/Cakes and Frostings - Key Lime Cheesecake.html"
+	},
+	{
+		"category": "Cakes and Frostings",
+		"recipe_name": "Lemon Cream Cheesecake",
+		"image_path": "/scan-content/Cakes and Frostings - Lemon Cream Cheesecake - Elaine.jpg",
+		"text_path": "src/lib/data/html/Cakes and Frostings - Lemon Cream Cheesecake - Elaine.html",
+		"credit": "Elaine"
+	},
+	{
+		"category": "Cakes and Frostings",
+		"recipe_name": "New York Style Cheesecake",
+		"image_path": "/scan-content/Cakes and Frostings - New York Style Cheesecake - Hilde Peterson.jpg",
+		"text_path": "src/lib/data/html/Cakes and Frostings - New York Style Cheesecake - Hilde Peterson.html",
+		"credit": "Hilde Peterson"
+	},
+	{
+		"category": "Cakes and Frostings",
+		"recipe_name": "Orange No Bake Cheesecake",
+		"image_path": "/scan-content/Cakes and Frostings - Orange No Bake Cheesecake.jpg",
+		"text_path": "src/lib/data/html/Cakes and Frostings - Orange No Bake Cheesecake.html"
+	},
+	{
+		"category": "Cakes and Frostings",
+		"recipe_name": "Pumpkin Roll with Cream Cheese Filling",
+		"image_path": "/scan-content/Cakes and Frostings - Pumpkin Roll with Cream Cheese Filling.jpg",
+		"text_path": "src/lib/data/html/Cakes and Frostings - Pumpkin Roll with Cream Cheese Filling.html"
+	},
+	{
+		"category": "Cakes and Frostings",
+		"recipe_name": "Rum Cake",
+		"image_path": "/scan-content/Cakes and Frostings - Rum Cake.jpg",
+		"text_path": "src/lib/data/html/Cakes and Frostings - Rum Cake.html"
+	},
+	{
+		"category": "Cakes and Frostings",
+		"recipe_name": "Viennese Cherry Cake",
+		"image_path": "/scan-content/Cakes and Frostings - Viennese Cherry Cake.jpg",
+		"text_path": "src/lib/data/html/Cakes and Frostings - Viennese Cherry Cake.html"
+	},
+	{
+		"category": "Cakes and Frostings",
+		"recipe_name": "Yum Yum Coffee Cake",
+		"image_path": "/scan-content/Cakes and Frostings - Yum Yum Coffee Cake.jpg",
+		"text_path": "src/lib/data/html/Cakes and Frostings - Yum Yum Coffee Cake.html"
+	},
+	{
+		"category": "Casseroles",
+		"recipe_name": "Baked Macaroni and Cheese",
+		"image_path": "/scan-content/Casseroles - Baked Macaroni and Cheese.jpg",
+		"text_path": "src/lib/data/html/Casseroles - Baked Macaroni and Cheese.html"
+	},
+	{
+		"category": "Casseroles",
+		"recipe_name": "Broccoli Casserole",
+		"image_path": "/scan-content/Casseroles - Broccoli Casserole - Kathy Bullang.jpg",
+		"text_path": "src/lib/data/html/Casseroles - Broccoli Casserole - Kathy Bullang.html",
+		"credit": "Kathy Bullang"
+	},
+	{
+		"category": "Casseroles",
+		"recipe_name": "Broccoli Mirian Morash Casserole",
+		"image_path": "/scan-content/Casseroles - Broccoli Mirian Morash Casserole.jpg",
+		"text_path": "src/lib/data/html/Casseroles - Broccoli Mirian Morash Casserole.html"
+	},
+	{
+		"category": "Casseroles",
+		"recipe_name": "Chicken Tetrazzini Casserole",
+		"image_path": "/scan-content/Casseroles - Chicken Tetrazzini Casserole.jpg",
+		"text_path": "src/lib/data/html/Casseroles - Chicken Tetrazzini Casserole.html"
+	},
+	{
+		"category": "Casseroles",
+		"recipe_name": "Chicken and Broccoli Casserole",
+		"image_path": "/scan-content/Casseroles - Chicken and Broccoli Casserole - Colleen and Tony Impellitteri.jpg",
+		"text_path": "src/lib/data/html/Casseroles - Chicken and Broccoli Casserole - Colleen and Tony Impellitteri.html",
+		"credit": "Colleen and Tony Impellitteri"
+	},
+	{
+		"category": "Casseroles",
+		"recipe_name": "Crabmeat Quiche",
+		"image_path": "/scan-content/Casseroles - Crabmeat Quiche - Hilde Peterson.jpg",
+		"text_path": "src/lib/data/html/Casseroles - Crabmeat Quiche - Hilde Peterson.html",
+		"credit": "Hilde Peterson"
+	},
+	{
+		"category": "Casseroles",
+		"recipe_name": "Egg Casserole Strada",
+		"image_path": "/scan-content/Casseroles - Egg Casserole Strada - Diane Huske.jpg",
+		"text_path": "src/lib/data/html/Casseroles - Egg Casserole Strada - Diane Huske.html",
+		"credit": "Diane Huske"
+	},
+	{
+		"category": "Casseroles",
+		"recipe_name": "Egg Hot Dish",
+		"image_path": "/scan-content/Casseroles - Egg Hot Dish - Hilde Peterson.jpg",
+		"text_path": "src/lib/data/html/Casseroles - Egg Hot Dish - Hilde Peterson.html",
+		"credit": "Hilde Peterson"
+	},
+	{
+		"category": "Casseroles",
+		"recipe_name": "Egg and Potato Scallop Casserole",
+		"image_path": "/scan-content/Casseroles - Egg and Potato Scallop Casserole.jpg",
+		"text_path": "src/lib/data/html/Casseroles - Egg and Potato Scallop Casserole.html"
+	},
+	{
+		"category": "Casseroles",
+		"recipe_name": "Fiesta Chicken Enchiladas",
+		"image_path": "/scan-content/Casseroles - Fiesta Chicken Enchiladas - Tony Impellitteri.jpg",
+		"text_path": "src/lib/data/html/Casseroles - Fiesta Chicken Enchiladas - Tony Impellitteri.html",
+		"credit": "Tony Impellitteri"
+	},
+	{
+		"category": "Casseroles",
+		"recipe_name": "Green Bean Casserole",
+		"image_path": "/scan-content/Casseroles - Green Bean Casserole.jpg",
+		"text_path": "src/lib/data/html/Casseroles - Green Bean Casserole.html"
+	},
+	{
+		"category": "Casseroles",
+		"recipe_name": "Leek Potato and Gruy\u00e8re Frittata",
+		"image_path": "/scan-content/Casseroles - Leek Potato and Gruy\u00e8re Frittata.jpg",
+		"text_path": "src/lib/data/html/Casseroles - Leek Potato and Gruy\u00e8re Frittata.html"
+	},
+	{
+		"category": "Casseroles",
+		"recipe_name": "Lori's Zucchini Casserole",
+		"image_path": "/scan-content/Casseroles - Lori's Zucchini Casserole.jpg",
+		"text_path": "src/lib/data/html/Casseroles - Lori's Zucchini Casserole.html"
+	},
+	{
+		"category": "Casseroles",
+		"recipe_name": "Pineapple Casserole",
+		"image_path": "/scan-content/Casseroles - Pineapple Casserole - Hilde Peterson.jpg",
+		"text_path": "src/lib/data/html/Casseroles - Pineapple Casserole - Hilde Peterson.html",
+		"credit": "Hilde Peterson"
+	},
+	{
+		"category": "Casseroles",
+		"recipe_name": "Skillet Lasagna",
+		"image_path": "/scan-content/Casseroles - Skillet Lasagna.jpg",
+		"text_path": "src/lib/data/html/Casseroles - Skillet Lasagna.html"
+	},
+	{
+		"category": "Casseroles",
+		"recipe_name": "Smoked Macaroni and Cheese",
+		"image_path": "/scan-content/Casseroles - Smoked Macaroni and Cheese.jpg",
+		"text_path": "src/lib/data/html/Casseroles - Smoked Macaroni and Cheese.html"
+	},
+	{
+		"category": "Christmas Recipes",
+		"recipe_name": "Chocolate Glaze For Dipping Cookies",
+		"image_path": "/scan-content/Christmas Recipes - Chocolate Glaze For Dipping Cookies - Anna Eller.jpg",
+		"text_path": "src/lib/data/html/Christmas Recipes - Chocolate Glaze For Dipping Cookies - Anna Eller.html",
+		"credit": "Anna Eller"
+	},
+	{
+		"category": "Christmas Recipes",
+		"recipe_name": "Christmas Eggnog",
+		"image_path": "/scan-content/Christmas Recipes - Christmas Eggnog - Frau Simon.jpg",
+		"text_path": "src/lib/data/html/Christmas Recipes - Christmas Eggnog - Frau Simon.html",
+		"credit": "Frau Simon"
+	},
+	{
+		"category": "Christmas Recipes",
+		"recipe_name": "Holiday Baked Apples",
+		"image_path": "/scan-content/Christmas Recipes - Holiday Baked Apples.jpg",
+		"text_path": "src/lib/data/html/Christmas Recipes - Holiday Baked Apples.html"
+	},
+	{
+		"category": "Christmas Recipes",
+		"recipe_name": "Hot Chili Jelly",
+		"image_path": "/scan-content/Christmas Recipes - Hot Chili Jelly - Betty.jpg",
+		"text_path": "src/lib/data/html/Christmas Recipes - Hot Chili Jelly - Betty.html",
+		"credit": "Betty"
+	},
+	{
+		"category": "Christmas Recipes",
+		"recipe_name": "Oblatten Filling",
+		"image_path": "/scan-content/Christmas Recipes - Oblatten Filling - Anna Eller.jpg",
+		"text_path": "src/lib/data/html/Christmas Recipes - Oblatten Filling - Anna Eller.html",
+		"credit": "Anna Eller"
+	},
+	{
+		"category": "Christmas Recipes",
+		"recipe_name": "Spritz Cookies",
+		"image_path": "/scan-content/Christmas Recipes - Spritz Cookies - Hilde Peterson.jpg",
+		"text_path": "src/lib/data/html/Christmas Recipes - Spritz Cookies - Hilde Peterson.html",
+		"credit": "Hilde Peterson"
+	},
+	{
+		"category": "Christmas Recipes",
+		"recipe_name": "Wassail",
+		"image_path": "/scan-content/Christmas Recipes - Wassail - Pat Schreiber.jpg",
+		"text_path": "src/lib/data/html/Christmas Recipes - Wassail - Pat Schreiber.html",
+		"credit": "Pat Schreiber"
+	},
+	{
+		"category": "Cookies",
+		"recipe_name": "Favorite Butter Cookies",
+		"image_path": "/scan-content/Cookies - Favorite Butter Cookies.jpg",
+		"text_path": "src/lib/data/html/Cookies - Favorite Butter Cookies.html"
+	},
+	{
+		"category": "Cookies",
+		"recipe_name": "M\u00fcrbteig f\u00fcr Cut Out Cookies",
+		"image_path": "/scan-content/Cookies - M\u00fcrbteig f\u00fcr Cut Out Cookies.jpg",
+		"text_path": "src/lib/data/html/Cookies - M\u00fcrbteig f\u00fcr Cut Out Cookies.html"
+	},
+	{
+		"category": "Cookies",
+		"recipe_name": "Oblaten Schnitten Wafer Slices",
+		"image_path": "/scan-content/Cookies - Oblaten Schnitten Wafer Slices.jpg",
+		"text_path": "src/lib/data/html/Cookies - Oblaten Schnitten Wafer Slices.html"
+	},
+	{
+		"category": "Cookies",
+		"recipe_name": "Omi's M\u00fcrbteig f\u00fcr Cut Out Cookies",
+		"image_path": "/scan-content/Cookies - Omi's M\u00fcrbteig f\u00fcr Cut Out Cookies - Anna Eller.jpg",
+		"text_path": "src/lib/data/html/Cookies - Omi's M\u00fcrbteig f\u00fcr Cut Out Cookies - Anna Eller.html",
+		"credit": "Anna Eller"
+	},
+	{
+		"category": "Cookies",
+		"recipe_name": "Pecan Fingers",
+		"image_path": "/scan-content/Cookies - Pecan Fingers - Linda Langdon.jpg",
+		"text_path": "src/lib/data/html/Cookies - Pecan Fingers - Linda Langdon.html",
+		"credit": "Linda Langdon"
+	},
+	{
+		"category": "Cookies",
+		"recipe_name": "Pecan Puffs",
+		"image_path": "/scan-content/Cookies - Pecan Puffs.jpg",
+		"text_path": "src/lib/data/html/Cookies - Pecan Puffs.html"
+	},
+	{
+		"category": "Cookies",
+		"recipe_name": "Philadelphia Cream Cheese Kipfel",
+		"image_path": "/scan-content/Cookies - Philadelphia Cream Cheese Kipfel.jpg",
+		"text_path": "src/lib/data/html/Cookies - Philadelphia Cream Cheese Kipfel.html"
+	},
+	{
+		"category": "Cookies",
+		"recipe_name": "Sand Tarts",
+		"image_path": "/scan-content/Cookies - Sand Tarts - Paula Deen.jpg",
+		"text_path": "src/lib/data/html/Cookies - Sand Tarts - Paula Deen.html"
+	},
+	{
+		"category": "Cookies",
+		"recipe_name": "Scotch Krispies",
+		"image_path": "/scan-content/Cookies - Scotch Krispies - Kristy Heinz.jpg",
+		"text_path": "src/lib/data/html/Cookies - Scotch Krispies - Kristy Heinz.html",
+		"credit": "Kristy Heinz"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Apple Streusel Cake",
+		"image_path": "/scan-content/Desserts - Apple Streusel Cake - Anna Diestl.jpg",
+		"text_path": "src/lib/data/html/Desserts - Apple Streusel Cake - Anna Diestl.html",
+		"credit": "Anna Diestl"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Apple Strudel",
+		"image_path": "/scan-content/Desserts - Apple Strudel.jpg",
+		"text_path": "src/lib/data/html/Desserts - Apple Strudel.html"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Bananas Flamb\u00e9d",
+		"image_path": "/scan-content/Desserts - Bananas Flamb\u00e9d - Julia Child.jpg",
+		"text_path": "src/lib/data/html/Desserts - Bananas Flamb\u00e9d - Julia Child.html",
+		"credit": "Julia Child"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Black Bottom Cupcakes",
+		"image_path": "/scan-content/Desserts - Black Bottom Cupcakes.jpg",
+		"text_path": "src/lib/data/html/Desserts - Black Bottom Cupcakes.html"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Carrie's Sticky Toffee Pudding",
+		"image_path": "/scan-content/Desserts - Carrie's Sticky Toffee Pudding - Carrie Peterson.jpg",
+		"text_path": "src/lib/data/html/Desserts - Carrie's Sticky Toffee Pudding - Carrie Peterson.html",
+		"credit": "Carrie Peterson"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Cherry Torte",
+		"image_path": "/scan-content/Desserts - Cherry Torte - Anna Diestl.jpg",
+		"text_path": "src/lib/data/html/Desserts - Cherry Torte - Anna Diestl.html",
+		"credit": "Anna Diestl"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Chocolate Chip Blondies",
+		"image_path": "/scan-content/Desserts - Chocolate Chip Blondies.jpg",
+		"text_path": "src/lib/data/html/Desserts - Chocolate Chip Blondies.html"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Cranberry Jello",
+		"image_path": "/scan-content/Desserts - Cranberry Jello - Irene Balogh.jpg",
+		"text_path": "src/lib/data/html/Desserts - Cranberry Jello - Irene Balogh.html",
+		"credit": "Irene Balogh 11/16/89"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Cranberry Orange Nut Bread",
+		"image_path": "/scan-content/Desserts - Cranberry Orange Nut Bread.jpg",
+		"text_path": "src/lib/data/html/Desserts - Cranberry Orange Nut Bread.html"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Cranberry Refrigerator Dessert",
+		"image_path": "/scan-content/Desserts - Cranberry Refrigerator Dessert - Betty Ginnis.jpg",
+		"text_path": "src/lib/data/html/Desserts - Cranberry Refrigerator Dessert - Betty Ginnis.html",
+		"credit": "Betty Ginnis"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Creme Dementhe Brownies",
+		"image_path": "/scan-content/Desserts - Creme Dementhe Brownies.jpg",
+		"text_path": "src/lib/data/html/Desserts - Creme Dementhe Brownies.html"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Cr\u00e8me Br\u00fbl\u00e9e",
+		"image_path": "/scan-content/Desserts - Cr\u00e8me Br\u00fbl\u00e9e - Pam Bush.jpg",
+		"text_path": "src/lib/data/html/Desserts - Cr\u00e8me Br\u00fbl\u00e9e - Pam Bush.html",
+		"credit": "Pam Bush"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Espresso Cream Crunch",
+		"image_path": "/scan-content/Desserts - Espresso Cream Crunch.jpg",
+		"text_path": "src/lib/data/html/Desserts - Espresso Cream Crunch.html"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Frozen Chocolate Peppermint",
+		"image_path": "/scan-content/Desserts - Frozen Chocolate Peppermint.jpg",
+		"text_path": "src/lib/data/html/Desserts - Frozen Chocolate Peppermint.html"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Key Lime Pie",
+		"image_path": "/scan-content/Desserts - Key Lime Pie.jpg",
+		"text_path": "src/lib/data/html/Desserts - Key Lime Pie.html"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Lemon Bars",
+		"image_path": "/scan-content/Desserts - Lemon Bars - Linda Andres.jpg",
+		"text_path": "src/lib/data/html/Desserts - Lemon Bars - Linda Andres.html",
+		"credit": "Linda Andres"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Minty Mixed Melon",
+		"image_path": "/scan-content/Desserts - Minty Mixed Melon.jpg",
+		"text_path": "src/lib/data/html/Desserts - Minty Mixed Melon.html"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Moscato Fruit Dessert",
+		"image_path": "/scan-content/Desserts - Moscato Fruit Dessert - Lydia.jpg",
+		"text_path": "src/lib/data/html/Desserts - Moscato Fruit Dessert - Lydia.html",
+		"credit": "Lydia"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Nut Kipfel Pastry",
+		"image_path": "/scan-content/Desserts - Nut Kipfel Pastry - Anna Diestl.jpg",
+		"text_path": "src/lib/data/html/Desserts - Nut Kipfel Pastry - Anna Diestl.html",
+		"credit": "Anna Diestl"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Oeufs \u00e0 la Neige (Snow Eggs)",
+		"image_path": "/scan-content/Desserts - Oeufs \u00e0 la Neige (Snow Eggs).jpg",
+		"text_path": "src/lib/data/html/Desserts - Oeufs \u00e0 la Neige (Snow Eggs).html"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Orange Cream Cake",
+		"image_path": "/scan-content/Desserts - Orange Cream Cake.jpg",
+		"text_path": "src/lib/data/html/Desserts - Orange Cream Cake.html"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Pear Recipe",
+		"image_path": "/scan-content/Desserts - Pear Recipe - Carrie Peterson.jpg",
+		"text_path": "src/lib/data/html/Desserts - Pear Recipe - Carrie Peterson.html",
+		"credit": "Carrie Peterson"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Tiramisu",
+		"image_path": "/scan-content/Desserts - Tiramisu.jpg",
+		"text_path": "src/lib/data/html/Desserts - Tiramisu.html"
+	},
+	{
+		"category": "Desserts",
+		"recipe_name": "Tutti Frutti",
+		"image_path": "/scan-content/Desserts - Tutti Frutti - Aunt Helen Brownlee.jpg",
+		"text_path": "src/lib/data/html/Desserts - Tutti Frutti - Aunt Helen Brownlee.html",
+		"credit": "Aunt Helen (Brownlee) — April 1970"
+	},
+	{
+		"category": "Eggs",
+		"recipe_name": "German Pancake",
+		"image_path": "/scan-content/Eggs - German Pancake.jpg",
+		"text_path": "src/lib/data/html/Eggs - German Pancake.html"
+	},
+	{
+		"category": "Eggs",
+		"recipe_name": "Skillet Pancake",
+		"image_path": "/scan-content/Eggs - Skillet Pancake.jpg",
+		"text_path": "src/lib/data/html/Eggs - Skillet Pancake.html"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "1770 House Meatloaf",
+		"image_path": "/scan-content/Meat - 1770 House Meatloaf.jpg",
+		"text_path": "src/lib/data/html/Meat - 1770 House Meatloaf.html"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Baked Lasagne",
+		"image_path": "/scan-content/Meat - Baked Lasagne.jpg",
+		"text_path": "src/lib/data/html/Meat - Baked Lasagne.html"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Barbecued London Broil",
+		"image_path": "/scan-content/Meat - Barbecued London Broil - GG.jpg",
+		"text_path": "src/lib/data/html/Meat - Barbecued London Broil - GG.html",
+		"credit": "GG"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Beef Chile",
+		"image_path": "/scan-content/Meat - Beef Chile.jpg",
+		"text_path": "src/lib/data/html/Meat - Beef Chile.html"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Beef Stew",
+		"image_path": "/scan-content/Meat - Beef Stew - GG.jpg",
+		"text_path": "src/lib/data/html/Meat - Beef Stew - GG.html",
+		"credit": "GG"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Chicken with Dill Sauce",
+		"image_path": "/scan-content/Meat - Chicken with Dill Sauce.jpg",
+		"text_path": "src/lib/data/html/Meat - Chicken with Dill Sauce.html"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Croatian Potroast",
+		"image_path": "/scan-content/Meat - Croatian Potroast - Hilde Peterson.jpg",
+		"text_path": "src/lib/data/html/Meat - Croatian Potroast - Hilde Peterson.html",
+		"credit": "Hilde Peterson"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Goulash",
+		"image_path": "/scan-content/Meat - Goulash - Matt Peterson.jpg",
+		"text_path": "src/lib/data/html/Meat - Goulash - Matt Peterson.html",
+		"credit": "Matt Peterson"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Hot Goulash",
+		"image_path": "/scan-content/Meat - Hot Goulash.jpg",
+		"text_path": "src/lib/data/html/Meat - Hot Goulash.html"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Italian Meatloaf",
+		"image_path": "/scan-content/Meat - Italian Meatloaf - GG.jpg",
+		"text_path": "src/lib/data/html/Meat - Italian Meatloaf - GG.html",
+		"credit": "GG"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Italian Sausage Pizza Buns",
+		"image_path": "/scan-content/Meat - Italian Sausage Pizza Buns.jpg",
+		"text_path": "src/lib/data/html/Meat - Italian Sausage Pizza Buns.html"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Judys Sure Pot Roast",
+		"image_path": "/scan-content/Meat - Judys Sure Pot Roast - Janet Hauser.jpg",
+		"text_path": "src/lib/data/html/Meat - Judys Sure Pot Roast - Janet Hauser.html",
+		"credit": "Janet Hauser"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Krautfleckerl Cabbage and Noodles",
+		"image_path": "/scan-content/Meat - Krautfleckerl Cabbage and Noodles.jpg",
+		"text_path": "src/lib/data/html/Meat - Krautfleckerl Cabbage and Noodles.html"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Lasagna",
+		"image_path": "/scan-content/Meat - Lasagna.jpg",
+		"text_path": "src/lib/data/html/Meat - Lasagna.html"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Meatloaf",
+		"image_path": "/scan-content/Meat - Meatloaf.jpg",
+		"text_path": "src/lib/data/html/Meat - Meatloaf.html"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Pizza Buns",
+		"image_path": "/scan-content/Meat - Pizza Buns.jpg",
+		"text_path": "src/lib/data/html/Meat - Pizza Buns.html"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Roast Loin of Pork with Fennel",
+		"image_path": "/scan-content/Meat - Roast Loin of Pork with Fennel.jpg",
+		"text_path": "src/lib/data/html/Meat - Roast Loin of Pork with Fennel.html"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Sarma (Stuffed Cabbage)",
+		"image_path": "/scan-content/Meat - Sarma (Stuffed Cabbage) - Omi.jpg",
+		"text_path": "src/lib/data/html/Meat - Sarma (Stuffed Cabbage) - Omi.html",
+		"credit": "Omi"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Sauerbraten",
+		"image_path": "/scan-content/Meat - Sauerbraten.jpg",
+		"text_path": "src/lib/data/html/Meat - Sauerbraten.html"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Skewered Chicken and Red Onion",
+		"image_path": "/scan-content/Meat - Skewered Chicken and Red Onion.jpg",
+		"text_path": "src/lib/data/html/Meat - Skewered Chicken and Red Onion.html"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Sloppy Joes",
+		"image_path": "/scan-content/Meat - Sloppy Joes - GG.jpg",
+		"text_path": "src/lib/data/html/Meat - Sloppy Joes - GG.html",
+		"credit": "GG"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Stuffed Cabbage",
+		"image_path": "/scan-content/Meat - Stuffed Cabbage - Hilde Peterson.jpg",
+		"text_path": "src/lib/data/html/Meat - Stuffed Cabbage - Hilde Peterson.html",
+		"credit": "Hilde Peterson"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Sunday Rib Roast and Rachel Ray's Clam",
+		"image_path": "/scan-content/Meat - Sunday Rib Roast and Rachel Ray's Clam - Christine.jpg",
+		"text_path": "src/lib/data/html/Meat - Sunday Rib Roast and Rachel Ray's Clam - Christine.html",
+		"credit": "Christine"
+	},
+	{
+		"category": "Meat",
+		"recipe_name": "Zwiebel Rost Braten",
+		"image_path": "/scan-content/Meat - Zwiebel Rost Braten.jpg",
+		"text_path": "src/lib/data/html/Meat - Zwiebel Rost Braten.html"
+	},
+	{
+		"category": "Pasta and Rice",
+		"recipe_name": "Dumplings",
+		"image_path": "/scan-content/Pasta and Rice - Dumplings.jpg",
+		"text_path": "src/lib/data/html/Pasta and Rice - Dumplings.html"
+	},
+	{
+		"category": "Pasta and Rice",
+		"recipe_name": "Rice Bow Ties with Pesto and Tomatoes",
+		"image_path": "/scan-content/Pasta and Rice - Rice Bow Ties with Pesto and Tomatoes.jpg",
+		"text_path": "src/lib/data/html/Pasta and Rice - Rice Bow Ties with Pesto and Tomatoes.html"
+	},
+	{
+		"category": "Pasta and Rice",
+		"recipe_name": "Rice Spaetzle",
+		"image_path": "/scan-content/Pasta and Rice - Rice Spaetzle.jpg",
+		"text_path": "src/lib/data/html/Pasta and Rice - Rice Spaetzle.html"
+	},
+	{
+		"category": "Pies and Pastries",
+		"recipe_name": "3 Berry Cobbler",
+		"image_path": "/scan-content/Pies and Pastries - 3 Berry Cobbler - Hilde Peterson.jpg",
+		"text_path": "src/lib/data/html/Pies and Pastries - 3 Berry Cobbler - Hilde Peterson.html",
+		"credit": "Hilde Peterson"
+	},
+	{
+		"category": "Pies and Pastries",
+		"recipe_name": "Apple Crumb Pie",
+		"image_path": "/scan-content/Pies and Pastries - Apple Crumb Pie.jpg",
+		"text_path": "src/lib/data/html/Pies and Pastries - Apple Crumb Pie.html"
+	},
+	{
+		"category": "Pies and Pastries",
+		"recipe_name": "Apple Tort",
+		"image_path": "/scan-content/Pies and Pastries - Apple Tort.jpg",
+		"text_path": "src/lib/data/html/Pies and Pastries - Apple Tort.html"
+	},
+	{
+		"category": "Pies and Pastries",
+		"recipe_name": "Black Forest Pie",
+		"image_path": "/scan-content/Pies and Pastries - Black Forest Pie.jpg",
+		"text_path": "src/lib/data/html/Pies and Pastries - Black Forest Pie.html"
+	},
+	{
+		"category": "Pies and Pastries",
+		"recipe_name": "Impossible Pie",
+		"image_path": "/scan-content/Pies and Pastries - Impossible Pie - Betty Ginnis.jpg",
+		"text_path": "src/lib/data/html/Pies and Pastries - Impossible Pie - Betty Ginnis.html",
+		"credit": "Betty Ginnis"
+	},
+	{
+		"category": "Pies and Pastries",
+		"recipe_name": "Lemon Snow Pie",
+		"image_path": "/scan-content/Pies and Pastries - Lemon Snow Pie.jpg",
+		"text_path": "src/lib/data/html/Pies and Pastries - Lemon Snow Pie.html"
+	},
+	{
+		"category": "Pies and Pastries",
+		"recipe_name": "Pumpkin Pie",
+		"image_path": "/scan-content/Pies and Pastries - Pumpkin Pie.jpg",
+		"text_path": "src/lib/data/html/Pies and Pastries - Pumpkin Pie.html"
+	},
+	{
+		"category": "Pies and Pastries",
+		"recipe_name": "Sour Cherry Pie and Pie Crust",
+		"image_path": "/scan-content/Pies and Pastries - Sour Cherry Pie and Pie Crust.jpg",
+		"text_path": "src/lib/data/html/Pies and Pastries - Sour Cherry Pie and Pie Crust.html"
+	},
+	{
+		"category": "Pies and Pastries",
+		"recipe_name": "Sour Cream Cocktail",
+		"image_path": "/scan-content/Pies and Pastries - Sour Cream Cocktail - Katherine Brownlee.jpg",
+		"text_path": "src/lib/data/html/Pies and Pastries - Sour Cream Cocktail - Katherine Brownlee.html",
+		"credit": "Katherine Brownlee"
+	},
+	{
+		"category": "Poultry",
+		"recipe_name": "Buttermilk Brined Turkey",
+		"image_path": "/scan-content/Poultry - Buttermilk Brined Turkey.jpg",
+		"text_path": "src/lib/data/html/Poultry - Buttermilk Brined Turkey.html"
+	},
+	{
+		"category": "Poultry",
+		"recipe_name": "Chicken Breasts in Sweet and Sour Dressing",
+		"image_path": "/scan-content/Poultry - Chicken Breasts in Sweet and Sour Dressing - Hilde Peterson.jpg",
+		"text_path": "src/lib/data/html/Poultry - Chicken Breasts in Sweet and Sour Dressing - Hilde Peterson.html",
+		"credit": "Hilde Peterson"
+	},
+	{
+		"category": "Poultry",
+		"recipe_name": "Chicken Salad Proven\u00e7al",
+		"image_path": "/scan-content/Poultry - Chicken Salad Proven\u00e7al.jpg",
+		"text_path": "src/lib/data/html/Poultry - Chicken Salad Proven\u00e7al.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "7 Layer Salad",
+		"image_path": "/scan-content/Salads and Dressings - 7 Layer Salad - Irene Bland.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - 7 Layer Salad - Irene Bland.html",
+		"credit": "Irene Bland"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Avocado Melon Salad with Picante Honey Dressing",
+		"image_path": "/scan-content/Salads and Dressings - Avocado Melon Salad with Picante Honey Dressing.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Avocado Melon Salad with Picante Honey Dressing.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Black Bean Summer Salad",
+		"image_path": "/scan-content/Salads and Dressings - Black Bean Summer Salad.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Black Bean Summer Salad.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Black Bean Corn and Squash Salad",
+		"image_path": "/scan-content/Salads and Dressings - BlackBean Corn and Squash Salad.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - BlackBean Corn and Squash Salad.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Bubbas Black Bean Salsa",
+		"image_path": "/scan-content/Salads and Dressings - Bubbas Black Bean Salsa.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Bubbas Black Bean Salsa.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Carrot Salad",
+		"image_path": "/scan-content/Salads and Dressings - Carrot Salad - Ina Garten.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Carrot Salad - Ina Garten.html",
+		"credit": "Ina Garten"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Ceaser Salad Dressing",
+		"image_path": "/scan-content/Salads and Dressings - Ceaser Salad Dressing.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Ceaser Salad Dressing.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Chinese Spaghetti Salad",
+		"image_path": "/scan-content/Salads and Dressings - Chinese Spaghetti Salad.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Chinese Spaghetti Salad.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Cobb Salad",
+		"image_path": "/scan-content/Salads and Dressings - Cobb Salad - Julia Child.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Cobb Salad - Julia Child.html",
+		"credit": "Julia Child"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Cucumber Salad",
+		"image_path": "/scan-content/Salads and Dressings - Cucumber Salad - Stefan Dressler.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Cucumber Salad - Stefan Dressler.html",
+		"credit": "Stefan Dressler"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Fruit Salad (1 of 2)",
+		"image_path": "/scan-content/Salads and Dressings - Fruit Salad - Judy Barker & Hilde Peterson.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Fruit Salad - Judy Barker & Hilde Peterson.html",
+		"credit": "Judy Barker & Hilde Peterson"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Fruit Salad (2 of 2)",
+		"image_path": "/scan-content/Salads and Dressings - Fruit Salad.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Fruit Salad.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Fruit Salad in Lemon Sauce",
+		"image_path": "/scan-content/Salads and Dressings - Fruit Salad in Lemon Sauce.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Fruit Salad in Lemon Sauce.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "German Potato Salad",
+		"image_path": "/scan-content/Salads and Dressings - German Potato Salad.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - German Potato Salad.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Greek Salad and Dressing",
+		"image_path": "/scan-content/Salads and Dressings - Greek Salad and Dressing.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Greek Salad and Dressing.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Japanese Napa Cabbage Salad",
+		"image_path": "/scan-content/Salads and Dressings - Japanese Napa Cabbage Salad - Lori Carlson.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Japanese Napa Cabbage Salad - Lori Carlson.html",
+		"credit": "Lori Carlson"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Mediterranean Pasta Salad",
+		"image_path": "/scan-content/Salads and Dressings - Mediterranean Pasta Salad.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Mediterranean Pasta Salad.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Mexican Cheese Salad",
+		"image_path": "/scan-content/Salads and Dressings - Mexican Cheese Salad - Irene Bland.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Mexican Cheese Salad - Irene Bland.html",
+		"credit": "Irene Bland"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Pepper Patch Salad",
+		"image_path": "/scan-content/Salads and Dressings - Pepper Patch Salad.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Pepper Patch Salad.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Rohkostplatte",
+		"image_path": "/scan-content/Salads and Dressings - Rohkostplatte.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Rohkostplatte.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Sour Cream and Cheddar Macaroni Salad",
+		"image_path": "/scan-content/Salads and Dressings - Sour Cream and Cheddar Macaroni Salad.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Sour Cream and Cheddar Macaroni Salad.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Spinach Salad",
+		"image_path": "/scan-content/Salads and Dressings - Spinach Salad - Hilde Peterson.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Spinach Salad - Hilde Peterson.html",
+		"credit": "Hilde Peterson"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Strawberry Layer Salad",
+		"image_path": "/scan-content/Salads and Dressings - Strawberry Layer Salad.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Strawberry Layer Salad.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "String Bean Salad",
+		"image_path": "/scan-content/Salads and Dressings - String Bean Salad.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - String Bean Salad.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Tabouli Salad",
+		"image_path": "/scan-content/Salads and Dressings - Tabouli Salad.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Tabouli Salad.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Wilted Lettuce",
+		"image_path": "/scan-content/Salads and Dressings - Wilted Lettuce.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Wilted Lettuce.html"
+	},
+	{
+		"category": "Salads and Dressings",
+		"recipe_name": "Zuchinni Tomato Salad",
+		"image_path": "/scan-content/Salads and Dressings - Zuchinni Tomato Salad - Lydia.jpg",
+		"text_path": "src/lib/data/html/Salads and Dressings - Zuchinni Tomato Salad - Lydia.html",
+		"credit": "Lydia"
+	},
+	{
+		"category": "Sauces",
+		"recipe_name": "B\u00e9arnaise Sauce",
+		"image_path": "/scan-content/Sauces - B\u00e9arnaise Sauce.jpg",
+		"text_path": "src/lib/data/html/Sauces - B\u00e9arnaise Sauce.html"
+	},
+	{
+		"category": "Sauces",
+		"recipe_name": "Classic Swiss Three Cheese Fondue",
+		"image_path": "/scan-content/Sauces - Classic Swiss Three Cheese Fondue.jpg",
+		"text_path": "src/lib/data/html/Sauces - Classic Swiss Three Cheese Fondue.html"
+	},
+	{
+		"category": "Sauces",
+		"recipe_name": "Homemade Cocktail Sauce",
+		"image_path": "/scan-content/Sauces - Homemade Cocktail Sauce.jpg",
+		"text_path": "src/lib/data/html/Sauces - Homemade Cocktail Sauce.html"
+	},
+	{
+		"category": "Sauces",
+		"recipe_name": "Homemade Mayonnaise",
+		"image_path": "/scan-content/Sauces - Homemade Mayonnaise.jpg",
+		"text_path": "src/lib/data/html/Sauces - Homemade Mayonnaise.html"
+	},
+	{
+		"category": "Sauces",
+		"recipe_name": "Tzatziki",
+		"image_path": "/scan-content/Sauces - Tzatziki.jpg",
+		"text_path": "src/lib/data/html/Sauces - Tzatziki.html"
+	},
+	{
+		"category": "Seafood",
+		"recipe_name": "Clam Bake",
+		"image_path": "/scan-content/Seafood - Clam Bake.jpg",
+		"text_path": "src/lib/data/html/Seafood - Clam Bake.html"
+	},
+	{
+		"category": "Seafood",
+		"recipe_name": "Fresh Bourbon Marinated Atlantic Salmon",
+		"image_path": "/scan-content/Seafood - Fish Fresh Bourbon Marinated Atlantic Salmon.jpg",
+		"text_path": "src/lib/data/html/Seafood - Fish Fresh Bourbon Marinated Atlantic Salmon.html"
+	},
+	{
+		"category": "Seafood",
+		"recipe_name": "Linguini with Clam Sauce",
+		"image_path": "/scan-content/Seafood - Linguini with Clam Sauce.jpg",
+		"text_path": "src/lib/data/html/Seafood - Linguini with Clam Sauce.html"
+	},
+	{
+		"category": "Seafood",
+		"recipe_name": "Pan Seared Shrimp",
+		"image_path": "/scan-content/Seafood - Pan Seared Shrimp.jpg",
+		"text_path": "src/lib/data/html/Seafood - Pan Seared Shrimp.html"
+	},
+	{
+		"category": "Seafood",
+		"recipe_name": "Shrimp served with Rice",
+		"image_path": "/scan-content/Seafood - Shrimp served with Rice.jpg",
+		"text_path": "src/lib/data/html/Seafood - Shrimp served with Rice.html"
+	},
+	{
+		"category": "Seafood",
+		"recipe_name": "Spinach and Scallops",
+		"image_path": "/scan-content/Seafood - Spinach and Scallops.jpg",
+		"text_path": "src/lib/data/html/Seafood - Spinach and Scallops.html"
+	},
+	{
+		"category": "Seafood",
+		"recipe_name": "Stuffed Flounder",
+		"image_path": "/scan-content/Seafood - Stuffed Flounder.jpg",
+		"text_path": "src/lib/data/html/Seafood - Stuffed Flounder.html"
+	},
+	{
+		"category": "Seafood",
+		"recipe_name": "Thai Noodle Shrimp",
+		"image_path": "/scan-content/Seafood - Thai Noodle Shrimp.jpg",
+		"text_path": "src/lib/data/html/Seafood - Thai Noodle Shrimp.html"
+	},
+	{
+		"category": "Soups and Sandwiches",
+		"recipe_name": "Avegolemono Soup",
+		"image_path": "/scan-content/Soups and Sandwiches - Avegolemono Soup - Pam and Trudi.jpg",
+		"text_path": "src/lib/data/html/Soups and Sandwiches - Avegolemono Soup - Pam and Trudi.html",
+		"credit": "Pam and Trudi"
+	},
+	{
+		"category": "Soups and Sandwiches",
+		"recipe_name": "Bohnensuppe",
+		"image_path": "/scan-content/Soups and Sandwiches - Bohnensuppe - Omi.jpg",
+		"text_path": "src/lib/data/html/Soups and Sandwiches - Bohnensuppe - Omi.html",
+		"credit": "Omi"
+	},
+	{
+		"category": "Soups and Sandwiches",
+		"recipe_name": "Chicken and Dumplings",
+		"image_path": "/scan-content/Soups and Sandwiches - Chicken and Dumplings.jpg",
+		"text_path": "src/lib/data/html/Soups and Sandwiches - Chicken and Dumplings.html"
+	},
+	{
+		"category": "Soups and Sandwiches",
+		"recipe_name": "Cream of Leek and Potato Soup",
+		"image_path": "/scan-content/Soups and Sandwiches - Cream of Leek and Potato Soup.jpg",
+		"text_path": "src/lib/data/html/Soups and Sandwiches - Cream of Leek and Potato Soup.html"
+	},
+	{
+		"category": "Soups and Sandwiches",
+		"recipe_name": "Gazpacho",
+		"image_path": "/scan-content/Soups and Sandwiches - Gazpacho.jpg",
+		"text_path": "src/lib/data/html/Soups and Sandwiches - Gazpacho.html"
+	},
+	{
+		"category": "Soups and Sandwiches",
+		"recipe_name": "Heather's Vegetable Soup",
+		"image_path": "/scan-content/Soups and Sandwiches - Heather's Vegetable Soup.jpg",
+		"text_path": "src/lib/data/html/Soups and Sandwiches - Heather's Vegetable Soup.html"
+	},
+	{
+		"category": "Soups and Sandwiches",
+		"recipe_name": "Mushroom Soup",
+		"image_path": "/scan-content/Soups and Sandwiches - Mushroom Soup - Elaine Dreier.jpg",
+		"text_path": "src/lib/data/html/Soups and Sandwiches - Mushroom Soup - Elaine Dreier.html",
+		"credit": "Elaine Dreier"
+	},
+	{
+		"category": "Soups and Sandwiches",
+		"recipe_name": "Mushroom and Rice Soup",
+		"image_path": "/scan-content/Soups and Sandwiches - Mushroom and Rice Soup.jpg",
+		"text_path": "src/lib/data/html/Soups and Sandwiches - Mushroom and Rice Soup.html"
+	},
+	{
+		"category": "Soups and Sandwiches",
+		"recipe_name": "Sausage, White Bean, and Swiss Chard Soup",
+		"image_path": "/scan-content/Soups and Sandwiches - Sausage, White Bean, and Swiss Chard Soup.jpg",
+		"text_path": "src/lib/data/html/Soups and Sandwiches - Sausage, White Bean, and Swiss Chard Soup.html"
+	},
+	{
+		"category": "Soups and Sandwiches",
+		"recipe_name": "Taco Soup",
+		"image_path": "/scan-content/Soups and Sandwiches - Taco Soup - Barbara Froemming.jpg",
+		"text_path": "src/lib/data/html/Soups and Sandwiches - Taco Soup - Barbara Froemming.html",
+		"credit": "Barbara Froemming"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Annie's Sweet Potatoes",
+		"image_path": "/scan-content/Vegetables - Annie's Sweet Potatoes.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Annie's Sweet Potatoes.html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Baked Asparagus with Butter Sauce",
+		"image_path": "/scan-content/Vegetables - Baked Asparagus with Butter Sauce.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Baked Asparagus with Butter Sauce.html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Breakfast Quesadillas",
+		"image_path": "/scan-content/Vegetables - Breakfast Quesadillas.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Breakfast Quesadillas.html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Candied Sweet Potatoes",
+		"image_path": "/scan-content/Vegetables - Candied Sweet Potatoes.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Candied Sweet Potatoes.html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Caramelized Onion Mashed Potatoes",
+		"image_path": "/scan-content/Vegetables - Caramelized Onion Mashed Potatoes.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Caramelized Onion Mashed Potatoes.html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Chinese Slaw",
+		"image_path": "/scan-content/Vegetables - Chinese Slaw.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Chinese Slaw.html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Corn Souffle",
+		"image_path": "/scan-content/Vegetables - Corn Souffle - Hilde Peterson.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Corn Souffle - Hilde Peterson.html",
+		"credit": "Hilde Peterson"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Easy Garden Bake",
+		"image_path": "/scan-content/Vegetables - Easy Garden Bake.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Easy Garden Bake.html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "German Potato Salad",
+		"image_path": "/scan-content/Vegetables - German Potato Salad - Claudia Twarski.jpg",
+		"text_path": "src/lib/data/html/Vegetables - German Potato Salad - Claudia Twarski.html",
+		"credit": "Claudia Twarski"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "German Sauerkraut (1 of 2)",
+		"image_path": "/scan-content/Vegetables - German Sauerkraut (1 of 2).jpg",
+		"text_path": "src/lib/data/html/Vegetables - German Sauerkraut (1 of 2).html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "German Sauerkraut (2 of 2)",
+		"image_path": "/scan-content/Vegetables - German Sauerkraut (2 of 2).jpg",
+		"text_path": "src/lib/data/html/Vegetables - German Sauerkraut (2 of 2).html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Hash Brown Scallop Potatoes",
+		"image_path": "/scan-content/Vegetables - Hash Brown Scallop Potatoes.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Hash Brown Scallop Potatoes.html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Heavenly Potatoes",
+		"image_path": "/scan-content/Vegetables - Heavenly Potatoes.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Heavenly Potatoes.html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Latvian Potato Salad",
+		"image_path": "/scan-content/Vegetables - Latvian Potato Salad.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Latvian Potato Salad.html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Le Brie Cream Sauce and Asparagus",
+		"image_path": "/scan-content/Vegetables - Le Brie Cream Sauce and Asparagus.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Le Brie Cream Sauce and Asparagus.html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Mashed Potatoes",
+		"image_path": "/scan-content/Vegetables - Mashed Potatoes.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Mashed Potatoes.html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Paula Dean's Zucchini Custard Bake",
+		"image_path": "/scan-content/Vegetables - Paula Dean's Zucchini Custard Bake.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Paula Dean's Zucchini Custard Bake.html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Peterson's Portabella Mushrooms",
+		"image_path": "/scan-content/Vegetables - Peterson's Portabella Mushrooms - De Palmas.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Peterson's Portabella Mushrooms - De Palmas.html",
+		"credit": "De Palmas"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Potatoes Gnocchi",
+		"image_path": "/scan-content/Vegetables - Potatoes Gnocchi.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Potatoes Gnocchi.html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Potatoes Savoyarde",
+		"image_path": "/scan-content/Vegetables - Potatoes Savoyarde.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Potatoes Savoyarde.html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Sauerkraut",
+		"image_path": "/scan-content/Vegetables - Sauerkraut - Claudia Twarski.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Sauerkraut - Claudia Twarski.html",
+		"credit": "Claudia Twarski"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Scalloped Creamed Potatoes",
+		"image_path": "/scan-content/Vegetables - Scalloped Creamed Potatoes.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Scalloped Creamed Potatoes.html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Schwammerl Gulasch (Mushroom Goulasch)",
+		"image_path": "/scan-content/Vegetables - Schwammerl Gulasch (Mushroom Goulasch) - Renate Neuber.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Schwammerl Gulasch (Mushroom Goulasch) - Renate Neuber.html",
+		"credit": "Renate Neuber"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Shredded Cabbage",
+		"image_path": "/scan-content/Vegetables - Shredded Cabbage - Omi.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Shredded Cabbage - Omi.html",
+		"credit": "Omi"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Summer Potato Salad",
+		"image_path": "/scan-content/Vegetables - Summer Potato Salad - Gerry Edwards.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Summer Potato Salad - Gerry Edwards.html",
+		"credit": "Gerry Edwards"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Summer Squash Tart with Olives",
+		"image_path": "/scan-content/Vegetables - Summer Squash Tart with Olives.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Summer Squash Tart with Olives.html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Vegetable Pita Pizzas",
+		"image_path": "/scan-content/Vegetables - Vegetable Pita Pizzas.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Vegetable Pita Pizzas.html"
+	},
+	{
+		"category": "Vegetables",
+		"recipe_name": "Zucchini Canoes",
+		"image_path": "/scan-content/Vegetables - Zucchini Canoes.jpg",
+		"text_path": "src/lib/data/html/Vegetables - Zucchini Canoes.html"
+	}
+]

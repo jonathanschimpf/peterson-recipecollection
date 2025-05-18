@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Peterson Recipe Collection</title>
+		<meta
+			name="description"
+			content="A nostalgic archive of handwritten and printed recipes, continuously collected and preserved by the Peterson family since the 1980s. Digitized by scanning & OCR-GPT-transcribed in 2024–2025."
+		/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+
+		<!-- FAVICONS -->
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+		<link rel="manifest" href="/site.webmanifest" />
+		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+
+		<!-- PRELOAD HERO IMAGES -->
+		<link rel="preload" as="image" href="/photographs/kitchen-tall.png" />
+		<link rel="preload" as="image" href="/photographs/categories-overhead.png" />
+
+		<!-- OPEN GRAPH -->
+		<meta property="og:title" content="Peterson Recipe Collection" />
+		<meta
+			property="og:description"
+			content="A nostalgic archive of handwritten and printed recipes, continuously collected and preserved by the Peterson family since the 1980s. Digitized by scanning & OCR-GPT-transcribed in 2024–2025."
+		/>
+		<meta property="og:image" content="/og-image.png?v=5" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="https://petersonrecipecollection.netlify.app" />
+
+		%sveltekit.head%
+	</head>
+
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+</html>
