@@ -1017,12 +1017,6 @@
 	},
 	{
 		"category": "Salads and Dressings",
-		"recipe_name": "German Potato Salad",
-		"image_path": "/scan-content/Salads and Dressings - German Potato Salad.jpg",
-		"text_path": "src/lib/data/html/Salads and Dressings - German Potato Salad.html"
-	},
-	{
-		"category": "Salads and Dressings",
 		"recipe_name": "Greek Salad and Dressing",
 		"image_path": "/scan-content/Salads and Dressings - Greek Salad and Dressing.jpg",
 		"text_path": "src/lib/data/html/Salads and Dressings - Greek Salad and Dressing.html"
