@@ -11,8 +11,10 @@
 	let scrollContainer: HTMLDivElement | null = null;
 	let modalEl: HTMLDivElement | null = null;
 
+	// RESET ZOOM WHEN MODAL CLOSES
 	$: if (!isOpen) zoomed = false;
 
+	// APPLY BODY CLASSES ONLY IN BROWSER
 	$: if (browser) {
 		if (isOpen) {
 			document.body.classList.add('no-scroll');
@@ -21,6 +23,7 @@
 		}
 	}
 
+	// CLEANUP ON DESTROY
 	onDestroy(() => {
 		if (browser) {
 			document.body.classList.remove('no-scroll');
@@ -28,10 +31,12 @@
 		}
 	});
 
+	// INERT ATTRIBUTE FOR ACCESSIBILITY
 	$: if (browser && modalEl) {
 		modalEl.inert = !isOpen;
 	}
 
+	// TOGGLE ZOOM AND CENTER IMAGE ON ZOOM-IN
 	async function toggleZoom() {
 		zoomed = !zoomed;
 		await tick();
@@ -113,6 +118,7 @@
 		z-index: 1000;
 		padding: 2rem;
 	}
+
 	.modal-content {
 		position: relative;
 		background: white;
@@ -122,12 +128,14 @@
 		max-height: 70vh;
 		overflow: hidden;
 	}
+
 	@media (max-width: 768px) {
 		.modal-content {
 			max-width: 98vw !important;
 			max-height: 98vh !important;
 		}
 	}
+
 	.scroll-container {
 		max-width: 65vw;
 		max-height: 65vh;
@@ -135,15 +143,18 @@
 		cursor: grab;
 		border-radius: 4px;
 	}
+
 	@media (max-width: 768px) {
 		.scroll-container {
 			max-width: 98vw !important;
 			max-height: 98vh !important;
 		}
 	}
+
 	.scroll-container:active {
 		cursor: grabbing;
 	}
+
 	.close-btn {
 		position: absolute;
 		top: 1rem;
@@ -154,17 +165,21 @@
 		color: black;
 		cursor: pointer;
 	}
+
 	.close-btn:hover,
 	.close-btn:active {
 		color: lightgrey;
 	}
+
 	.image-wrapper {
 		outline: none;
 	}
+
 	.image-wrapper:focus {
 		outline: 2px solid #ccc;
 		border-radius: 4px;
 	}
+
 	.scan-img {
 		display: block;
 		max-width: 100%;
@@ -175,8 +190,15 @@
 		transition: transform 0.2s ease;
 		user-select: none;
 	}
+
 	.zoomed {
 		transform: scale(2);
-		transform-origin: top left;
+		transform-origin: center center;
+	}
+
+	/* DISABLE ZOOM AND SCROLL GESTURES ON BODY WHEN MODAL IS OPEN */
+	:global(body.no-scroll) {
+		overflow: hidden;
+		touch-action: none;
 	}
 </style>
