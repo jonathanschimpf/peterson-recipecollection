@@ -1,10 +1,10 @@
 # 🥘 Peterson Recipe Collection 🥘
 
-A nostalgic archive of handwritten and printed recipes, continuously collected and preserved by the Peterson family since the 1980s. Digitized by scanning & OCR-GPT-transcribed in 2024–2025. Built with SvelteKit to preserve the charm of the originals in a clean, modern interface.
+AA nostalgic archive of handwritten and printed recipes, continuously collected and preserved by the Peterson family since the 1980s. Digitized by scanning & OCR-GPT-transcribed in 2024-2025. Built with SvelteKit to preserve the charm of the originals in a clean, modern interface.
 
-Carefully organized for fast browsing, smooth zooming, and a scan transcription for each recipe — this project blends nostalgia with responsive design to honor decades of meals and memories.
+Carefully organized for fast browsing, smooth zooming, and paired scans and transcriptions — this project blends nostalgia with responsive mobile-first design to honor decades of meals and memories.
 
-The 'About' section will be updated to include some backstory soon.
+An 'About' section with more backstory is coming soon.
 
 ---
 
