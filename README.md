@@ -43,6 +43,8 @@ An 'About' section with more backstory is coming soon.
 
 ---
 
+## ✍️ README co-authored by a GPT — just like the recipe transcriptions.
+
 ✨ A GPT helped write this README — because it’s 2025.  
 🔗 [petersonrecipecollection.netlify.app](https://petersonrecipecollection.netlify.app)
 
