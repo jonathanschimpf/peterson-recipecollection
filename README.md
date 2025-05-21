@@ -4,7 +4,7 @@ A nostalgic archive of handwritten and printed recipes, continuously collected a
 
 Carefully organized for fast browsing, smooth zooming, and paired scans and transcriptions — this project blends nostalgia with responsive, mobile-first design to honor decades of meals and memories.
 
-An 'About' section with more backstory is coming soon.
+An 'About' section with more backstory will be updated soon.
 
 ---
 
