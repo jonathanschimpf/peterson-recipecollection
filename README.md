@@ -46,8 +46,8 @@ An 'About' section with more backstory is coming soon.
 ## 📸 Preview
 
 <p align="center">
-  <img src="/photographs/kitchen-tall-READMEmd.png" width="300" alt="Recipe Box" style="margin-right: 16px;">
-  <img src="/photographs/categories-overhead-READMEmd.png" width="300" alt="Categorized Cards">
+  <img src="static/photographs/kitchen-tall-READMEmd.png" width="300" alt="Recipe Box" style="margin-right: 16px;">
+  <img src="static/photographs/categories-overhead-READMEmd.png" width="300" alt="Categorized Cards">
 </p>
 <p align="center">
   <em>The original recipe box, now digitally preserved — carefully categorized since the mid-80s</em>
