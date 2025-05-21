@@ -45,11 +45,13 @@ An 'About' section with more backstory is coming soon.
 
 ## 📸 Preview
 
-![Recipe Box](static/photographs/kitchen-tall-READMEmd.png)
-*The original recipe box, now digitally preserved*
-
-![Live Recipe Page](static/photographs/categories-overhead-READMEmd.png)
-*Carefully categorized since the mid-80s*
+<p align="center">
+  <img src="/photographs/kitchen-tall-READMEmd.png" width="300" alt="Recipe Box" style="margin-right: 16px;">
+  <img src="/photographs/categories-overhead-READMEmd.png" width="300" alt="Categorized Cards">
+</p>
+<p align="center">
+  <em>The original recipe box, now digitally preserved — carefully categorized since the mid-80s</em>
+</p>
 
 ---
 
