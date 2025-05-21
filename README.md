@@ -43,6 +43,16 @@ An 'About' section with more backstory is coming soon.
 
 ---
 
+## 📸 Preview
+
+![Recipe Box](/photographs/kitchen-tall.png)
+*The original recipe box, now digitally preserved*
+
+![Live Recipe Page](/photographs/categories-overhead.png)
+*Carefully categorized since the mid-80s*
+
+---
+
 ## ✍️ README co-authored by a GPT — just like the recipe transcriptions.
 
 ✨ A GPT helped write this README — because it’s 2025.  
