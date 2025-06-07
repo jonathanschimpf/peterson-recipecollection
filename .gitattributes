@@ -1,0 +1,2 @@
+# Tell GitHub Linguist to ignore transcribed HTML files for language stats
+src/lib/data/html/*.html linguist-documentation
